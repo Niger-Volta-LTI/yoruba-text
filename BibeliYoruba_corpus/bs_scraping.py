@@ -1,5 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
+import time
+import os
 
 bib_books = dict()
 bib_books['GEN'] = 50  # GEN.1.BMY --> GEN.50.BMY
@@ -73,7 +75,7 @@ prefix = "https://www.bible.com/bible/911/"
 
 def bible_strings():
     for book in bib_books:
-        print(book, bib_books[book])
+        # print(book, bib_books[book])
         for chapter in range(1, bib_books[book]+1):
             url_string = prefix + book + "." + str(chapter) + ".BMY"
             # print(url_string)
@@ -89,23 +91,25 @@ def scrape_chapter(url):
     heading = soup.find_all('span', attrs={'class': 'heading'})
     # grab chapter heading
     try:
-        text += heading[0].contents[0] + "\n"
+        text += heading[0].contents[0] + "."  # do we need headings, should these go to their own file?
     except IndexError:
-        print("IndexError @  " + url)
+        # print("IndexError @  " + url)
         text = ""
 
     for verse in soup.find_all('span', attrs={'class': 'content'}):
         utt = verse.contents[0]
         if len(utt) > 0:
-            text += utt + "\n"
+            text += utt + " "  # iohavoc -- get rid of this
 
     return text
 
-with open("bibeli_ede_yoruba.txt", 'w', encoding='utf-8') as f:
-    for url_string in bible_strings():
+
+for url_string in bible_strings():
+    with open("chapters/bibeli_ede_yoruba_" + os.path.basename(url_string) + ".txt", 'w', encoding='utf-8') as f:
         print("Scraping: " + url_string)
         blurb = scrape_chapter(url=url_string)
         f.write(blurb)
+        #time.sleep(5.5)
 
 # url_string = "https://www.bible.com/bible/911/2PE.1.BMY"
 # print(scrape_chapter(url=url_string))
