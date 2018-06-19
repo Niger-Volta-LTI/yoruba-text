@@ -14,10 +14,19 @@ def convert_to_NFC(filename, outfilename):
  * [Lagos-NWU conversational corpus](https://rma.nwu.ac.za/index.php/lagos-nwu-yoruba-speech.html)
  * [Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní](https://www.bible.com/bible/911/GEN.1.BMY)
  * [The Yorùbá blog](http://www.theyorubablog.com/)
+ *  
+ * [BBC Yorùbá](https://www.bbc.com/yoruba)
  * [Yorùbá for Academic Purpose](http://yorubaforacademicpurpose.blogspot.com/2015/12/english-yoruba.html)
  * [Yobá mọ oduá](http://yobamoodua.blogspot.com/)
  * [Àwa Ẹlẹ́rìí Jèhófà](https://www.jw.org/yo/)
- * http://www.coerll.utexas.edu/yemi/pdfs/yy_ch1.pdf
+ * [Orí Kìíní](http://www.coerll.utexas.edu/yemi/pdfs/yy_ch1.pdf)
+ * [Iwé ti Nicé](http://www.marysrosaries.com/Yoruba_prayers.html)
+ * [Alákọ̀wé](https://alakoweyoruba.wordpress.com)
+ * [lds.org](https://www.lds.org/scriptures/bofm/omni/1?lang=yor)
+ * [Èdè Yorùbá Rẹwà](https://deskgram.org/edeyorubarewa?next_id=AQA-hhLOHTv02hOmeFZYMwuXESc0pSjLfeoqBnn9c8E9PqjS2Cc377K8LwCs9TJ_nQxTdctbrw6eANdrITY5DtJ4N7HhCD00geW4pnB7Z2bLLw)
+ * [Ìmọ̀_Ẹ̀rọ](https://yo.wikipedia.org/wiki/%C3%8Cm%E1%BB%8D%CC%80_%E1%BA%B8%CC%80r%E1%BB%8D)
+ * [ọ̀rọ̀yorùbá](https://oroyoruba.blogspot.com)
+ * [Wikipedia](https://yo.wikipedia.org/wiki/Koisaanu)
  
 #### Social Media sources:
  * https://twitter.com/yobamoodua
@@ -28,3 +37,4 @@ Text has been gathered with permission from online sources, and lightly preproce
 
 ## Resources
  * https://clas.uiowa.edu/dwllc/allnet/yoruba-language-and-culture-resources
+ * https://glosbe.com/yo/en
