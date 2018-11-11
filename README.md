@@ -30,6 +30,7 @@ def convert_to_NFC(filename, outfilename):
  
 #### Social Media sources:
  * https://twitter.com/yobamoodua
+ * https://twitter.com/yoruba_proverbs
  * https://www.facebook.com/oweyoruba
 
 Text has been gathered with permission from online sources, and lightly preprocessed for use in NLP, TTS, ASR applications. Note, some of the sentences may have errors, please submit a pull-request if you have corrections! 
