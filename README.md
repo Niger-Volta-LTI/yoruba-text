@@ -27,6 +27,7 @@ def convert_to_NFC(filename, outfilename):
  * [Ìmọ̀_Ẹ̀rọ](https://yo.wikipedia.org/wiki/%C3%8Cm%E1%BB%8D%CC%80_%E1%BA%B8%CC%80r%E1%BB%8D)
  * [ọ̀rọ̀yorùbá](https://oroyoruba.blogspot.com)
  * [Wikipedia](https://yo.wikipedia.org/wiki/Koisaanu)
+ * [Asubiaro, T., Adegbola, T., Mercer, R. and Ajiferuke, I. (2018). A Word-Level Language Identification Strategy for Resource-Scarce Languages](https://github.com/Toluwase/Word-Level-Language-Identification-for-Resource-Scarce-)
  
 #### Social Media sources:
  * https://twitter.com/yobamoodua
