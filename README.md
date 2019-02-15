@@ -14,6 +14,7 @@ def convert_to_NFC(filename, outfilename):
  * [Lagos-NWU conversational corpus](https://rma.nwu.ac.za/index.php/lagos-nwu-yoruba-speech.html)
  * [Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní](https://www.bible.com/bible/911/GEN.1.BMY)
  * [The Yorùbá blog](http://www.theyorubablog.com/)
+ * [Asubiaro, T., Adegbola, T., Mercer, R. and Ajiferuke, I. (2018). A Word-Level Language Identification Strategy for Resource-Scarce Languages](https://github.com/Toluwase/Word-Level-Language-Identification-for-Resource-Scarce-)
  *  
  * [BBC Yorùbá](https://www.bbc.com/yoruba)
  * [Yorùbá for Academic Purpose](http://yorubaforacademicpurpose.blogspot.com/2015/12/english-yoruba.html)
@@ -27,7 +28,7 @@ def convert_to_NFC(filename, outfilename):
  * [Ìmọ̀_Ẹ̀rọ](https://yo.wikipedia.org/wiki/%C3%8Cm%E1%BB%8D%CC%80_%E1%BA%B8%CC%80r%E1%BB%8D)
  * [ọ̀rọ̀yorùbá](https://oroyoruba.blogspot.com)
  * [Wikipedia](https://yo.wikipedia.org/wiki/Koisaanu)
- * [Asubiaro, T., Adegbola, T., Mercer, R. and Ajiferuke, I. (2018). A Word-Level Language Identification Strategy for Resource-Scarce Languages](https://github.com/Toluwase/Word-Level-Language-Identification-for-Resource-Scarce-)
+
  
 #### Social Media sources:
  * https://twitter.com/yobamoodua
