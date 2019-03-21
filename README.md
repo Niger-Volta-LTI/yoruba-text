@@ -14,8 +14,10 @@ def convert_to_NFC(filename, outfilename):
  * [Lagos-NWU conversational corpus](https://rma.nwu.ac.za/index.php/lagos-nwu-yoruba-speech.html)
  * [Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní](https://www.bible.com/bible/911/GEN.1.BMY)
  * [The Yorùbá blog](http://www.theyorubablog.com/)
- * [Asubiaro, T., Adegbola, T., Mercer, R. and Ajiferuke, I. (2018). A Word-Level Language Identification Strategy for Resource-Scarce Languages](https://github.com/Toluwase/Word-Level-Language-Identification-for-Resource-Scarce-)
- *  
+ * [Asubiaro, T., Adegbola, T. et al. (2018). A Word-Level Language Identification Strategy for Resource-Scarce Languages](https://github.com/Toluwase/Word-Level-Language-Identification-for-Resource-Scarce-)
+ 
+ 
+ #### Sources yet to be scraped and cleaned
  * [BBC Yorùbá](https://www.bbc.com/yoruba)
  * [Yorùbá for Academic Purpose](http://yorubaforacademicpurpose.blogspot.com/2015/12/english-yoruba.html)
  * [Yobá mọ oduá](http://yobamoodua.blogspot.com/)
