@@ -1,6 +1,6 @@
-Text in this corpus is taken from two different versions of the Bible:
+Text has been sourced from two different versions of the Bible:
 
-1. [Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní](https://www.bible.com/versions/911-ycb-bibeli-mimo-ni-ede-yoruba-de-ni)
+ * Biblica &rarr; [Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní](https://www.bible.com/versions/911-ycb-bibeli-mimo-ni-ede-yoruba-de-ni)
 
    Ajọ Biblica, The International Bible Society, ń pèsè ọ̀rọ̀ Ọlọ́run fún àwọn ènìyàn nípa títúmọ̀, 
    títa Bíbélì jáde jákèjádò orílẹ̀-èdè Afíríkà, Asia, Pacific, Europe, Latin America, Middle East 
@@ -9,7 +9,7 @@ Text in this corpus is taken from two different versions of the Bible:
    
    Our [research](https://www.biblica.com/bible/) has confirmed this translation corresponds to the [New International Version](https://en.wikipedia.org/wiki/New_International_Version) (NIV).
    
-2. [Yorùbá Bible](https://www.bible.com/versions/207-bm-yoruba-bible)
+ * BSN &rarr; [Yorùbá Bible](https://www.bible.com/versions/207-bm-yoruba-bible)
  
    This translation, published by the Bible Society of Nigeria (BSN), was published in 2010. 
    If you are interested in obtaining a printed copy, please contact the Bible Society of Nigeria at 
