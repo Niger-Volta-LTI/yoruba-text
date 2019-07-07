@@ -1,0 +1,2 @@
+The creeper is destroying itself, but it thinks it is destroying its host.
+The host's death will be the parasite's death.
