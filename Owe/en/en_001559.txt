@@ -1,0 +1,2 @@
+The path along which a log will be rolled must be made wide enough.
+One should make provisions adequate for the task ahead.

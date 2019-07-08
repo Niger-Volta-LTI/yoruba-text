@@ -1,0 +1,2 @@
+Padlocks do not share their secrets with one another.
+Some secrets one should not divulge to others.
