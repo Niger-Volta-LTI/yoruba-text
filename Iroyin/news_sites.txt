@@ -640,356 +640,356 @@ Bí ọ̀rọ̀ kan bá délẹ̀ nípa iṣẹ́ ìlú, wọn máa ń rúnpá-r
 Síwájú sí i, oríṣìíríṣìí ọ̀nà tí ó bá òde òní mu ni wọ́n ti là sí àárín ilú láìní ọwọ́ ìjọba kankan nínú fún ìdàgbàsókè àti ìlọsíwájú ìlú wọn. 
 Fún àpẹẹrẹ Ilé - Ẹ̀kọ́ gíga (Grammar Schoo) méji tí ó wà ní ilú náà, òógùn ojú wọn ni wọ́n fi kọ̀ wọn, bẹ́ẹ̀ náà ni Modern School wọn. 
 Ọjà ilú, ilé-ìfìwé rànṣẹ́ àti gbàngàn ìlú ti o nà wọn tó àádọ́ta àbọ̀ ọ̀kẹ́ naira: Àwọn ọ̀nà títí tí wọ́n bójú mu tí wọ́n sì bá ti òde òní mu náà ni wọ́n ti fi òógùn ojú wọn là láìsí ìrànlọ́wọ́ ìjọba kankan.
-Adébáyọ̀ Fálétí, ògúná gbòngbò ti ó gbé èdè àti àṣà Yorùbá lárugẹ jade láyé.
-Àwọn iwé ìròyìn gbe jade wi pé Adébáyọ̀ Fálétí, ògúná gbòngbò ninú àwọn ti ó gbé èdè àti àṣà Yorùbá lárugẹ ni àgbáyé, re ibi àgbà nrè ni ọjọ́ ìsimi ọjọ́ kẹtàlélógún, oṣù keje, ọdún Ẹgbàálémẹ́tàdinlógún.  
-Ọmọ ọdún mẹrindinlaadọrun ni olóògbé Fálétí ki wọn tó jade láyé.
-Ni ìgbá ayé olóògbé Adébáyọ̀ Fálétí, ó jẹ́ ìkan ninú àwọn òṣìṣẹ́ àkọ́kọ́ ni ilé iṣẹ́ amóhùn-máwòrán àkọ́kọ́ ni ilẹ̀ Aláwọ̀dúdú ti wọn dá sílẹ̀ ni Ìbàdàn ti ó jẹ́ olú ilú ẹ̀yà Yorùbá ni ìwọ̀ oòrùn orílẹ̀ èdè Nigeria.  
-Ó gbé èdè Yorùbá lárugẹ nipa ṣi ṣe iṣẹ́ ìtumọ̀ èdè Gẹ̀ẹ́sì si èdè Yorùbá, ó kọ ìwé itumọ̀ ọ̀rọ̀ nipa li lo orúkọ Yorùbá.  
-Kò tán síbẹ, oníròyìn ni, ó fi eré ìtàgé gbé èdè Yorùbá lárugẹ nipa di dá ẹgbẹ́ ọ̀dọ́ Ọ̀yọ́ fún ìgbéga eré ìtàgé silẹ̀ ni ọdún mejidinlaadọrin sẹhin.  
-Lára àwọn eré Yorùbá ti olóògbé Adébáyọ̀ Fálétí kọ, ti ó si ṣe ni “Mágùn, Àfọ̀njá, Baṣọ̀run Gáà àti bẹ́ ẹ̀ bẹ́ ẹ́ lọ.
+Adébáyọ̀ Fálétí, ògúná gbòngbò ti ó gbé èdè àti àṣà Yorùbá lárugẹ jade láyé.
+Àwọn iwé ìròyìn gbe jade wi pé Adébáyọ̀ Fálétí, ògúná gbòngbò ninú àwọn ti ó gbé èdè àti àṣà Yorùbá lárugẹ ni àgbáyé, re ibi àgbà nrè ni ọjọ́ ìsimi ọjọ́ kẹtàlélógún, oṣù keje, ọdún Ẹgbàálémẹ́tàdinlógún.  
+Ọmọ ọdún mẹrindinlaadọrun ni olóògbé Fálétí ki wọn tó jade láyé.
+Ni ìgbá ayé olóògbé Adébáyọ̀ Fálétí, ó jẹ́ ìkan ninú àwọn òṣìṣẹ́ àkọ́kọ́ ni ilé iṣẹ́ amóhùn-máwòrán àkọ́kọ́ ni ilẹ̀ Aláwọ̀dúdú ti wọn dá sílẹ̀ ni Ìbàdàn ti ó jẹ́ olú ilú ẹ̀yà Yorùbá ni ìwọ̀ oòrùn orílẹ̀ èdè Nigeria.  
+Ó gbé èdè Yorùbá lárugẹ nipa ṣi ṣe iṣẹ́ ìtumọ̀ èdè Gẹ̀ẹ́sì si èdè Yorùbá, ó kọ ìwé itumọ̀ ọ̀rọ̀ nipa li lo orúkọ Yorùbá.  
+Kò tán síbẹ, oníròyìn ni, ó fi eré ìtàgé gbé èdè Yorùbá lárugẹ nipa di dá ẹgbẹ́ ọ̀dọ́ Ọ̀yọ́ fún ìgbéga eré ìtàgé silẹ̀ ni ọdún mejidinlaadọrin sẹhin.  
+Lára àwọn eré Yorùbá ti olóògbé Adébáyọ̀ Fálétí kọ, ti ó si ṣe ni “Mágùn, Àfọ̀njá, Baṣọ̀run Gáà àti bẹ́ ẹ̀ bẹ́ ẹ́ lọ.
 
-Ẹ̀kọ́ pọ̀ fún ọ̀dọ́ ayé òde òní lati kọ́ lára ìgbésí ayé olóògbé Adébáyọ̀ Fálétí.  
-Lára ẹ̀kọ́ yi ni wi pe, ìwé kí kà ṣe pàtàkì, bi kò ti ẹ̀ si ìrànlọ́wọ́ lati ka ìwé ni ọmọdé, bi enia bá ka ìwé ni àgbà yio wúlò.  
-Olóògbé Adébáyọ̀ Fálétí padà si ilé-ìwé  lati lọ pari ìwé mẹfa ti ó dá dúró nigbati kó si agbára fún bàbá rẹ.  
-Lẹhin eyi ó fi àgbà ara ka ìwé ni ilé-ìwé ẹ̀kọ́ giga.  
-Ó gbé ìgbésí ayé rere nipa ìtọ́jú àwọn ọmọ àti ìyàwó, ó si fún àwọn ọmọ ni ẹ̀kọ́ ilé àti ti ilé-ìwé.
+Ẹ̀kọ́ pọ̀ fún ọ̀dọ́ ayé òde òní lati kọ́ lára ìgbésí ayé olóògbé Adébáyọ̀ Fálétí.  
+Lára ẹ̀kọ́ yi ni wi pe, ìwé kí kà ṣe pàtàkì, bi kò ti ẹ̀ si ìrànlọ́wọ́ lati ka ìwé ni ọmọdé, bi enia bá ka ìwé ni àgbà yio wúlò.  
+Olóògbé Adébáyọ̀ Fálétí padà si ilé-ìwé  lati lọ pari ìwé mẹfa ti ó dá dúró nigbati kó si agbára fún bàbá rẹ.  
+Lẹhin eyi ó fi àgbà ara ka ìwé ni ilé-ìwé ẹ̀kọ́ giga.  
+Ó gbé ìgbésí ayé rere nipa ìtọ́jú àwọn ọmọ àti ìyàwó, ó si fún àwọn ọmọ ni ẹ̀kọ́ ilé àti ti ilé-ìwé.
 
-Fún àwon iṣẹ́ ribiribi yi, olóògbé Adébáyọ̀ Fálétí gba ọ̀pọ̀lọpọ̀ ẹ̀bùn àpínfún ni orilẹ̀ èdè Nigeria àti ni òkè-òkun.
-Ẹ jẹ ki a gbé èdè àti àṣà Yorùbá Lárugẹ
-Ìpínlẹ̀ Èkó ṣe Àjọyọ̀ Ìdásílẹ̀ Àádọ́ta Ọdún
-Ìjọba-àpapọ̀ sọ Èkó di ìpínlẹ̀ ni àádọ́ta ọdún sẹhin.  
-Èkó jẹ́ olú ilú fún gbogbo orilẹ̀ èdè Nigeria tẹ́lẹ̀ ki wọn tó gbe lọ si Abuja.  
-Ìpínlẹ̀ Èkó jẹ ikan ninú ipinle mẹ́fà Yorùbá.
+Fún àwon iṣẹ́ ribiribi yi, olóògbé Adébáyọ̀ Fálétí gba ọ̀pọ̀lọpọ̀ ẹ̀bùn àpínfún ni orilẹ̀ èdè Nigeria àti ni òkè-òkun.
+Ẹ jẹ ki a gbé èdè àti àṣà Yorùbá Lárugẹ
+Ìpínlẹ̀ Èkó ṣe Àjọyọ̀ Ìdásílẹ̀ Àádọ́ta Ọdún
+Ìjọba-àpapọ̀ sọ Èkó di ìpínlẹ̀ ni àádọ́ta ọdún sẹhin.  
+Èkó jẹ́ olú ilú fún gbogbo orilẹ̀ èdè Nigeria tẹ́lẹ̀ ki wọn tó gbe lọ si Abuja.  
+Ìpínlẹ̀ Èkó jẹ ikan ninú ipinle mẹ́fà Yorùbá.
 
-Yorùbá ni “Èkó gba olè, ó gba ọlẹ”, ọ̀rọ̀ yi jẹ wi pé kò si irú ẹni ti ko si ni ìpínlẹ̀ Èkó nitori Èkó gba olówó, ó si gba aláini àti wi pé iṣẹ́ pọ̀ ni Èkó ju gbogbo ìpínlẹ̀ yoku lo.  
-Kò si ẹ̀yà tàbi ẹ̀sìn Nigeria ti kò si ni Èkó.  Nitori èyi èrò pọ̀ jù ilẹ̀ lọ nitori omi ló yi Èkó ká.
+Yorùbá ni “Èkó gba olè, ó gba ọlẹ”, ọ̀rọ̀ yi jẹ wi pé kò si irú ẹni ti ko si ni ìpínlẹ̀ Èkó nitori Èkó gba olówó, ó si gba aláini àti wi pé iṣẹ́ pọ̀ ni Èkó ju gbogbo ìpínlẹ̀ yoku lo.  
+Kò si ẹ̀yà tàbi ẹ̀sìn Nigeria ti kò si ni Èkó.  Nitori èyi èrò pọ̀ jù ilẹ̀ lọ nitori omi ló yi Èkó ká.
 
 
-Èkó ṣe àjọ̀dún lóri agbami – Lagos celebrate on the Ocean
+Èkó ṣe àjọ̀dún lóri agbami – Lagos celebrate on the Ocean
 
-Àwọn Gómìnà ti ó ti jẹ lati ìgbà ti wọn ti dá ìpínlẹ̀ Èkó silẹ̀ ni wọnyi:
+Àwọn Gómìnà ti ó ti jẹ lati ìgbà ti wọn ti dá ìpínlẹ̀ Èkó silẹ̀ ni wọnyi:
 
-Gómìnà Kini – Ọ̀gágun Àgbà Mobọ́lájí Johnson – Gómìnà fún ọdún mẹjọ – àádọ́ta ọdún si ọdún méjìlélógójì sẹhin
-Gómìnà Keji – Gómìnà Ori Omi Adékúnlé Lawal – Gómìnà fún ọdún méjilá – ọdún mejilélógójì titi di ogóji ọdún sẹhin
-Gómìnà Kẹta – Ọ̀gágun Ori Omi Ndubuisi Kanu – Gómìnà fún ọdún kan – ogójì ọdún titi di ọdún mọ́kàndinlógójì sẹhin
-Gómìnà kẹrin – Ọ̀gágun Ori Omi Ebitu Ukiwe – Gómìnà fún ọdún kan – ọdún mọ́kàndinlógóji titi di ọdún méjidinlógóji sẹhin
-Gómìnà Karun – Alhaji Lateef Jakande – Gómìnà Ìjọba Alágbádá fún ọdún mẹrin – lati ọdú́n mejidinlogoji titi di ọdún merinlelogbon sẹhin
-Gómìnà Kẹfà – Ọ̀gágun Òfúrufú – Gbọ́láhàn Múdàṣírù – Gómìnà fún ọdún meji – ọdú́n mẹ́tàlélogbon di ọdún mọ́kànlélọ́gbọ̀n
-Gómìnà Keje – Ọ̀gá Adarioko Ojúomi Mike Akhigbe – Gómìnà fún ọdún meji – ọdú́n mọ́kànlélọ́gbọ̀n di ọdún mọ́kàndinlọ́gbọ̀n sẹhin
-Gómìnà Kẹjọ – Ọ̀gágun Àgbà Rájí Ràsákì – Gómìnà fún ọdún mẹrin – ọdú́n mọ́kàndinlọgbọn di ọdú́n márùndinlọ́gbọ́n sẹhin
-Gómìnà Kẹsan – Ọ̀gá Michael Ọ̀tẹ́dọlá – Gómìnà fún ọdún kan àti oṣù mẹwa – ọdú́n márùndinlọ́gbọ́n titi di ọdún mẹ́rinlélógún sẹhin
-Gómìnà Kẹwa – Ọ̀gágun Ọlágúnsóyè Oyinlọlá – Gómìnà fún ọdún meta – ọdún mẹ́rinlélógún di ọdún mọ́kànlélógún sẹhin
-Gómìnà Kọkànlá – Ọ̀gágun Mohammed Buba Marwa – Gómìnà fún ọdún mẹ́ta – ọdún mọ́kànlélógún di ọdún mejidinlógún sẹhin.
-Gómìnà Kejilá – Ọ̀gbẹ́ni Bọla Ahmed Tinubu – Gómìnà Ìjọba Alágbádá fún ọdún mẹjọ – ọdún mejidinlógún titi di ọdún mẹwa sẹhin
-Gómìnà Kẹtàlá – Ọ̀gbẹ́ni Babátúndé Rájí Fáṣọlá – Gómìnà Ìjọba Alágbádá fún ọdún mẹ́jọ – ọdún mẹwa titi di ọdún meji sẹhin
-Gómìnà Kẹrinlá – Ọ̀gbẹ́ni Akínwùnmí Ambọde – Gómìnà lọ́wọ́lọ́wọ́ lati ọdún meji titi di òni
+Gómìnà Kini – Ọ̀gágun Àgbà Mobọ́lájí Johnson – Gómìnà fún ọdún mẹjọ – àádọ́ta ọdún si ọdún méjìlélógójì sẹhin
+Gómìnà Keji – Gómìnà Ori Omi Adékúnlé Lawal – Gómìnà fún ọdún méjilá – ọdún mejilélógójì titi di ogóji ọdún sẹhin
+Gómìnà Kẹta – Ọ̀gágun Ori Omi Ndubuisi Kanu – Gómìnà fún ọdún kan – ogójì ọdún titi di ọdún mọ́kàndinlógójì sẹhin
+Gómìnà kẹrin – Ọ̀gágun Ori Omi Ebitu Ukiwe – Gómìnà fún ọdún kan – ọdún mọ́kàndinlógóji titi di ọdún méjidinlógóji sẹhin
+Gómìnà Karun – Alhaji Lateef Jakande – Gómìnà Ìjọba Alágbádá fún ọdún mẹrin – lati ọdú́n mejidinlogoji titi di ọdún merinlelogbon sẹhin
+Gómìnà Kẹfà – Ọ̀gágun Òfúrufú – Gbọ́láhàn Múdàṣírù – Gómìnà fún ọdún meji – ọdú́n mẹ́tàlélogbon di ọdún mọ́kànlélọ́gbọ̀n
+Gómìnà Keje – Ọ̀gá Adarioko Ojúomi Mike Akhigbe – Gómìnà fún ọdún meji – ọdú́n mọ́kànlélọ́gbọ̀n di ọdún mọ́kàndinlọ́gbọ̀n sẹhin
+Gómìnà Kẹjọ – Ọ̀gágun Àgbà Rájí Ràsákì – Gómìnà fún ọdún mẹrin – ọdú́n mọ́kàndinlọgbọn di ọdú́n márùndinlọ́gbọ́n sẹhin
+Gómìnà Kẹsan – Ọ̀gá Michael Ọ̀tẹ́dọlá – Gómìnà fún ọdún kan àti oṣù mẹwa – ọdú́n márùndinlọ́gbọ́n titi di ọdún mẹ́rinlélógún sẹhin
+Gómìnà Kẹwa – Ọ̀gágun Ọlágúnsóyè Oyinlọlá – Gómìnà fún ọdún meta – ọdún mẹ́rinlélógún di ọdún mọ́kànlélógún sẹhin
+Gómìnà Kọkànlá – Ọ̀gágun Mohammed Buba Marwa – Gómìnà fún ọdún mẹ́ta – ọdún mọ́kànlélógún di ọdún mejidinlógún sẹhin.
+Gómìnà Kejilá – Ọ̀gbẹ́ni Bọla Ahmed Tinubu – Gómìnà Ìjọba Alágbádá fún ọdún mẹjọ – ọdún mejidinlógún titi di ọdún mẹwa sẹhin
+Gómìnà Kẹtàlá – Ọ̀gbẹ́ni Babátúndé Rájí Fáṣọlá – Gómìnà Ìjọba Alágbádá fún ọdún mẹ́jọ – ọdún mẹwa titi di ọdún meji sẹhin
+Gómìnà Kẹrinlá – Ọ̀gbẹ́ni Akínwùnmí Ambọde – Gómìnà lọ́wọ́lọ́wọ́ lati ọdún meji titi di òni
 
-Yàtọ̀ si ìgbà Ìjọba Ológun, Èkó gbádùn ìdúróṣinṣin ni àsìkò Ìjọba Alágbádá tàbi Ìjọba Tiwantiwa lati ọdún kẹtàdínlógún sẹhin.  
-Eyi jẹ ki ipinle Èkó mókè ju gbogbo ìpínlẹ̀ yókù lọ.
-Ìnáwó rẹpẹtẹ ni ìsìnkú arúgbó jẹ́ ni ilé Yorùbá.  
-Bi arúgbó bá kú ni ilé Yorùbá ki ṣe òkú ọ̀fọ̀ ṣùgbọ́n òkú ijọ àti ji jẹ, mi mu ni pàtàki bi irú arúgbó bá bi àwọn ọmọ ti ó ti dàgbà.  
-Gbogbo ẹbi, ará àti ilú yi ó parapọ̀ lati ṣe ẹ̀yẹ ikẹhin fún irú arúgbó bẹ́ ẹ̀.  
-Àwọn ọmọ àti ọmọ-ọmọ yi o ṣe oriṣiriṣi ẹ̀yẹ ìbílẹ̀ fún ọ̀pọ̀lọpọ̀ ọjọ́ lati gbé ìyá tàbi àgbà bàbá àgbà relé. 
-Bi eléré ìbílẹ̀ kan ti nlọ ni òmíràn yio de, eleyi lo njẹ́ ki ilú kékeré dùn. 
-A o ṣe àpẹrẹ àṣà ìsìnkú ìbílẹ̀ fún arúgbó pẹ̀lú ni Ìbòròpa Àkókó ilú Yorùbá ni ẹ̀gbẹ́ Ìkàrẹ́-Àkókó ti Ipinle Ondo, orile-ede Nigeria.
-Oríkì* jẹ ọ̀rọ̀ ìwúrí ti Yorùbá ma nlò lati fi sọ ìtàn àṣà àti ìṣe ìdílé lati ìran dé ìran.  
-Ninú oríkì ni a ti lè mọ ìtàn ìṣẹ̀dálẹ̀ ẹbí ẹni àti ohun ti a mọ ìdílé mọ́, bí i irú iṣẹ ti wọn nṣe ni ìdílé, oriṣiriṣi èdè ìbílẹ̀ Yorùbá, oúnjẹ ti wọn njẹ àti èyí ti wọn ki i jẹ, ẹ̀sìn ìdílé, àdúgbò ti wọ́n tẹ̀dó si tàbi ìlú ti a ti ṣẹ̀ wá, àṣeyọrí ti wọn ti ṣe ni ìran ẹni àti bẹ́ ẹ̀ bẹ́ ẹ̀ lọ.
+Yàtọ̀ si ìgbà Ìjọba Ológun, Èkó gbádùn ìdúróṣinṣin ni àsìkò Ìjọba Alágbádá tàbi Ìjọba Tiwantiwa lati ọdún kẹtàdínlógún sẹhin.  
+Eyi jẹ ki ipinle Èkó mókè ju gbogbo ìpínlẹ̀ yókù lọ.
+Ìnáwó rẹpẹtẹ ni ìsìnkú arúgbó jẹ́ ni ilé Yorùbá.  
+Bi arúgbó bá kú ni ilé Yorùbá ki ṣe òkú ọ̀fọ̀ ṣùgbọ́n òkú ijọ àti ji jẹ, mi mu ni pàtàki bi irú arúgbó bá bi àwọn ọmọ ti ó ti dàgbà.  
+Gbogbo ẹbi, ará àti ilú yi ó parapọ̀ lati ṣe ẹ̀yẹ ikẹhin fún irú arúgbó bẹ́ ẹ̀.  
+Àwọn ọmọ àti ọmọ-ọmọ yi o ṣe oriṣiriṣi ẹ̀yẹ ìbílẹ̀ fún ọ̀pọ̀lọpọ̀ ọjọ́ lati gbé ìyá tàbi àgbà bàbá àgbà relé. 
+Bi eléré ìbílẹ̀ kan ti nlọ ni òmíràn yio de, eleyi lo njẹ́ ki ilú kékeré dùn. 
+A o ṣe àpẹrẹ àṣà ìsìnkú ìbílẹ̀ fún arúgbó pẹ̀lú ni Ìbòròpa Àkókó ilú Yorùbá ni ẹ̀gbẹ́ Ìkàrẹ́-Àkókó ti Ipinle Ondo, orile-ede Nigeria.
+Oríkì* jẹ ọ̀rọ̀ ìwúrí ti Yorùbá ma nlò lati fi sọ ìtàn àṣà àti ìṣe ìdílé lati ìran dé ìran.  
+Ninú oríkì ni a ti lè mọ ìtàn ìṣẹ̀dálẹ̀ ẹbí ẹni àti ohun ti a mọ ìdílé mọ́, bí i irú iṣẹ ti wọn nṣe ni ìdílé, oriṣiriṣi èdè ìbílẹ̀ Yorùbá, oúnjẹ ti wọn njẹ àti èyí ti wọn ki i jẹ, ẹ̀sìn ìdílé, àdúgbò ti wọ́n tẹ̀dó si tàbi ìlú ti a ti ṣẹ̀ wá, àṣeyọrí ti wọn ti ṣe ni ìran ẹni àti bẹ́ ẹ̀ bẹ́ ẹ̀ lọ.
 
-Ni inú oríkì ti a ó bẹ̀rẹ̀ si i kọ, a ó ri àpẹrẹ ohun ti Yorùbá ṣe ma a nsọ oríkì pàtàki fún iwuri nigbati ọkùnrin, obinrin, ọmọdé àti ẹbí ẹni bá ṣe ohun rere bi ìṣílé, ìgbéyàwó, àṣeyorí ni ilé-iwé, oyè jijẹ tàbi ni ayé òde òni, àjọyọ̀ ọjọ́ ìbí.
+Ni inú oríkì ti a ó bẹ̀rẹ̀ si i kọ, a ó ri àpẹrẹ ohun ti Yorùbá ṣe ma a nsọ oríkì pàtàki fún iwuri nigbati ọkùnrin, obinrin, ọmọdé àti ẹbí ẹni bá ṣe ohun rere bi ìṣílé, ìgbéyàwó, àṣeyorí ni ilé-iwé, oyè jijẹ tàbi ni ayé òde òni, àjọyọ̀ ọjọ́ ìbí.
 
-Oríkì jẹ ikan ninú àṣà Yorùbá ti ó ti nparẹ́, nitori ọ̀pọ̀lọpọ̀ ọmọ Yorùbá bẹ̀rẹ̀ si kọ èdè àti àṣà wọn sílẹ̀ fún èdè Gẹ̀ẹ́sí.  
-Ẹ ṣe àyẹ̀wò àpẹrẹ oríkì ti ìyá Olùkọ̀wé yi sọ fún ni ibi ayẹyẹ ọjọ́ ìbí rẹ̀ ni ojú ìwé yi.  A ó bẹ̀rẹ̀ si kọ oríkì oriṣiriṣi ìdílé Yorùbá.
-Ọmọ ẹlẹ́ja ò tú mù kẹkẹ
+Oríkì jẹ ikan ninú àṣà Yorùbá ti ó ti nparẹ́, nitori ọ̀pọ̀lọpọ̀ ọmọ Yorùbá bẹ̀rẹ̀ si kọ èdè àti àṣà wọn sílẹ̀ fún èdè Gẹ̀ẹ́sí.  
+Ẹ ṣe àyẹ̀wò àpẹrẹ oríkì ti ìyá Olùkọ̀wé yi sọ fún ni ibi ayẹyẹ ọjọ́ ìbí rẹ̀ ni ojú ìwé yi.  A ó bẹ̀rẹ̀ si kọ oríkì oriṣiriṣi ìdílé Yorùbá.
+Ọmọ ẹlẹ́ja ò tú mù kẹkẹ
 Ọmọ a mẹ́ja yan ẹja
-Ọmọ ò sùn mẹ́gbẹ̀wá ti dọ̀ ara rẹ̀
-Ọmọ gbàsè gbàsè kẹ́ ṣọbinrin lọyin
-Ọmọ kai, eó gbé si yàn ún
-Ọmọ a mú gbìrín eó b’ọ̀dìdẹ̀
-Ìṣò mó bọ, òwíyé wàarè
-Ọmọ adáṣọ bù á lẹ̀ jẹ
-Ọmọ a má bẹ̀rẹ̀ gúnyán k’àdó gbèrìgbè mọ mọ̀
-Ọmọ a yan eó meka run
-Ọmọ a mẹ́ kìka kàn yan ẹsinsun t’ọrẹ
-É e ṣojú un ríro, ìṣẹ̀dálẹ̀ rin ni
-Ọmọ a mi malu ṣ’ọdún ìgbàgbọ́
-Ọmọ elési a gbàrùnbọ̀ morun
-Ọmọ elési a gbàdá mo yóko
-Èsì li sunkún ètìtù kọ gbà àrán bora li Gèsan Ọba
-Ọmọ Olígèsan òròrò bílẹ̀
-Ọmọ alábùṣọrọ̀, a múṣu mọdi
-Àbùṣọrọ̀ lu lé uṣu, mọ́ m’ẹ́ùrà kàn kàn dé bẹ̀
-Kare o ‘Lúàmi, ku ọdún oni o, è í ra ṣàṣe mọ ri a (Àṣẹ)
-Ni ìgbà àtijọ́, ọkùnrin kan wa ti orúkọ rẹ njẹ́ Ìgbéraga.  
-Wọ́n bi Ìgbéraga si ilé olórogún, àwọn ìyàwó bàbá́ rẹ yoku ni ó tọ nitori ìyá rẹ kú nigbati ó wà ni kékeré.  
-Lẹhin ti o tiraka lati pari iwé mẹ́fà, gẹ́gẹ́ bi ọ̀dọ́, ó gbéra lọ si ilú Èkó nibiti ó ti bẹ̀rẹ̀ iṣẹ́ pẹ̀lú ilé-iṣẹ́ Ẹlẹ́ja.
+Ọmọ ò sùn mẹ́gbẹ̀wá ti dọ̀ ara rẹ̀
+Ọmọ gbàsè gbàsè kẹ́ ṣọbinrin lọyin
+Ọmọ kai, eó gbé si yàn ún
+Ọmọ a mú gbìrín eó b’ọ̀dìdẹ̀
+Ìṣò mó bọ, òwíyé wàarè
+Ọmọ adáṣọ bù á lẹ̀ jẹ
+Ọmọ a má bẹ̀rẹ̀ gúnyán k’àdó gbèrìgbè mọ mọ̀
+Ọmọ a yan eó meka run
+Ọmọ a mẹ́ kìka kàn yan ẹsinsun t’ọrẹ
+É e ṣojú un ríro, ìṣẹ̀dálẹ̀ rin ni
+Ọmọ a mi malu ṣ’ọdún ìgbàgbọ́
+Ọmọ elési a gbàrùnbọ̀ morun
+Ọmọ elési a gbàdá mo yóko
+Èsì li sunkún ètìtù kọ gbà àrán bora li Gèsan Ọba
+Ọmọ Olígèsan òròrò bílẹ̀
+Ọmọ alábùṣọrọ̀, a múṣu mọdi
+Àbùṣọrọ̀ lu lé uṣu, mọ́ m’ẹ́ùrà kàn kàn dé bẹ̀
+Kare o ‘Lúàmi, ku ọdún oni o, è í ra ṣàṣe mọ ri a (Àṣẹ)
+Ni ìgbà àtijọ́, ọkùnrin kan wa ti orúkọ rẹ njẹ́ Ìgbéraga.  
+Wọ́n bi Ìgbéraga si ilé olórogún, àwọn ìyàwó bàbá́ rẹ yoku ni ó tọ nitori ìyá rẹ kú nigbati ó wà ni kékeré.  
+Lẹhin ti o tiraka lati pari iwé mẹ́fà, gẹ́gẹ́ bi ọ̀dọ́, ó gbéra lọ si ilú Èkó nibiti ó ti bẹ̀rẹ̀ iṣẹ́ pẹ̀lú ilé-iṣẹ́ Ẹlẹ́ja.
 
-Ó nṣe dáradára ni ibi iṣẹ́ ki ó tó gbọ́ ìròyìn ikú bàbá rẹ.  
-Ìgbéraga pinu lati padà si ilú rẹ lati gba ogún ti ó tọ́ si lára oko kòkó rẹpẹtẹ ti bàbá rẹ fi silẹ̀.  
-Ohun fúnra rẹ ra oko kún oko bàbá rẹ ti wọn pín fun.  
-Ó di ẹni ti ó ri ṣe ju àwọn ọmọ bàbá rẹ yoku.  Eyi jẹ ki gbogbo àwọn ọbàkan rẹ gbójú le fún ìrànlọ́wọ́.
+Ó nṣe dáradára ni ibi iṣẹ́ ki ó tó gbọ́ ìròyìn ikú bàbá rẹ.  
+Ìgbéraga pinu lati padà si ilú rẹ lati gba ogún ti ó tọ́ si lára oko kòkó rẹpẹtẹ ti bàbá rẹ fi silẹ̀.  
+Ohun fúnra rẹ ra oko kún oko bàbá rẹ ti wọn pín fun.  
+Ó di ẹni ti ó ri ṣe ju àwọn ọmọ bàbá rẹ yoku.  Eyi jẹ ki gbogbo àwọn ọbàkan rẹ gbójú le fún ìrànlọ́wọ́.
 
-Ni igbà ti ó yá, o ni ilé àti ọlà ju gbogbo àwọn yoku ni abúlé ṣùgbọ́n kò to, ó bẹ̀rẹ̀ si ra oko si titi dé oko àwọn ọmọ bàbá rẹ yoku.  
-Eyi jẹ́ ki ó sọ àwọn ọmọ bàbá rẹ yoku di alágbàṣe ni oko ti wọn jogún.  
-Inú àwọn ọmọ bàbá rẹ wọnyi kò dùn si wi pé wọn ti di atọrọjẹ àti alágbàṣe fún àbúrò wọn ninú ilé ara wọn.
+Ni igbà ti ó yá, o ni ilé àti ọlà ju gbogbo àwọn yoku ni abúlé ṣùgbọ́n kò to, ó bẹ̀rẹ̀ si ra oko si titi dé oko àwọn ọmọ bàbá rẹ yoku.  
+Eyi jẹ́ ki ó sọ àwọn ọmọ bàbá rẹ yoku di alágbàṣe ni oko ti wọn jogún.  
+Inú àwọn ọmọ bàbá rẹ wọnyi kò dùn si wi pé wọn ti di atọrọjẹ àti alágbàṣe fún àbúrò wọn ninú ilé ara wọn.
 
-Yorùbá ni “Àṣejù Baba Àṣetẹ́”. 
-Ìgbéraga bẹ̀rẹ̀ si ṣe àṣejù, kò dúró lati má a fi ọrọ̀ rẹ yangà si gbogbo ará ilú pàtàki si àwọn ẹ̀gbọ́n rẹ, ó jọ ara rẹ lójú, ó si nsọ ọ̀rọ̀ lai ronú tàbi gba ikilọ̀ àwọn àgbà ti wọn mọ ìbẹ̀rẹ̀ rẹ.  
-Kò mọ̀ wi pé ohun ngbẹ́ ikòtò ìṣubú fún ara rẹ́.  
-Ni ọjọ́ kan, ó pe ọ̀kan ninú àwọn ẹ̀gbọ́n rẹ ti ó sọ di alágbàṣe ninú oko rẹ tẹ́lẹ̀ ó si bu, ó pe e ni aláìní dé ojú rẹ.  
-Ẹ̀gbọ́n ké pẹ̀lú omijé lójú pé “Bi ó bá jẹ ìwọ ni Ọlọrun, ma ṣe iwà burúkú yi lọ, ṣùgbọ́n bi ó bá jẹ́ enia bi ti òhun, wà á ká ohun ti o gbin yi”.
-Ni àárọ̀ ọjọ́ kan, Ìgbéraga ji ṣùgbọ́n kò lè di de nitori ó ti yarọ.  
-Wọ́n gbe kiri titi fún itọ́jú ṣùgbọ́n asán ló já si.  
-Ìṣòro yi jẹ ki ó ta gbogbo ohun ini rẹ ti ó fi nyangàn titi o fi di atọrọjẹ.
+Yorùbá ni “Àṣejù Baba Àṣetẹ́”. 
+Ìgbéraga bẹ̀rẹ̀ si ṣe àṣejù, kò dúró lati má a fi ọrọ̀ rẹ yangà si gbogbo ará ilú pàtàki si àwọn ẹ̀gbọ́n rẹ, ó jọ ara rẹ lójú, ó si nsọ ọ̀rọ̀ lai ronú tàbi gba ikilọ̀ àwọn àgbà ti wọn mọ ìbẹ̀rẹ̀ rẹ.  
+Kò mọ̀ wi pé ohun ngbẹ́ ikòtò ìṣubú fún ara rẹ́.  
+Ni ọjọ́ kan, ó pe ọ̀kan ninú àwọn ẹ̀gbọ́n rẹ ti ó sọ di alágbàṣe ninú oko rẹ tẹ́lẹ̀ ó si bu, ó pe e ni aláìní dé ojú rẹ.  
+Ẹ̀gbọ́n ké pẹ̀lú omijé lójú pé “Bi ó bá jẹ ìwọ ni Ọlọrun, ma ṣe iwà burúkú yi lọ, ṣùgbọ́n bi ó bá jẹ́ enia bi ti òhun, wà á ká ohun ti o gbin yi”.
+Ni àárọ̀ ọjọ́ kan, Ìgbéraga ji ṣùgbọ́n kò lè di de nitori ó ti yarọ.  
+Wọ́n gbe kiri titi fún itọ́jú ṣùgbọ́n asán ló já si.  
+Ìṣòro yi jẹ ki ó ta gbogbo ohun ini rẹ ti ó fi nyangàn titi o fi di atọrọjẹ.
 
-Ẹ̀kọ́ ìtàn yi ni pe àṣejù ohunkóhun kò dára pàtàki ki enia gbójúlé ọrọ̀ ilé ayé bi ẹni pé àwọn ti ó kù kò mọ̀ ọ́ ṣe, nitori Yorùbá sọ wi pé “kìtà kìtà kò mọ́là, Ká ṣiṣẹ́ bi ẹrú kò da nkan, Ọlọrun ló ngbé ni ga”.
-Alágbàṣe ni oko Kòkó ti wọn jogún
+Ẹ̀kọ́ ìtàn yi ni pe àṣejù ohunkóhun kò dára pàtàki ki enia gbójúlé ọrọ̀ ilé ayé bi ẹni pé àwọn ti ó kù kò mọ̀ ọ́ ṣe, nitori Yorùbá sọ wi pé “kìtà kìtà kò mọ́là, Ká ṣiṣẹ́ bi ẹrú kò da nkan, Ọlọrun ló ngbé ni ga”.
+Alágbàṣe ni oko Kòkó ti wọn jogún
 
-Ẹ ṣe àyẹ̀wò ìwé akéwì-orin ni èdè Yorùbá ti àwọn ọmọ ilé-ìwé n kọ́ sórí ni ilé-ìwé ilẹ̀ Yorùbá ni ayé àtijọ:
-Iṣẹ́ ni oògùn ìṣẹ́, múra si iṣẹ́ rẹ ọ̀rẹ́ mi, iṣẹ́ ni a fi i di ẹni gíga
-Bí a kò bá rẹ́ni fẹ̀hìn tì, bí ọ̀lẹ là á rí
-Bí a kò bá rẹ́ni gbẹ́kẹ̀lé, à á tẹra mọ iṣẹ́ ẹni
-Ìyá rẹ lè lówó lọ́wọ́, Bàbá si lè lẹ́ṣin leekan
-Bí o bá́ gbójú lé wọn, o tẹ́ tán ni mo sọ fún ọ
-Ohun ti a kò bá jìyà fún kì í lè tọ́jọ́
-Ohun ti á fara ṣiṣẹ́ fún ní í pẹ́ lọ́wọ́ ẹni
-Apá lará, ìgunpá niyèkan
-Bí ayé n fẹ́ ọ loni, bí o bá lówó lọ́wọ́, ni wọn má a fẹ́ ọ lọla
-Tàbí tí o bá wà ní ipò àtàtà, ayé a yẹ́ ọ sí tẹ̀rín-tẹ̀rín
-Jẹ́ kí o di ẹni n rágó, kí o ri bí ayé ti n yínmú sí ọ
-Ẹ̀kọ́ sì tún n sọni dọ̀gá, mú́ra kí o kọ dáradára
-Bí o sì rí ọ̀pọ̀ ènìyàn, tí wọn fi ẹ̀kọ́ ṣe ẹ̀rín rín
-Dákun má ṣe fara wé wọn
-Ìyà n bọ̀ fọ́mọ tí kò gbọ́n, ẹkún n bẹ fọ́mọ tó n sá kiri
-Má fòwúrọ̀ ṣeré, ọ̀rẹ́ mi, múra sí iṣẹ́ ọjọ́ n lọ
-Ẹ kú àsikò yi o.  
-Bawo ni ipalẹ̀mọ́ ọdún Kérésìmesì àti ọdún titun?
+Ẹ ṣe àyẹ̀wò ìwé akéwì-orin ni èdè Yorùbá ti àwọn ọmọ ilé-ìwé n kọ́ sórí ni ilé-ìwé ilẹ̀ Yorùbá ni ayé àtijọ:
+Iṣẹ́ ni oògùn ìṣẹ́, múra si iṣẹ́ rẹ ọ̀rẹ́ mi, iṣẹ́ ni a fi i di ẹni gíga
+Bí a kò bá rẹ́ni fẹ̀hìn tì, bí ọ̀lẹ là á rí
+Bí a kò bá rẹ́ni gbẹ́kẹ̀lé, à á tẹra mọ iṣẹ́ ẹni
+Ìyá rẹ lè lówó lọ́wọ́, Bàbá si lè lẹ́ṣin leekan
+Bí o bá́ gbójú lé wọn, o tẹ́ tán ni mo sọ fún ọ
+Ohun ti a kò bá jìyà fún kì í lè tọ́jọ́
+Ohun ti á fara ṣiṣẹ́ fún ní í pẹ́ lọ́wọ́ ẹni
+Apá lará, ìgunpá niyèkan
+Bí ayé n fẹ́ ọ loni, bí o bá lówó lọ́wọ́, ni wọn má a fẹ́ ọ lọla
+Tàbí tí o bá wà ní ipò àtàtà, ayé a yẹ́ ọ sí tẹ̀rín-tẹ̀rín
+Jẹ́ kí o di ẹni n rágó, kí o ri bí ayé ti n yínmú sí ọ
+Ẹ̀kọ́ sì tún n sọni dọ̀gá, mú́ra kí o kọ dáradára
+Bí o sì rí ọ̀pọ̀ ènìyàn, tí wọn fi ẹ̀kọ́ ṣe ẹ̀rín rín
+Dákun má ṣe fara wé wọn
+Ìyà n bọ̀ fọ́mọ tí kò gbọ́n, ẹkún n bẹ fọ́mọ tó n sá kiri
+Má fòwúrọ̀ ṣeré, ọ̀rẹ́ mi, múra sí iṣẹ́ ọjọ́ n lọ
+Ẹ kú àsikò yi o.  
+Bawo ni ipalẹ̀mọ́ ọdún Kérésìmesì àti ọdún titun?
 
-Ni àsikò ọdún, ọ̀pọ̀lọpọ̀ ma nfi oúnjẹ  àjẹ jù àti ọti à mu para yọ ayọ̀ ọdún.  
-Ni òtitọ́, ará ilú nké pé kò si owó àti ọ̀wọ́n ọjà, nitori eyi ayé àjẹ jù le ma si, ṣùgbọ́n bi ẹlòmíràn kò ni owó, á gba àwin ọti pé àwọn fẹ́ fi pa irònú rẹ́.  
-Àwọn miran nlo egbò igi olóró ti á gbọ́ wi pé ó ti wọ́pọ̀ ni orilẹ̀ èdè Nigeria pàtàki laarin àwọn ọ̀dọ́.  
-À fọwọ́ fà ni gbogbo eyi.
-Kò si iyàtọ̀ laarin ọlọ́tí pẹ̀lú ẹni ti ó mu egbò igi olóró àti wèrè, nitori ihùwà ọlọ́ti àti ẹni lo oògùn olóró kò yàtọ̀ si ti wèrè bi wọn bá ti yó.  
-Bi ẹni ti ó mu àmu para àti ẹni lo egbò igi olóró bá wa ọkọ̀, àkóbá ni fún àwọn awakọ̀ yoku àti àwọn arin nà yoku.
+Ni àsikò ọdún, ọ̀pọ̀lọpọ̀ ma nfi oúnjẹ  àjẹ jù àti ọti à mu para yọ ayọ̀ ọdún.  
+Ni òtitọ́, ará ilú nké pé kò si owó àti ọ̀wọ́n ọjà, nitori eyi ayé àjẹ jù le ma si, ṣùgbọ́n bi ẹlòmíràn kò ni owó, á gba àwin ọti pé àwọn fẹ́ fi pa irònú rẹ́.  
+Àwọn miran nlo egbò igi olóró ti á gbọ́ wi pé ó ti wọ́pọ̀ ni orilẹ̀ èdè Nigeria pàtàki laarin àwọn ọ̀dọ́.  
+À fọwọ́ fà ni gbogbo eyi.
+Kò si iyàtọ̀ laarin ọlọ́tí pẹ̀lú ẹni ti ó mu egbò igi olóró àti wèrè, nitori ihùwà ọlọ́ti àti ẹni lo oògùn olóró kò yàtọ̀ si ti wèrè bi wọn bá ti yó.  
+Bi ẹni ti ó mu àmu para àti ẹni lo egbò igi olóró bá wa ọkọ̀, àkóbá ni fún àwọn awakọ̀ yoku àti àwọn arin nà yoku.
 
-Ki ọdún titun lè bá wa láyọ̀, ikilọ ni àsikò yi ni wi pé “Ki ẹni bá mú ọti tàbi ẹni tó lo egbò igi olóró ma ṣe wa ọkọ̀”.
-Ẹ kú ipalẹ̀mọ́ ọdún o.  
-Bi ọdún bá sún mọ́ etílé, oúnjẹ àti ohun èlò gbogbo maa nwọn nitori àwọn ọlọ́jà yio ti fi owó kún ọjà nitori èrò ti ó fẹ́ ra ọjà maa n pọ̀ si ni àsikò yi.  
-Pa pọ̀ mọ́ ipari ọdún ni àwọn ti ó fi ayẹyẹ iyàwó, òkú, ọdún Kérésìmesì àti ṣíṣe miràn si àsikò yi.
+Ki ọdún titun lè bá wa láyọ̀, ikilọ ni àsikò yi ni wi pé “Ki ẹni bá mú ọti tàbi ẹni tó lo egbò igi olóró ma ṣe wa ọkọ̀”.
+Ẹ kú ipalẹ̀mọ́ ọdún o.  
+Bi ọdún bá sún mọ́ etílé, oúnjẹ àti ohun èlò gbogbo maa nwọn nitori àwọn ọlọ́jà yio ti fi owó kún ọjà nitori èrò ti ó fẹ́ ra ọjà maa n pọ̀ si ni àsikò yi.  
+Pa pọ̀ mọ́ ipari ọdún ni àwọn ti ó fi ayẹyẹ iyàwó, òkú, ọdún Kérésìmesì àti ṣíṣe miràn si àsikò yi.
 
-Kò si ẹni ti kò ni nkankan.  
-Pé èniyàn ni ara li le tàbi ó lè jẹun, ó tó nkan.  
-Ilẹ̀ Yorùbá ni ohun ọrọ̀ ajé àti oúnjẹ ni oriṣiriṣi tẹ́lẹ̀, ṣùgbọ́n lati igbà ti Ìjọba àpapọ̀ ti da gbogbo ẹ̀yà orilẹ̀ èdè Nigeria pọ̀ ti wọn si bẹ̀rẹ̀ si pin owó epo rọ̀bì ni ìfẹ́ oúnjẹ àti ọjà òkèèrè/òkè-òkun ti sọ ọ̀pọ̀lọpọ̀ di ọ̀lẹ àti ẹni ti kò ni ìrònú.
-Àsikò tó lati ṣe àyípadà, ki a jẹ ohun ti a ba gbin ni ilẹ̀ wa, nitori owó epo rọ̀bì ti gbogbo ilú gbójúlé ti fidi janlẹ̀.  
-Ki owó epo rọ̀bì tó dé, a nfi ìrẹsì ṣe ọdún pàtàki fún àwọn ọmọdé, ṣùgbọ́n iresi ti wọn gbin ni ilẹ̀ wa ni a njẹ.  
-Bi a ra oúnjẹ ilẹ̀ wa dipò oúnjẹ òkè-òkun, àgbẹ̀ yi o ri owó, a o si mọ irú oúnjẹ ti a njẹ ju ìrẹsì oníke ti wọn nkó wọ ilú.
+Kò si ẹni ti kò ni nkankan.  
+Pé èniyàn ni ara li le tàbi ó lè jẹun, ó tó nkan.  
+Ilẹ̀ Yorùbá ni ohun ọrọ̀ ajé àti oúnjẹ ni oriṣiriṣi tẹ́lẹ̀, ṣùgbọ́n lati igbà ti Ìjọba àpapọ̀ ti da gbogbo ẹ̀yà orilẹ̀ èdè Nigeria pọ̀ ti wọn si bẹ̀rẹ̀ si pin owó epo rọ̀bì ni ìfẹ́ oúnjẹ àti ọjà òkèèrè/òkè-òkun ti sọ ọ̀pọ̀lọpọ̀ di ọ̀lẹ àti ẹni ti kò ni ìrònú.
+Àsikò tó lati ṣe àyípadà, ki a jẹ ohun ti a ba gbin ni ilẹ̀ wa, nitori owó epo rọ̀bì ti gbogbo ilú gbójúlé ti fidi janlẹ̀.  
+Ki owó epo rọ̀bì tó dé, a nfi ìrẹsì ṣe ọdún pàtàki fún àwọn ọmọdé, ṣùgbọ́n iresi ti wọn gbin ni ilẹ̀ wa ni a njẹ.  
+Bi a ra oúnjẹ ilẹ̀ wa dipò oúnjẹ òkè-òkun, àgbẹ̀ yi o ri owó, a o si mọ irú oúnjẹ ti a njẹ ju ìrẹsì oníke ti wọn nkó wọ ilú.
 
-Ki ṣe dandan ni ki a se ìrẹsì fún ọdún, a lè fi oúnjẹ ẹ̀yà miràn ṣe ọdún fún àwọn ọmọ.  
-Fún àpẹrẹ, Ìjẹ̀bú lè se ọbẹ̀ ẹ̀fọ́ rirò àti iyán dipò ìkọ́kọrẹ́ fún ọdún tàbi ki Èkìtì se ìkọ́kọrẹ́ fún ọdún dipò iyán àti ẹ̀fọ́ rirò àti bẹ́ ẹ̀ bẹ́ ẹ̀ lọ.  
-Ẹ jẹ́ ki a gbé oúnjẹ ilẹ̀ wa lárugẹ.
-Èsi ibò ti wọn di ni ilú Amẹ́rikà ni oṣù kọkànlá, ọjọ́ kẹjọ jade ni òru ọjọ́ kẹjọ mọ́jú ọjọ́ kẹsan ọdún Ẹgbàálémẹ́rindinlógún.   
-Àwọn mẹta ti ó gbé àpóti ibò fún ipò olóri òṣèlú ni, Hillary Clinton, obinrin àkọ́kọ́ lati dé irú ipò bẹ́ ẹ̀ fún ẹgbẹ́ (Democrat), Donald J. Trump, Oniṣòwò nlá ti kò ṣe iṣẹ́ Ìjọba kankan ri fún ẹgbẹ́ (Republican) àti Gary Johnson fún ẹgbẹ́ kẹta (Libertarian).
+Ki ṣe dandan ni ki a se ìrẹsì fún ọdún, a lè fi oúnjẹ ẹ̀yà miràn ṣe ọdún fún àwọn ọmọ.  
+Fún àpẹrẹ, Ìjẹ̀bú lè se ọbẹ̀ ẹ̀fọ́ rirò àti iyán dipò ìkọ́kọrẹ́ fún ọdún tàbi ki Èkìtì se ìkọ́kọrẹ́ fún ọdún dipò iyán àti ẹ̀fọ́ rirò àti bẹ́ ẹ̀ bẹ́ ẹ̀ lọ.  
+Ẹ jẹ́ ki a gbé oúnjẹ ilẹ̀ wa lárugẹ.
+Èsi ibò ti wọn di ni ilú Amẹ́rikà ni oṣù kọkànlá, ọjọ́ kẹjọ jade ni òru ọjọ́ kẹjọ mọ́jú ọjọ́ kẹsan ọdún Ẹgbàálémẹ́rindinlógún.   
+Àwọn mẹta ti ó gbé àpóti ibò fún ipò olóri òṣèlú ni, Hillary Clinton, obinrin àkọ́kọ́ lati dé irú ipò bẹ́ ẹ̀ fún ẹgbẹ́ (Democrat), Donald J. Trump, Oniṣòwò nlá ti kò ṣe iṣẹ́ Ìjọba kankan ri fún ẹgbẹ́ (Republican) àti Gary Johnson fún ẹgbẹ́ kẹta (Libertarian).
 
-Èsi ibò yi ya gbogbo àgbáyé lẹ́nu nitori àwọn ọ̀rọ̀ ti Donald Trump (Olóri ẹgbẹ́ GOP)  ti sọ siwájú nigbati ti ó polongo lati dé ipò.  
-Àwọn ọ̀rọ̀ iko rira wọnyi lòdi si àwọn obinrin, ẹ̀yà miran ti ó yàtọ̀ si ẹ̀yà rẹ, àlejò, ẹlẹ́sin Mùsùlùmi àti bẹ́ ẹ̀ bẹ́ ẹ̀ lọ.  
-Owe Yoruba so wipe “Bi Ẹlẹ́bọ kò bá peni, Àṣefín kò yẹni”.   
-Donald Trump ò ka gbogbo ilẹ̀ Aláwọ̀dúdú si nkankan tàbi dárúkọ Nigeria.  
-Ọ̀pọ̀lọpọ̀ rò wi pé nitori Amẹ́rikà ti nṣe Òṣèlú ti wa ntiwa fún igbalélógòji ọdún, ẹni ti wọn yio yan si irú ipò yi á ni iwà àkójọ àti ẹ̀mi àkóso si onírúurú àwọn enia ti ó wà ni gbogbo àgbáyé.
-Òwe Yorùbá ni “Bi èniyàn bá ni kò si irú òhun, àwọn ọlọ́gbọ́n a máa wòye”.  Lati igbà ti iròyin ibo ti jade pé Donald J. 
-Trump ló wọlé, gẹ́gẹ́ bi wọn ti nṣe é, àwọn Olóri ilú àgbáyé ló kọ iwé tàbi pè lati ki ku ori ire.  Ó ṣe ni laanu wi pé, àwọn tó wà ni ilé aṣòfin Nigeria,  àti oriṣiriṣi àwọn Òṣèlú kékeré yókù lo nkọ iwé.  
-Gbogbo ìròyìn lati Nigeria kò ri ọ̀rọ̀ àti ìṣò̀ro ti ó dojú kọ ilú ti wọn sọ mọ, ju ọ̀rọ̀ èsi ibò ni Amẹ́rikà.  
-Eyi kò fi ọgbọ́n han nitori ìyà ti ó njẹ ará ilú Nigeria kọjá ki wọn ma sowọ́pọ̀ pẹ̀lú Olóri Òṣèlú Nigeria, Muhammadu Buhari lati ṣe àyipadà kúrò ni iwà ibàjẹ́ ti ó ba ilú jẹ, ki ilú lè tòrò, ki ó si lè pèsè oúnjẹ àti ohun amáyédẹrùn fún ará ilú.
-Ìtàn fi yé wa wi pé Yorùbá ka ọ̀rọ̀ obinrin si ni àṣà Yorùbá  bi ó ti ẹ jẹ wi pé obinrin ki jẹ Ọba nitori ni àṣà ilú, ọkunrin ló njẹ olóri.  
-Obinrin kò pọ̀ ni ipò agbára.  
-Àwọn ipò obinrin ni ‘Ìyáálé’, eyi jẹ́ iyàwó àgbà tàbi iyàwó àkọ́fẹ́ ninú ẹbí, pàtàki ni ilé o ni iyàwó púpọ̀ ṣùgbọ́n ọkùnrin ni ‘olóri ẹbí’.  
-Ipò obinrin kò pin si idi àdìrò àti inú ilé yókù gẹ́gẹ́ bi Olóri Òṣèlú Nigeria, Muhammadu Buhari ti sọ.
-Obinrin Yorùbá ti ni àyè lati ṣe iṣẹ́ ti pẹ́, bi ó ti ẹ̀ jẹ́ wi pé àwọn iṣẹ́ obinrin bi oúnjẹ ṣí ṣe, ẹní hí hun, aṣọ hí hun, aró ṣi ṣe, òwú gbi gbọ̀n, ọjà ti tà (ẹ̀kọ́ ọrọ̀ ajé díẹ̀), oúnjẹ sí sè àti itọ́jú ẹbi ni obinrin nṣe.  
-Àwọn ọkùnrin nṣe iṣẹ́ agbára bi iṣẹ́ ọdẹ, alágbẹ̀dẹ, àgbẹ̀ tàbi iṣẹ́ oko (iṣẹ́ fún ji jẹ àti mimu ẹbí).  
-Obinrin ni ògúná gbongbo ni oníṣòwò òkèèrè, eyi jẹ ki obinrin lè ni ọrọ̀ àti lati lè gba oyè ‘Ìyálóde’.  
-Fún àpẹrẹ, àwọn Ìyálóde ni ó njẹ Olóri ọjà ni gbogo ilẹ̀ Yorùbá àti alá-bójútó fún ọ̀rọ̀ obinrin.
-Gẹ́gẹ́ bi àṣà ibilẹ̀ Yorùbá, àwọn ọkùnrin gbà ki iyàwó  wọn ṣe iṣẹ́ lati ran ẹbí lọ́wọ́, eyi lè jẹ́ nitori àwọn ọkùnrin ni iyàwó púpọ̀, nitori èyi, kò nira bi iyàwó kan tàbi méji bá lọ ṣòwò ni òkèèrè, àwọn iyàwó yókù yio bójú tó ilé.   
-Àṣà òkè-òkun fi fẹ́ iyàwó  kan àti ẹ̀sìn òkèère ti Yorùbá gbà ló sọ àdìrò di ipò fún obinrin àti “Alá-bọ́dó, Ìyàwóilé tàbi Oníṣẹ́-ilé” ti ó di iṣẹ́ obinrin.  
-Obinrin ayé òde òní kàwé, ṣùgbọ́n bi wọn kò ti ẹ kàwé, gbogbo ẹni ti ó bá ni làákàyè fún àṣà, kò gbọdọ̀ já obinrin si ipò kankan ni ilé nitori obinrin ló ni gbogbo ilé.
-Ni ọjọ́ Ẹti, ọjọ́ keje, oṣù kẹwa ọdún Ẹgbàálémẹ̀rindinlógún, ìròyìn pé àwọn Ọ̀tẹlẹ̀múyẹ́ já lu ilé àwọn Adájọ́ ti wọn fi ẹ̀sùn iwà ibàjẹ́ kàn jade lẹhin ti wọn ti dúró titi ki “Ẹgbẹ́ Adájọ́” gbé àwọn iwé ẹ̀sùn iwà ibàjẹ́ yẹ̀wò .  
-Àwọn Ọ̀tẹlẹ̀múyẹ́ ròyìn pé wọn bá owó rẹpẹtẹ, pàtàki oriṣiriṣi owó òkè òkun, ni ilé awon Adájọ́ wọnyi.   
-Lati igbà ti iroyin ti jade, àwọn ‘Ẹgbẹ́ Agbẹjọ́rò’ lérí pé àwọn yio da iṣẹ́ silẹ̀ ti Olóri Òṣèlú Muhammadu Buhari kò bá pàṣẹ ki wọn tú àwọn Adájọ́ naa silẹ̀ ni wéréwéré.
-Ni ọ̀pọ̀lọpọ̀ ọdún sẹhin, Adájọ́ àti Agbẹjọ́rò ki i ṣe iṣẹ́ nitori àgbà ni ó ndá ẹjọ́ bi ijà bá bẹ́ silẹ̀ ni ilẹ̀ Yorùbá.  
-Fun àpẹrẹ, bi àwọn ọmọdé bá njá, àgbàlagbà ti ó bá wà ni ilé ni yio là wọ́n, bi àwọn iyàwó-ilé bá njà, olóri ẹbi tàbi Àrẹ̀mọ ni yio la ijà.  
-Bi ó bá jẹ́ ijà nitori ilẹ̀ oko, Baálẹ̀ Abúlé naa ni wọn yio kó ẹjọ́ lọ bá fún idájọ́, ti ó bá jẹ àdúgbò kan si ekeji ló njà, wọn á kó ẹjọ́ lọ bá Ọba ilú àti bẹ́ ẹ̀ bẹ́ ẹ̀ lọ.   
-Lati wa idi òtitọ́, wọn lè kó àwọn ti ó njà lọ si ojúbọ Òriṣà lati búra.  
-Lẹhin ti àwọn Ìlú-Ọba pin àwọn ọ̀pọ̀lọpọ̀ ilú àwọn Aláwọ̀dúdú, iṣẹ́ Agbẹjọ́rò di ki kọ́ ni ilé-iwé giga.
-Kò si ọmọ Nigeria rere ti kò mọ̀ wi pé,  ‘’Ẹ̀ṣẹ̀ nlá ijiyà kékeré tàbi ki ó má si ijiyà rara fún Olówó, ṣùgbọ́n ẹ̀ṣẹ̀ kékeré ijiyà nla ni fún tálákà tàbi aláìní’’, nitori iwà burúkú àwọn Adájọ́ ti ó ti gba àbẹ̀tẹ́lẹ̀ lọ́wọ́ àwọn Agbejoro.  
-A ri gbọ́ wi pé bi “Ọ̀gá Àgbà Agbẹjọ́rò” bá ni ẹjọ́ ni iwájú Adájọ́ lẹhin ti ẹjọ́  agbejoro ti dé iwájú Adájọ́, wọn yio kọ́kọ́ gbọ́ ẹjọ́ ti “Ọ̀gá Àgbà Agbẹjọ́rò” gbé wá.  
-Eleyi jẹ́ ikan ninú idi pàtàki ti ọ̀pọ̀lọpọ̀  Agbejoro ti fẹ́ fi ọ̀nàkọnà dé ipò “Ọ̀gá Àgbà Agbẹjọ́rò”.  
-Ó yẹ ki wọn gbé eyi yẹ̀wò nitori ni ilú ti òfin bá wà, kò yẹ ki ẹnikẹni kọjá òfin.  
-Ni Òkè-Òkun, Gó́́mìnà, àgbà Òṣèlú àti bẹ́ ẹ̀ bẹ́ ẹ̀ lọ kò kọjá òfin.
+Èsi ibò yi ya gbogbo àgbáyé lẹ́nu nitori àwọn ọ̀rọ̀ ti Donald Trump (Olóri ẹgbẹ́ GOP)  ti sọ siwájú nigbati ti ó polongo lati dé ipò.  
+Àwọn ọ̀rọ̀ iko rira wọnyi lòdi si àwọn obinrin, ẹ̀yà miran ti ó yàtọ̀ si ẹ̀yà rẹ, àlejò, ẹlẹ́sin Mùsùlùmi àti bẹ́ ẹ̀ bẹ́ ẹ̀ lọ.  
+Owe Yoruba so wipe “Bi Ẹlẹ́bọ kò bá peni, Àṣefín kò yẹni”.   
+Donald Trump ò ka gbogbo ilẹ̀ Aláwọ̀dúdú si nkankan tàbi dárúkọ Nigeria.  
+Ọ̀pọ̀lọpọ̀ rò wi pé nitori Amẹ́rikà ti nṣe Òṣèlú ti wa ntiwa fún igbalélógòji ọdún, ẹni ti wọn yio yan si irú ipò yi á ni iwà àkójọ àti ẹ̀mi àkóso si onírúurú àwọn enia ti ó wà ni gbogbo àgbáyé.
+Òwe Yorùbá ni “Bi èniyàn bá ni kò si irú òhun, àwọn ọlọ́gbọ́n a máa wòye”.  Lati igbà ti iròyin ibo ti jade pé Donald J. 
+Trump ló wọlé, gẹ́gẹ́ bi wọn ti nṣe é, àwọn Olóri ilú àgbáyé ló kọ iwé tàbi pè lati ki ku ori ire.  Ó ṣe ni laanu wi pé, àwọn tó wà ni ilé aṣòfin Nigeria,  àti oriṣiriṣi àwọn Òṣèlú kékeré yókù lo nkọ iwé.  
+Gbogbo ìròyìn lati Nigeria kò ri ọ̀rọ̀ àti ìṣò̀ro ti ó dojú kọ ilú ti wọn sọ mọ, ju ọ̀rọ̀ èsi ibò ni Amẹ́rikà.  
+Eyi kò fi ọgbọ́n han nitori ìyà ti ó njẹ ará ilú Nigeria kọjá ki wọn ma sowọ́pọ̀ pẹ̀lú Olóri Òṣèlú Nigeria, Muhammadu Buhari lati ṣe àyipadà kúrò ni iwà ibàjẹ́ ti ó ba ilú jẹ, ki ilú lè tòrò, ki ó si lè pèsè oúnjẹ àti ohun amáyédẹrùn fún ará ilú.
+Ìtàn fi yé wa wi pé Yorùbá ka ọ̀rọ̀ obinrin si ni àṣà Yorùbá  bi ó ti ẹ jẹ wi pé obinrin ki jẹ Ọba nitori ni àṣà ilú, ọkunrin ló njẹ olóri.  
+Obinrin kò pọ̀ ni ipò agbára.  
+Àwọn ipò obinrin ni ‘Ìyáálé’, eyi jẹ́ iyàwó àgbà tàbi iyàwó àkọ́fẹ́ ninú ẹbí, pàtàki ni ilé o ni iyàwó púpọ̀ ṣùgbọ́n ọkùnrin ni ‘olóri ẹbí’.  
+Ipò obinrin kò pin si idi àdìrò àti inú ilé yókù gẹ́gẹ́ bi Olóri Òṣèlú Nigeria, Muhammadu Buhari ti sọ.
+Obinrin Yorùbá ti ni àyè lati ṣe iṣẹ́ ti pẹ́, bi ó ti ẹ̀ jẹ́ wi pé àwọn iṣẹ́ obinrin bi oúnjẹ ṣí ṣe, ẹní hí hun, aṣọ hí hun, aró ṣi ṣe, òwú gbi gbọ̀n, ọjà ti tà (ẹ̀kọ́ ọrọ̀ ajé díẹ̀), oúnjẹ sí sè àti itọ́jú ẹbi ni obinrin nṣe.  
+Àwọn ọkùnrin nṣe iṣẹ́ agbára bi iṣẹ́ ọdẹ, alágbẹ̀dẹ, àgbẹ̀ tàbi iṣẹ́ oko (iṣẹ́ fún ji jẹ àti mimu ẹbí).  
+Obinrin ni ògúná gbongbo ni oníṣòwò òkèèrè, eyi jẹ ki obinrin lè ni ọrọ̀ àti lati lè gba oyè ‘Ìyálóde’.  
+Fún àpẹrẹ, àwọn Ìyálóde ni ó njẹ Olóri ọjà ni gbogo ilẹ̀ Yorùbá àti alá-bójútó fún ọ̀rọ̀ obinrin.
+Gẹ́gẹ́ bi àṣà ibilẹ̀ Yorùbá, àwọn ọkùnrin gbà ki iyàwó  wọn ṣe iṣẹ́ lati ran ẹbí lọ́wọ́, eyi lè jẹ́ nitori àwọn ọkùnrin ni iyàwó púpọ̀, nitori èyi, kò nira bi iyàwó kan tàbi méji bá lọ ṣòwò ni òkèèrè, àwọn iyàwó yókù yio bójú tó ilé.   
+Àṣà òkè-òkun fi fẹ́ iyàwó  kan àti ẹ̀sìn òkèère ti Yorùbá gbà ló sọ àdìrò di ipò fún obinrin àti “Alá-bọ́dó, Ìyàwóilé tàbi Oníṣẹ́-ilé” ti ó di iṣẹ́ obinrin.  
+Obinrin ayé òde òní kàwé, ṣùgbọ́n bi wọn kò ti ẹ kàwé, gbogbo ẹni ti ó bá ni làákàyè fún àṣà, kò gbọdọ̀ já obinrin si ipò kankan ni ilé nitori obinrin ló ni gbogbo ilé.
+Ni ọjọ́ Ẹti, ọjọ́ keje, oṣù kẹwa ọdún Ẹgbàálémẹ̀rindinlógún, ìròyìn pé àwọn Ọ̀tẹlẹ̀múyẹ́ já lu ilé àwọn Adájọ́ ti wọn fi ẹ̀sùn iwà ibàjẹ́ kàn jade lẹhin ti wọn ti dúró titi ki “Ẹgbẹ́ Adájọ́” gbé àwọn iwé ẹ̀sùn iwà ibàjẹ́ yẹ̀wò .  
+Àwọn Ọ̀tẹlẹ̀múyẹ́ ròyìn pé wọn bá owó rẹpẹtẹ, pàtàki oriṣiriṣi owó òkè òkun, ni ilé awon Adájọ́ wọnyi.   
+Lati igbà ti iroyin ti jade, àwọn ‘Ẹgbẹ́ Agbẹjọ́rò’ lérí pé àwọn yio da iṣẹ́ silẹ̀ ti Olóri Òṣèlú Muhammadu Buhari kò bá pàṣẹ ki wọn tú àwọn Adájọ́ naa silẹ̀ ni wéréwéré.
+Ni ọ̀pọ̀lọpọ̀ ọdún sẹhin, Adájọ́ àti Agbẹjọ́rò ki i ṣe iṣẹ́ nitori àgbà ni ó ndá ẹjọ́ bi ijà bá bẹ́ silẹ̀ ni ilẹ̀ Yorùbá.  
+Fun àpẹrẹ, bi àwọn ọmọdé bá njá, àgbàlagbà ti ó bá wà ni ilé ni yio là wọ́n, bi àwọn iyàwó-ilé bá njà, olóri ẹbi tàbi Àrẹ̀mọ ni yio la ijà.  
+Bi ó bá jẹ́ ijà nitori ilẹ̀ oko, Baálẹ̀ Abúlé naa ni wọn yio kó ẹjọ́ lọ bá fún idájọ́, ti ó bá jẹ àdúgbò kan si ekeji ló njà, wọn á kó ẹjọ́ lọ bá Ọba ilú àti bẹ́ ẹ̀ bẹ́ ẹ̀ lọ.   
+Lati wa idi òtitọ́, wọn lè kó àwọn ti ó njà lọ si ojúbọ Òriṣà lati búra.  
+Lẹhin ti àwọn Ìlú-Ọba pin àwọn ọ̀pọ̀lọpọ̀ ilú àwọn Aláwọ̀dúdú, iṣẹ́ Agbẹjọ́rò di ki kọ́ ni ilé-iwé giga.
+Kò si ọmọ Nigeria rere ti kò mọ̀ wi pé,  ‘’Ẹ̀ṣẹ̀ nlá ijiyà kékeré tàbi ki ó má si ijiyà rara fún Olówó, ṣùgbọ́n ẹ̀ṣẹ̀ kékeré ijiyà nla ni fún tálákà tàbi aláìní’’, nitori iwà burúkú àwọn Adájọ́ ti ó ti gba àbẹ̀tẹ́lẹ̀ lọ́wọ́ àwọn Agbejoro.  
+A ri gbọ́ wi pé bi “Ọ̀gá Àgbà Agbẹjọ́rò” bá ni ẹjọ́ ni iwájú Adájọ́ lẹhin ti ẹjọ́  agbejoro ti dé iwájú Adájọ́, wọn yio kọ́kọ́ gbọ́ ẹjọ́ ti “Ọ̀gá Àgbà Agbẹjọ́rò” gbé wá.  
+Eleyi jẹ́ ikan ninú idi pàtàki ti ọ̀pọ̀lọpọ̀  Agbejoro ti fẹ́ fi ọ̀nàkọnà dé ipò “Ọ̀gá Àgbà Agbẹjọ́rò”.  
+Ó yẹ ki wọn gbé eyi yẹ̀wò nitori ni ilú ti òfin bá wà, kò yẹ ki ẹnikẹni kọjá òfin.  
+Ni Òkè-Òkun, Gó́́mìnà, àgbà Òṣèlú àti bẹ́ ẹ̀ bẹ́ ẹ̀ lọ kò kọjá òfin.
 
-“Ẹni ma a bèrè ẹ̀tó lábẹ́ òfin yio lọ pẹ̀lú ọwọ́ mímọ́”,  ẹ gb́e ọ̀rọ̀ yi yẹ̀wò bóyá bi wọ́n bá fi ẹ̀sùn iwà ibàjẹ́ kan Adájọ́, kò yẹ ki Ọ̀tẹlẹ̀múyẹ́ wa idi.
-Ohun ti wọ́n bá fi ogún ọdún tàbi ju bẹ́ ẹ̀ lọ kọ́, ṣe é bàjẹ́ ni iṣéjú akàn, ṣùgbọ́n lati ṣe àtúnṣe lè gba ọ̀pọ̀lọpọ̀ ọdún bakan na a.  
-Ó ṣe pataki ki gbogbo ọmọ ilú pinu ni ikan kan lati ṣe àtúnṣe lati bọ́ lọ́wọ́ ìnira ti ó wà ni ilú lọ́wọ́lọ́wọ́.
-Àyípadà tàbi Àtúnṣe yẹ ki ó bẹ̀rẹ̀ pẹ̀lú òṣiṣẹ́ Ìjọba, àwọn ti ó nta ọjà, ọ̀gá ilé-iwé àti àwọn ọmọ ilé-iwé, àwọn òṣiṣẹ́ ilé-ìwòsàn, ọmọdé àti àgbà ilú.  
-Àbẹ̀tẹ́lẹ̀ gbi gbà àti àwọn iwà ibàjẹ́ ti ó ti gbilẹ̀ fún ọdún pi pẹ́ ti ba nkan jẹ ni orilẹ̀ èdè Nigeria.  
-Di ẹ ninú àwọn iwà burúkú wọnyi ni ki òṣiṣẹ́ ìjọba ji ẹrù àti owó Ìjọba fún ara wọn tàbi sọ ara wọn di alágbàtà ti o nsọ ọjà di ọ̀wọ́n nipa gbi gba àbẹ̀tẹ́lẹ.  
-Eleyi lo njẹ ki àwọn iṣẹ́ ti ìjọba bá gbé sita lati tú ọ̀nà ṣe, lati pèsè iná mọ̀nàmọ́ná, omi àti ohun amáyédẹrùn miran wọn ju ti gbogbo àgbáyé lọ.  
-Nitori òṣiṣẹ́ Ìjọba ti gba àbẹ̀tẹ́lẹ̀, àwọn ti ó gba iṣẹ́ lè ma ṣe iṣẹ́ tàbi ki wọn ṣe iṣẹ́ ti kò dára.   
-Ẹni ti ó nta ọjà á sọ̀rọ̀ si onibárà pẹ̀lú ẹ̀gàn, ojúkòkòrò, ìfẹ́ owó ki kó jọ ni ọ̀nà ẹ̀rú àti à ṣe hàn ló nfa iwà ibàjẹ́ àti olè jijà laarin àwọn Òṣèlú, olóri ẹ̀sìn, òṣiṣẹ́ Ìjọba, ọlọ́jà ti ó nkó ọjà pamọ́ lati fa ọ̀wọ́n, Olùkọ́ ilé iwé, ọmọ ilé-iwé kò ni itẹriba fún Olùko mọ́, àti bẹ́ ẹ̀ bẹ́ ẹ̀  lọ.
+“Ẹni ma a bèrè ẹ̀tó lábẹ́ òfin yio lọ pẹ̀lú ọwọ́ mímọ́”,  ẹ gb́e ọ̀rọ̀ yi yẹ̀wò bóyá bi wọ́n bá fi ẹ̀sùn iwà ibàjẹ́ kan Adájọ́, kò yẹ ki Ọ̀tẹlẹ̀múyẹ́ wa idi.
+Ohun ti wọ́n bá fi ogún ọdún tàbi ju bẹ́ ẹ̀ lọ kọ́, ṣe é bàjẹ́ ni iṣéjú akàn, ṣùgbọ́n lati ṣe àtúnṣe lè gba ọ̀pọ̀lọpọ̀ ọdún bakan na a.  
+Ó ṣe pataki ki gbogbo ọmọ ilú pinu ni ikan kan lati ṣe àtúnṣe lati bọ́ lọ́wọ́ ìnira ti ó wà ni ilú lọ́wọ́lọ́wọ́.
+Àyípadà tàbi Àtúnṣe yẹ ki ó bẹ̀rẹ̀ pẹ̀lú òṣiṣẹ́ Ìjọba, àwọn ti ó nta ọjà, ọ̀gá ilé-iwé àti àwọn ọmọ ilé-iwé, àwọn òṣiṣẹ́ ilé-ìwòsàn, ọmọdé àti àgbà ilú.  
+Àbẹ̀tẹ́lẹ̀ gbi gbà àti àwọn iwà ibàjẹ́ ti ó ti gbilẹ̀ fún ọdún pi pẹ́ ti ba nkan jẹ ni orilẹ̀ èdè Nigeria.  
+Di ẹ ninú àwọn iwà burúkú wọnyi ni ki òṣiṣẹ́ ìjọba ji ẹrù àti owó Ìjọba fún ara wọn tàbi sọ ara wọn di alágbàtà ti o nsọ ọjà di ọ̀wọ́n nipa gbi gba àbẹ̀tẹ́lẹ.  
+Eleyi lo njẹ ki àwọn iṣẹ́ ti ìjọba bá gbé sita lati tú ọ̀nà ṣe, lati pèsè iná mọ̀nàmọ́ná, omi àti ohun amáyédẹrùn miran wọn ju ti gbogbo àgbáyé lọ.  
+Nitori òṣiṣẹ́ Ìjọba ti gba àbẹ̀tẹ́lẹ̀, àwọn ti ó gba iṣẹ́ lè ma ṣe iṣẹ́ tàbi ki wọn ṣe iṣẹ́ ti kò dára.   
+Ẹni ti ó nta ọjà á sọ̀rọ̀ si onibárà pẹ̀lú ẹ̀gàn, ojúkòkòrò, ìfẹ́ owó ki kó jọ ni ọ̀nà ẹ̀rú àti à ṣe hàn ló nfa iwà ibàjẹ́ àti olè jijà laarin àwọn Òṣèlú, olóri ẹ̀sìn, òṣiṣẹ́ Ìjọba, ọlọ́jà ti ó nkó ọjà pamọ́ lati fa ọ̀wọ́n, Olùkọ́ ilé iwé, ọmọ ilé-iwé kò ni itẹriba fún Olùko mọ́, àti bẹ́ ẹ̀ bẹ́ ẹ̀  lọ.
 
-Ki àyipadà rere lè dé bá ilú, ó yẹ ki onikálukú yẹ ara rẹ̀ wò fún àtúnṣe kúrò ninú àbẹ̀tẹ́lẹ̀ gbi gbà, iwà ibàjẹ́, ai ṣojú ṣe ẹni ninú ẹbi, ai bẹ̀rù àgbà, ji ja ilú lólè, ki kó owó ilú lọ si òkèèrè, ki kọ oúnjẹ ilú ẹni silẹ̀ fún oúnjẹ òkèèrè, ayẹyẹ àṣejù, ni ná owó ti èniyàn kò gbà àti ai ni ìtẹ́lọ́rùn.
+Ki àyipadà rere lè dé bá ilú, ó yẹ ki onikálukú yẹ ara rẹ̀ wò fún àtúnṣe kúrò ninú àbẹ̀tẹ́lẹ̀ gbi gbà, iwà ibàjẹ́, ai ṣojú ṣe ẹni ninú ẹbi, ai bẹ̀rù àgbà, ji ja ilú lólè, ki kó owó ilú lọ si òkèèrè, ki kọ oúnjẹ ilú ẹni silẹ̀ fún oúnjẹ òkèèrè, ayẹyẹ àṣejù, ni ná owó ti èniyàn kò gbà àti ai ni ìtẹ́lọ́rùn.
 
-Ìpolongo tó nlọ lọ́wọ́ ni orilẹ́ èdè Nigeria ni pé “Àyípadà tàbi Àtúnṣe bẹ̀rẹ̀ pẹ̀lú mi”.   
-Yorúbà sọ wi pé “Igi kan ki da a ṣe igbó”, eyi túmọ̀ si wi pé ki i ṣe Olóri Ìjọba Òṣèlú àti àwọn Òṣèlú yoku nikan ni ó yẹ ki ó ṣe àtúnṣe ohun ti ó ti bàjẹ́ fún ọ̀pọ̀lọpọ̀ ọdún ṣùgbọ́n gbogbo ọwọ́ ló yẹ ki ó ṣe àtúnṣe lati gbógun ti iwà ibàjẹ́.
-Ìjọba Ológun àkọ́kọ́ ni abẹ́ Olóògbé Ọ̀gágun Aguiyi Ironsi, da gbogbo ipinlẹ̀ pọ si abẹ́ Ìjọba àpapọ̀.  
-Ki wọ́n tó dá àwọn ipinlẹ̀ pọ̀, àwọn ipinlẹ̀ ndàgbà sókè gẹ́gẹ́ bi ohun ti ó ṣe kókó fún wọn.  
-Ipinlẹ̀ Ìwọ̀-Oòrùn, ti ẹ̀yà Yorùbá ngbé, ni ìgbéga ni abẹ́ Olóri Òṣèlú Ipinlẹ̀, Olóògbé́ Olóyè Ọbáfẹ́mi Awólọ́wọ̀ àti ẹgbẹ́ Òṣèlú rẹ.  
-Wọ́n pèsè ohun amáyédẹrùn igbàlódé bi ilé-ìwòsàn ọ̀fẹ́, ilé-iwé ọ̀fẹ́, ọ̀nà gidi, omi mi mun, iná mọ̀nàmọ́ná àti bẹ́ ẹ̀  bẹ́ ẹ̀ lọ ni gbogbo agbègbè ilẹ́ Yorùbá.  
-Eleyi jẹ ki Yorùbá ri ohun mu yangàn.
+Ìpolongo tó nlọ lọ́wọ́ ni orilẹ́ èdè Nigeria ni pé “Àyípadà tàbi Àtúnṣe bẹ̀rẹ̀ pẹ̀lú mi”.   
+Yorúbà sọ wi pé “Igi kan ki da a ṣe igbó”, eyi túmọ̀ si wi pé ki i ṣe Olóri Ìjọba Òṣèlú àti àwọn Òṣèlú yoku nikan ni ó yẹ ki ó ṣe àtúnṣe ohun ti ó ti bàjẹ́ fún ọ̀pọ̀lọpọ̀ ọdún ṣùgbọ́n gbogbo ọwọ́ ló yẹ ki ó ṣe àtúnṣe lati gbógun ti iwà ibàjẹ́.
+Ìjọba Ológun àkọ́kọ́ ni abẹ́ Olóògbé Ọ̀gágun Aguiyi Ironsi, da gbogbo ipinlẹ̀ pọ si abẹ́ Ìjọba àpapọ̀.  
+Ki wọ́n tó dá àwọn ipinlẹ̀ pọ̀, àwọn ipinlẹ̀ ndàgbà sókè gẹ́gẹ́ bi ohun ti ó ṣe kókó fún wọn.  
+Ipinlẹ̀ Ìwọ̀-Oòrùn, ti ẹ̀yà Yorùbá ngbé, ni ìgbéga ni abẹ́ Olóri Òṣèlú Ipinlẹ̀, Olóògbé́ Olóyè Ọbáfẹ́mi Awólọ́wọ̀ àti ẹgbẹ́ Òṣèlú rẹ.  
+Wọ́n pèsè ohun amáyédẹrùn igbàlódé bi ilé-ìwòsàn ọ̀fẹ́, ilé-iwé ọ̀fẹ́, ọ̀nà gidi, omi mi mun, iná mọ̀nàmọ́ná àti bẹ́ ẹ̀  bẹ́ ẹ̀ lọ ni gbogbo agbègbè ilẹ́ Yorùbá.  
+Eleyi jẹ ki Yorùbá ri ohun mu yangàn.
 
-Yàtọ̀ si Ìjọba Ológun lábẹ́ Ọ̀gágun Yakubu Gowon, ti ó lo ọ̀pọ̀ owó epo rọ̀bì dáradára lati pèsè ohun amáyédẹrùn ti igbàlódé ti ilú ngbádùn titi di ọjọ́ oni,  ọ̀pọ̀lọpọ̀ àwọn Ìjọba Nigeria yókù ti ó ré kọjá lábẹ́ Ológun àti Òṣèlú kùnà nipa ipèsè ohun amáyédẹrùn fún orilẹ̀ èdè nitori iwà ibàjẹ́.
+Yàtọ̀ si Ìjọba Ológun lábẹ́ Ọ̀gágun Yakubu Gowon, ti ó lo ọ̀pọ̀ owó epo rọ̀bì dáradára lati pèsè ohun amáyédẹrùn ti igbàlódé ti ilú ngbádùn titi di ọjọ́ oni,  ọ̀pọ̀lọpọ̀ àwọn Ìjọba Nigeria yókù ti ó ré kọjá lábẹ́ Ológun àti Òṣèlú kùnà nipa ipèsè ohun amáyédẹrùn fún orilẹ̀ èdè nitori iwà ibàjẹ́.
 
-Gẹ́gẹ́ bi ọ̀rọ̀ ti ó sọ wi pé “Ni ilú afọ́jú, olójú kan lọba”, laarin Ìjọba àpapọ̀, nitori iwà-ibàjẹ́ ọ̀pọ̀lọpọ̀ ọdún, a lè sọ wi pé àwọn ipinlẹ̀ Ìwọ̀-Oòrùn, Èkìtì, Èkó, Ògùn, Ondó, Ọ̀ṣun àti Ọ̀yọ́ ṣe dáradára nipa ipèsè ohun amáyédẹrùn.  
-Àmọ́, ‘ilọsiwájú’ yi kò tó nkankan lára ogún ti Olóògbé Olóyè Awólọ́wọ̀ ṣe silẹ̀.  
-Kò si ipèsè ohun amáyédẹrùn pàtàki omi mi mun ni àwọn agbègbè tuntun lai yọ àdúgbò ọlọ́rọ̀ silẹ̀.  
-Eleyi ló sọ gbi gbẹ́ ihò fún omi àti kànga lati wá omi fún mi mun di àṣà.
-Àwọn ipinlẹ̀ Yorùbá́ ti gbádùn ohun amáyédẹrùn igbàlódé fún ọjọ́ ti pẹ́, nitori èyi ni a ṣe mbẹ̀ àwọn Gómìnà ipinlẹ̀ Yorùbá pé ki wọn pèsè ‘’omi mi mun’ fún ará ilú gẹ́gẹ́ bi ẹ̀tọ́ lati dá àṣà gbi gbẹ́ ilẹ̀ bi ti Òkété lati wa omi ti kò ṣe e mu ni ọ̀pọ̀ igbà.
-Nitotọ àti ṣe ẹ̀yà orí tẹlẹ ṣugbọn a lérò wípé orúkọ gbogbo ẹ̀yà ara lati orí dé ẹsẹ á wúlò fún kíkà.
-Yorùbá fẹ́ràn àlejò púpọ̀.  Ìwà ti ọmọ ilú lè hù ti yio fa ibinú, bi àlejò bá hu irú ìwà bẹ́ ẹ̀, wọn yio ni àlejò ni, ki wọn fori ji i.  
-Òwe Yorùbá ti ó sọ wi pé “Ojú àlejò ni a ti njẹ igbèsè, ẹhin rẹ  la nsaán”.  Eyi fi hàn bi Yorùbá ti  fẹ́ràn  lati ma ṣe àlejò tó.
+Gẹ́gẹ́ bi ọ̀rọ̀ ti ó sọ wi pé “Ni ilú afọ́jú, olójú kan lọba”, laarin Ìjọba àpapọ̀, nitori iwà-ibàjẹ́ ọ̀pọ̀lọpọ̀ ọdún, a lè sọ wi pé àwọn ipinlẹ̀ Ìwọ̀-Oòrùn, Èkìtì, Èkó, Ògùn, Ondó, Ọ̀ṣun àti Ọ̀yọ́ ṣe dáradára nipa ipèsè ohun amáyédẹrùn.  
+Àmọ́, ‘ilọsiwájú’ yi kò tó nkankan lára ogún ti Olóògbé Olóyè Awólọ́wọ̀ ṣe silẹ̀.  
+Kò si ipèsè ohun amáyédẹrùn pàtàki omi mi mun ni àwọn agbègbè tuntun lai yọ àdúgbò ọlọ́rọ̀ silẹ̀.  
+Eleyi ló sọ gbi gbẹ́ ihò fún omi àti kànga lati wá omi fún mi mun di àṣà.
+Àwọn ipinlẹ̀ Yorùbá́ ti gbádùn ohun amáyédẹrùn igbàlódé fún ọjọ́ ti pẹ́, nitori èyi ni a ṣe mbẹ̀ àwọn Gómìnà ipinlẹ̀ Yorùbá pé ki wọn pèsè ‘’omi mi mun’ fún ará ilú gẹ́gẹ́ bi ẹ̀tọ́ lati dá àṣà gbi gbẹ́ ilẹ̀ bi ti Òkété lati wa omi ti kò ṣe e mu ni ọ̀pọ̀ igbà.
+Nitotọ àti ṣe ẹ̀yà orí tẹlẹ ṣugbọn a lérò wípé orúkọ gbogbo ẹ̀yà ara lati orí dé ẹsẹ á wúlò fún kíkà.
+Yorùbá fẹ́ràn àlejò púpọ̀.  Ìwà ti ọmọ ilú lè hù ti yio fa ibinú, bi àlejò bá hu irú ìwà bẹ́ ẹ̀, wọn yio ni àlejò ni, ki wọn fori ji i.  
+Òwe Yorùbá ti ó sọ wi pé “Ojú àlejò ni a ti njẹ igbèsè, ẹhin rẹ  la nsaán”.  Eyi fi hàn bi Yorùbá ti  fẹ́ràn  lati ma ṣe àlejò tó.
 
-Ìbàdàn ni olú-ilú ipinlẹ̀ Yorùbá ni Ìwọ̀-Oorun Nigeria tẹ́lẹ̀ ki Ìjọba Ológun ti Aguiyi Ironsi ti jẹ Olóri tó kó gbogbo ipinlẹ̀ Nigeria pọ si aarin lẹhin ti wọn fi ibọn gba Ìjọba lọ́wọ́ Òṣèlú ni aadọta ọdún sẹhin. 
-Lẹhin oṣù keje ni aadọta ọdún sẹhin, àwọn Ológun fi ibọn gba Ìjọba ni igbà keji.  
-Ti àkọ́kọ́ ṣẹlẹ̀ nigbati wọn fi ibọn lé àwọn Òṣèlú àkọ́kọ́ lẹhin òmìnira kúrò ni ọjọ́ karùndinlógún, oṣù kini ọdún Ẹdẹgbaalemẹrindinlaadọrin.  
-Lẹhin oṣù meje, àwọn Ológun tún fi ibọn gbà Ìjọba lọ́wọ́ àwọn Ológun ti wọn fi ibọn gbé wọlé ti Aguiyi Ironsi jẹ olóri rẹ.  
-Lára Ìjọba Ológun àkọ́kọ ti Ọ̀gágun Aguiyi Ironsi ti jẹ́ Olóri Ìjọba ni wọn ti fi Ọ̀gágun Adékúnlé Fájuyi  jẹ Olóri ni ipinlẹ̀ Yorùbá dipò Òṣèlú Ládòkè Akintọ́lá ti àwọn Ológun pa.
-Ọ̀gágun Adékúnlé Fájuyi gba Olóri-ogun Aguiyi Ironsi ni àlejò ni ibùgbé Ìjọba ni Ìbàdàn nigbati àwọn Ológun dé lati fi ibọn gba Ìjọba ni igbà keji.   
-Nigbati àwọn Ajagun dé lati gbé Olóri Ogun Aguiyi Ironsi lọ, gẹ́gẹ́ bi àṣà Yorùbá, Ọ̀gágun Adékúnlé Fájuyi bẹ̀bẹ̀ ki wọn fi àlejò òhun silẹ̀, ṣùgbọ́n wọn kọ.  
-Ọ̀gágun Adékúnlé Fájuyi fi ara rẹ ji pé ti wọn ba ma a gbee,  ki wọn gbé òhun pẹ̀lú.  
-Nitori eyi àwọn Ológun gbe pẹ̀lú àlejò rẹ wọn si pa wọ́n pọ ni Ìbàdàn.
+Ìbàdàn ni olú-ilú ipinlẹ̀ Yorùbá ni Ìwọ̀-Oorun Nigeria tẹ́lẹ̀ ki Ìjọba Ológun ti Aguiyi Ironsi ti jẹ Olóri tó kó gbogbo ipinlẹ̀ Nigeria pọ si aarin lẹhin ti wọn fi ibọn gba Ìjọba lọ́wọ́ Òṣèlú ni aadọta ọdún sẹhin. 
+Lẹhin oṣù keje ni aadọta ọdún sẹhin, àwọn Ológun fi ibọn gba Ìjọba ni igbà keji.  
+Ti àkọ́kọ́ ṣẹlẹ̀ nigbati wọn fi ibọn lé àwọn Òṣèlú àkọ́kọ́ lẹhin òmìnira kúrò ni ọjọ́ karùndinlógún, oṣù kini ọdún Ẹdẹgbaalemẹrindinlaadọrin.  
+Lẹhin oṣù meje, àwọn Ológun tún fi ibọn gbà Ìjọba lọ́wọ́ àwọn Ológun ti wọn fi ibọn gbé wọlé ti Aguiyi Ironsi jẹ olóri rẹ.  
+Lára Ìjọba Ológun àkọ́kọ ti Ọ̀gágun Aguiyi Ironsi ti jẹ́ Olóri Ìjọba ni wọn ti fi Ọ̀gágun Adékúnlé Fájuyi  jẹ Olóri ni ipinlẹ̀ Yorùbá dipò Òṣèlú Ládòkè Akintọ́lá ti àwọn Ológun pa.
+Ọ̀gágun Adékúnlé Fájuyi gba Olóri-ogun Aguiyi Ironsi ni àlejò ni ibùgbé Ìjọba ni Ìbàdàn nigbati àwọn Ológun dé lati fi ibọn gba Ìjọba ni igbà keji.   
+Nigbati àwọn Ajagun dé lati gbé Olóri Ogun Aguiyi Ironsi lọ, gẹ́gẹ́ bi àṣà Yorùbá, Ọ̀gágun Adékúnlé Fájuyi bẹ̀bẹ̀ ki wọn fi àlejò òhun silẹ̀, ṣùgbọ́n wọn kọ.  
+Ọ̀gágun Adékúnlé Fájuyi fi ara rẹ ji pé ti wọn ba ma a gbee,  ki wọn gbé òhun pẹ̀lú.  
+Nitori eyi àwọn Ológun gbe pẹ̀lú àlejò rẹ wọn si pa wọ́n pọ ni Ìbàdàn.
 
-Ni ọjọ́ kọkandinlọgbọn oṣù keje ọdún Ẹgbàálémẹ́rindinlógún, ilú péjọ pẹ̀lú ẹbi àti ará ni Adó-Èkìtì lati ṣe iranti Olóògbé Ọ̀gágun Adékúnlé Fájuyi fún iranti iwà iṣòótọ ti ó hù titi dé ojú ikú pẹ̀lú àlejò àti ọ̀gá rẹ Olóri Ogun Aguiyi Ironsi ni aadọta ọdún sẹhin.
-Ikú àwọn ọkùnrin Aláwọ̀-dúdú ni ọwọ́ Ọlọpa ni orilẹ̀ èdè Àméríkà pọ̀ ju pi pa àwọn aláwọ̀ funfun tàbi laarin àwọn ẹ̀yà kékeré miran.  
-Ọ̀sẹ̀ kini oṣù keje ọdún Ẹgbàálémẹ́rìndínlógún ṣòro fún àwọn Àméríkà.
+Ni ọjọ́ kọkandinlọgbọn oṣù keje ọdún Ẹgbàálémẹ́rindinlógún, ilú péjọ pẹ̀lú ẹbi àti ará ni Adó-Èkìtì lati ṣe iranti Olóògbé Ọ̀gágun Adékúnlé Fájuyi fún iranti iwà iṣòótọ ti ó hù titi dé ojú ikú pẹ̀lú àlejò àti ọ̀gá rẹ Olóri Ogun Aguiyi Ironsi ni aadọta ọdún sẹhin.
+Ikú àwọn ọkùnrin Aláwọ̀-dúdú ni ọwọ́ Ọlọpa ni orilẹ̀ èdè Àméríkà pọ̀ ju pi pa àwọn aláwọ̀ funfun tàbi laarin àwọn ẹ̀yà kékeré miran.  
+Ọ̀sẹ̀ kini oṣù keje ọdún Ẹgbàálémẹ́rìndínlógún ṣòro fún àwọn Àméríkà.
 
-Ìròyìn bi Ọlọpa funfun ti yin ibọn si ọkùnrin Aláwọ̀-dúdú ni ojú ọmọ àti aya nlọ lọ́wọ́ nigbati ìròyìn bi Ọlọpa funfun ti pa okunrin Aláwọ̀-dúdú miran bi ẹni pa ẹran ti tún jáde.  
-Àwọn iroyin yi bi àwọn èrò ninú,  nitori èyi, aláwọ̀ dúdú àti funfun tú jáde lati fi ẹ̀dùn hàn pé “Ìgbésí Ayé Aláwọ̀-dúdú ṣe pàtàki” pé àwọ lè yàtọ̀, ṣùgbọ́n ẹ̀jẹ̀ kò yàtọ̀.  
-Ó ṣe ni laanu pé Micah Johnson ọkùnrin Aláwọ̀-dúdú, jagunjagun fun orile ede Àméríkà, ló pa Ọlọpa marun, ó si ṣe ọ̀pọ̀lọpọ̀ léṣe nipa gbi gbé òfin si ọwọ́ ara rẹ pẹ̀lú ibinu.
-Ìwà burúkú ti di ẹ̀ ninú àwọn Ọlọpa funfun yi hu ki ṣe ìwà ti ó wọ́pọ̀ laarin ọ̀pọ̀lọpọ̀ Ọlọpa aláwọ̀ funfun tàbi gbogbo Ọlọpa ti wọn nṣe iṣẹ́ ribiribi lati dá àbò bo àwọn ará ilú.  
-Ó ṣe ni laanu pé àwọn Aláwọ̀-dúdú ni Ọlọpa nda dúró jù ni ojú ọ̀nà ọkọ̀, ti ó dẹ̀ n kú ni irú idá dúró bẹ́ ẹ̀.  Fún ọ̀pọ̀lọpọ̀ ọdún, onidajọ ọ̀daràn kò ṣe idájọ òdodo fún Aláwọ̀-dúdú, èyi kò ran nkan lọ́wọ́.
+Ìròyìn bi Ọlọpa funfun ti yin ibọn si ọkùnrin Aláwọ̀-dúdú ni ojú ọmọ àti aya nlọ lọ́wọ́ nigbati ìròyìn bi Ọlọpa funfun ti pa okunrin Aláwọ̀-dúdú miran bi ẹni pa ẹran ti tún jáde.  
+Àwọn iroyin yi bi àwọn èrò ninú,  nitori èyi, aláwọ̀ dúdú àti funfun tú jáde lati fi ẹ̀dùn hàn pé “Ìgbésí Ayé Aláwọ̀-dúdú ṣe pàtàki” pé àwọ lè yàtọ̀, ṣùgbọ́n ẹ̀jẹ̀ kò yàtọ̀.  
+Ó ṣe ni laanu pé Micah Johnson ọkùnrin Aláwọ̀-dúdú, jagunjagun fun orile ede Àméríkà, ló pa Ọlọpa marun, ó si ṣe ọ̀pọ̀lọpọ̀ léṣe nipa gbi gbé òfin si ọwọ́ ara rẹ pẹ̀lú ibinu.
+Ìwà burúkú ti di ẹ̀ ninú àwọn Ọlọpa funfun yi hu ki ṣe ìwà ti ó wọ́pọ̀ laarin ọ̀pọ̀lọpọ̀ Ọlọpa aláwọ̀ funfun tàbi gbogbo Ọlọpa ti wọn nṣe iṣẹ́ ribiribi lati dá àbò bo àwọn ará ilú.  
+Ó ṣe ni laanu pé àwọn Aláwọ̀-dúdú ni Ọlọpa nda dúró jù ni ojú ọ̀nà ọkọ̀, ti ó dẹ̀ n kú ni irú idá dúró bẹ́ ẹ̀.  Fún ọ̀pọ̀lọpọ̀ ọdún, onidajọ ọ̀daràn kò ṣe idájọ òdodo fún Aláwọ̀-dúdú, èyi kò ran nkan lọ́wọ́.
 
-A lérò wi pé àwọn oníwà ìbàjẹ́ ti ó jẹ́ Olóri Òṣèlú ilẹ̀ Alawo dudu ti ó n ja ilú lólè lati kó irú, ọrọ̀ ilú lọ pamọ́ si àwọn ilú ti o ti dàgbà sókè yio ronú pìwàdà.  
-Èrò ti ó n kú ni ilẹ̀ Aláwọ̀-dúdú nitori ọ̀nà ti kò dára, a i si ilé-ìwòsàn gidi, a i ni ohun amáyédẹrùn bi omi, iná mọ̀nàmọ́ná kò jẹ ki Aláwọ̀-dúdú Àméríkà lè fi orisun wọn yangàn.
-Ni Ìlú-Ọba, lẹhin ọdún mẹtalelogoji, èrò jade lati di ìbò bẹni-bẹ́ẹ̀kọ́ lori àjọṣepọ̀ pẹ̀lú ẹgbẹ́ Ìlú-Oyinbo méjidinlọ́gbọ̀n ni Ọjọ́bọ̀, oṣu Kẹfa, ọdún Egbàálémẹẹdógún.   
-Idibò na a lọ wẹ́rẹ́ lai si ìjà, kò gbà ju ìṣéjú kan si meji lọ lati wọlé dibò ti ó  bẹ̀rẹ̀ ni agogo meje àárọ̀ titi di aago mẹwa alẹ́.  
-Lẹhin idibò, ni òwúrọ̀ kùtùkùtù ọjọ́ keji idibò, ni ọjọ́ Ẹti, ọjọ́ kẹrinlélógún, oṣù kẹfa, èsi ibò jade pé ibò bẹ́ẹ̀kọ́ ju ibò bẹni lọ, eyi ti ó túmọ̀ si wi pé, ará ilú ti ó fẹ́ ki wọn ‘kúrò’ ni ẹgbẹ́ Ilú-Oyinbo pọ̀ ju àwọn ti wọn ó fẹ́ ki wọn ‘dúró‘ ninú ẹgbẹ́.
+A lérò wi pé àwọn oníwà ìbàjẹ́ ti ó jẹ́ Olóri Òṣèlú ilẹ̀ Alawo dudu ti ó n ja ilú lólè lati kó irú, ọrọ̀ ilú lọ pamọ́ si àwọn ilú ti o ti dàgbà sókè yio ronú pìwàdà.  
+Èrò ti ó n kú ni ilẹ̀ Aláwọ̀-dúdú nitori ọ̀nà ti kò dára, a i si ilé-ìwòsàn gidi, a i ni ohun amáyédẹrùn bi omi, iná mọ̀nàmọ́ná kò jẹ ki Aláwọ̀-dúdú Àméríkà lè fi orisun wọn yangàn.
+Ni Ìlú-Ọba, lẹhin ọdún mẹtalelogoji, èrò jade lati di ìbò bẹni-bẹ́ẹ̀kọ́ lori àjọṣepọ̀ pẹ̀lú ẹgbẹ́ Ìlú-Oyinbo méjidinlọ́gbọ̀n ni Ọjọ́bọ̀, oṣu Kẹfa, ọdún Egbàálémẹẹdógún.   
+Idibò na a lọ wẹ́rẹ́ lai si ìjà, kò gbà ju ìṣéjú kan si meji lọ lati wọlé dibò ti ó  bẹ̀rẹ̀ ni agogo meje àárọ̀ titi di aago mẹwa alẹ́.  
+Lẹhin idibò, ni òwúrọ̀ kùtùkùtù ọjọ́ keji idibò, ni ọjọ́ Ẹti, ọjọ́ kẹrinlélógún, oṣù kẹfa, èsi ibò jade pé ibò bẹ́ẹ̀kọ́ ju ibò bẹni lọ, eyi ti ó túmọ̀ si wi pé, ará ilú ti ó fẹ́ ki wọn ‘kúrò’ ni ẹgbẹ́ Ilú-Oyinbo pọ̀ ju àwọn ti wọn ó fẹ́ ki wọn ‘dúró‘ ninú ẹgbẹ́.
 
-Bi èsì ibò ti jade, Olóri Òṣèlú Ilú-Ọba, David Cameron, jade lati bá ará ilú sọ̀rọ̀.  Ninú ọ̀rọ̀ rẹ, ó ni nitori ohun polongo ki wọn dúró ninú ẹgbẹ́ Ilú-Oyinbo ṣùgbọ́n àwọn aráilú ti sọ̀rọ̀ wi pé ki wọn kúrò, nitori eyi ohun yio gbé Ijọba silẹ̀.
+Bi èsì ibò ti jade, Olóri Òṣèlú Ilú-Ọba, David Cameron, jade lati bá ará ilú sọ̀rọ̀.  Ninú ọ̀rọ̀ rẹ, ó ni nitori ohun polongo ki wọn dúró ninú ẹgbẹ́ Ilú-Oyinbo ṣùgbọ́n àwọn aráilú ti sọ̀rọ̀ wi pé ki wọn kúrò, nitori eyi ohun yio gbé Ijọba silẹ̀.
 
-Ẹ̀kọ́ fún Ìjọba tiwa ntiwa ni orilẹ̀ èdè Nigeria ni wi pé iwá ibàjẹ́ ti àwọn Òṣèlú nhu ni Àbùjá lai fi eti si ará ilú pé àwọn ẹ̀yà mẹ́yà orilẹ̀ èdè Nigeria fẹ́ dá Ìjọba wọn ṣe ju ki Òṣèlú joko si Àbùjá lati maa na owó gbogbo ará ilú.  
-Ó yẹ ki wọn ronú bi wọn yio ti ṣe Ìjọba ti yio mu irọ̀rùn ba gbogbo ipinlẹ Nigeria.  
-Ki wọn fi eti si ohun ti ará ilú lati Guusu dé Àriwá sọ, pé ki wọn joko sọ̀rọ̀ bi wọn yio ti ma bára gbé.  
-Igbe àwọn Igbo ti pọ si lẹhin ti wọn jagun abẹ́lé, àwọn ẹya miran bi Yorùbá nkun ni abẹ́lẹ̀ pé àwọn ma fẹ dá dúró ki wọn san iṣákọ́lẹ̀ fún Ìjọba àpapọ̀.
+Ẹ̀kọ́ fún Ìjọba tiwa ntiwa ni orilẹ̀ èdè Nigeria ni wi pé iwá ibàjẹ́ ti àwọn Òṣèlú nhu ni Àbùjá lai fi eti si ará ilú pé àwọn ẹ̀yà mẹ́yà orilẹ̀ èdè Nigeria fẹ́ dá Ìjọba wọn ṣe ju ki Òṣèlú joko si Àbùjá lati maa na owó gbogbo ará ilú.  
+Ó yẹ ki wọn ronú bi wọn yio ti ṣe Ìjọba ti yio mu irọ̀rùn ba gbogbo ipinlẹ Nigeria.  
+Ki wọn fi eti si ohun ti ará ilú lati Guusu dé Àriwá sọ, pé ki wọn joko sọ̀rọ̀ bi wọn yio ti ma bára gbé.  
+Igbe àwọn Igbo ti pọ si lẹhin ti wọn jagun abẹ́lé, àwọn ẹya miran bi Yorùbá nkun ni abẹ́lẹ̀ pé àwọn ma fẹ dá dúró ki wọn san iṣákọ́lẹ̀ fún Ìjọba àpapọ̀.
 
-Ó yẹ ki Òṣèlú Nigeria ṣe àyẹ̀wò òfin ti aṣojú Ilú Ọba – Lugard fi da Guusu àti Àríwá pọ fún irọ̀rùn ìṣàkóso orilẹ̀ èdè Nigeria ni ọgọrunlemeji ọdún sẹhin.  Nigeria gba Òmìnira ni bi ọdún mẹrindinlọgọta sẹhin.  
-Lẹhin Òmìnira, àwọn Òṣèlú pàtàki ni Ìwọ̀-oòrùn lábẹ́ Olóògbé Olóyè Ọbáfẹ́mi Awólọ́wọ fi ipò Òṣèlú ṣe iṣẹ́ ribiribi lati jẹ́ ki àwọn ará ilú jẹ èrè Òmìnira, ṣùgbọ́n lati igbà ti Ìjọba Ológun ti ó fi ibọn gba Ìjọba ti bẹ̀rẹ̀ si ṣe Òṣèlú ni ilú ti bàjẹ́ si, wọn si rò wi pé àwọn lé fi ipá kó orilẹ̀ èdè pọ.
-Lati ọjọ́ ti aláyé ti dá ayé ni Olówó tàbi Ọlọ́rọ̀ ti wà.  
-Ilẹ̀ Aláwọ̀dúdú kún fún ọrọ̀ oriṣiriṣi, ṣùgbọ́n, iwà àpà, ojúkòkòrò, ki kó ti ilé dà si ita, àti ìfẹ́ àjòjì ju ara ilé ẹni lọ, ló fa iṣẹ́ ti ó pọ̀ ni Ilẹ̀-Aláwọ̀dúdú.  
-Iwà burúkú wọnyi, pàtàki laarin àwọn Olóri ilú tàbi alágbára ló fa ti ta ara ẹni lẹ́rú si Òkè-Òkun, ogun abẹ́lé àti òwò ẹrú ti ayé òde òni ṣi wà.  
-Àwọn Òṣèlú àti Olóri ilú kò ti kọ́ ọgbọ́n, nitori wọn nṣe àṣiṣe si nipa li lo iṣẹ ti wọn gbà lai ṣe kó owó ilú jẹ, àbẹ̀tẹ́lẹ̀ gbigbà àti iwà ibàjẹ́ ló fa ibàjẹ́ ohun amáyédẹrùn àti ìṣẹ́ laarin ọrọ̀ ni orilẹ̀ èdè Nigeria.
+Ó yẹ ki Òṣèlú Nigeria ṣe àyẹ̀wò òfin ti aṣojú Ilú Ọba – Lugard fi da Guusu àti Àríwá pọ fún irọ̀rùn ìṣàkóso orilẹ̀ èdè Nigeria ni ọgọrunlemeji ọdún sẹhin.  Nigeria gba Òmìnira ni bi ọdún mẹrindinlọgọta sẹhin.  
+Lẹhin Òmìnira, àwọn Òṣèlú pàtàki ni Ìwọ̀-oòrùn lábẹ́ Olóògbé Olóyè Ọbáfẹ́mi Awólọ́wọ fi ipò Òṣèlú ṣe iṣẹ́ ribiribi lati jẹ́ ki àwọn ará ilú jẹ èrè Òmìnira, ṣùgbọ́n lati igbà ti Ìjọba Ológun ti ó fi ibọn gba Ìjọba ti bẹ̀rẹ̀ si ṣe Òṣèlú ni ilú ti bàjẹ́ si, wọn si rò wi pé àwọn lé fi ipá kó orilẹ̀ èdè pọ.
+Lati ọjọ́ ti aláyé ti dá ayé ni Olówó tàbi Ọlọ́rọ̀ ti wà.  
+Ilẹ̀ Aláwọ̀dúdú kún fún ọrọ̀ oriṣiriṣi, ṣùgbọ́n, iwà àpà, ojúkòkòrò, ki kó ti ilé dà si ita, àti ìfẹ́ àjòjì ju ara ilé ẹni lọ, ló fa iṣẹ́ ti ó pọ̀ ni Ilẹ̀-Aláwọ̀dúdú.  
+Iwà burúkú wọnyi, pàtàki laarin àwọn Olóri ilú tàbi alágbára ló fa ti ta ara ẹni lẹ́rú si Òkè-Òkun, ogun abẹ́lé àti òwò ẹrú ti ayé òde òni ṣi wà.  
+Àwọn Òṣèlú àti Olóri ilú kò ti kọ́ ọgbọ́n, nitori wọn nṣe àṣiṣe si nipa li lo iṣẹ ti wọn gbà lai ṣe kó owó ilú jẹ, àbẹ̀tẹ́lẹ̀ gbigbà àti iwà ibàjẹ́ ló fa ibàjẹ́ ohun amáyédẹrùn àti ìṣẹ́ laarin ọrọ̀ ni orilẹ̀ èdè Nigeria.
 
-Melo ninú ọmọ ayé òde òni ló ránti àwọn Ọlọ́rọ̀ ilẹ̀ Yorùbá ni aadọta ọdún sẹhin?  Òmíràn kò mọ itumọ̀ ọ̀rọ̀ Èkó/Yorùbá pé “Bi ó ti ẹ lówó bi Da Rocha” lai bèrè pé tani Da Rocha?  
-Àwọn Ọlọ́rọ̀ àná bi Candido Joao Da Rocha, Ọlọ́rọ̀ owó ọ̀kẹ́ aimoye àkọ́kọ́ ni orilẹ̀ èdè Nigeria ti ilú Èkó, Olóyè Adéọlá Odùtọ́lá ọ̀gá Oníṣòwò ti Ìjẹ̀bú-Òde ti ìpínlẹ̀ Ògùn, Oloye Àjàó, S. Bọlaji Bakare, I.O. Àjànàkú Iléṣà, Olóyè T.A. Oni & ati àwọn ọmọ-kunrin rẹ ni Ìbàdàn ìpínlẹ̀ Ọ̀yọ́, Oṣinọwọ oníṣòwò ọkọ̀ irinna ni Èkó, Mobọ́láji Bank-Anthony, Asábọ́rọ̀, ọmọ Ìkárọ̀ ni ẹ̀gbẹ́ Ọ̀wọ̀ ni ìpínlẹ̀ Ondo àti bẹ́ ẹ̀ bẹ́ ẹ̀ lọ ti wọn ti gbàgbé wọn pẹ̀lú ọrọ̀ ti wọn fi silẹ̀.  
-Àwọn ti wọn ránti, ki ṣe nitori ọrọ̀ ti wọn fi silẹ̀ láyé ni èrò ránti ṣùgbọ́n àwọn ọmọ tó gba ẹ̀kọ́ ni ó lè jẹ ki wọn ṣe iránti wọn àti bi wọn ti lo ọrọ̀ na a fún lati ṣe oore fún àwọn aláìní.
+Melo ninú ọmọ ayé òde òni ló ránti àwọn Ọlọ́rọ̀ ilẹ̀ Yorùbá ni aadọta ọdún sẹhin?  Òmíràn kò mọ itumọ̀ ọ̀rọ̀ Èkó/Yorùbá pé “Bi ó ti ẹ lówó bi Da Rocha” lai bèrè pé tani Da Rocha?  
+Àwọn Ọlọ́rọ̀ àná bi Candido Joao Da Rocha, Ọlọ́rọ̀ owó ọ̀kẹ́ aimoye àkọ́kọ́ ni orilẹ̀ èdè Nigeria ti ilú Èkó, Olóyè Adéọlá Odùtọ́lá ọ̀gá Oníṣòwò ti Ìjẹ̀bú-Òde ti ìpínlẹ̀ Ògùn, Oloye Àjàó, S. Bọlaji Bakare, I.O. Àjànàkú Iléṣà, Olóyè T.A. Oni & ati àwọn ọmọ-kunrin rẹ ni Ìbàdàn ìpínlẹ̀ Ọ̀yọ́, Oṣinọwọ oníṣòwò ọkọ̀ irinna ni Èkó, Mobọ́láji Bank-Anthony, Asábọ́rọ̀, ọmọ Ìkárọ̀ ni ẹ̀gbẹ́ Ọ̀wọ̀ ni ìpínlẹ̀ Ondo àti bẹ́ ẹ̀ bẹ́ ẹ̀ lọ ti wọn ti gbàgbé wọn pẹ̀lú ọrọ̀ ti wọn fi silẹ̀.  
+Àwọn ti wọn ránti, ki ṣe nitori ọrọ̀ ti wọn fi silẹ̀ láyé ni èrò ránti ṣùgbọ́n àwọn ọmọ tó gba ẹ̀kọ́ ni ó lè jẹ ki wọn ṣe iránti wọn àti bi wọn ti lo ọrọ̀ na a fún lati ṣe oore fún àwọn aláìní.
 
-Àwọn Ọlọ́rọ̀ Ilẹ̀ Aláwọ̀dúdú kò kọ́ ọgbọ́n ninú itàn igbẹhin Ọba àti Ìjòyè ti kò lo ipò wọn dáradára, àwọn ti ó fi èrú kó ọrọ̀ jọ, tàbi ti ó lo ipò wọn lati fi tẹ ará ilú mọ́lẹ̀ ni àtijọ́.  
-Irú ọrọ̀ bẹ́ ẹ̀  kò bá wọn kalẹ́ bẹni ìrántí wọn kò dára.
-Ni ọjọ́ keji ọ̀sẹ̀, ọjọ́ keje oṣù kẹfà, ọdún Ẹgbàá-lémẹ́rìndínlógún, ilé-iṣẹ́ Amóhùn-máwòrán Kẹrin ni Ilú-Ọba fi àpẹrẹ hàn bi àwọn ọmọ Ọlọ́rọ̀ lati Nigeria ti mba owó ninú jẹ́ ni Ilú-Ọba.  
-Yorùbá ni “Ohun ti a kò bá jiyà fún, ki i lè tọ́jọ́”.  
-Wọn nná owó ti ọgọrun enia lè ná ni ọdún kan ni alẹ́ ọjọ́ kan lai ronú ọ̀pọ̀ aláìní ni orílẹ̀ èdè wọn, ti Bàbá wọn ti fa ijiyà fún lati kó ọrọ̀ ti wọn nná dànù jọ.  
-Kò si ìyàlẹ́nu ni irú iwà ti àwọn ọmọ ọlọ́rọ̀ Nigeria wọnyi hù nitori ọ̀pọ̀lọpọ̀ wọn bàjẹ́, wọn kò ni ẹ̀kọ́, wọn kò mọ iyi owó nitori wọn kò ṣiṣẹ́ fun.
+Àwọn Ọlọ́rọ̀ Ilẹ̀ Aláwọ̀dúdú kò kọ́ ọgbọ́n ninú itàn igbẹhin Ọba àti Ìjòyè ti kò lo ipò wọn dáradára, àwọn ti ó fi èrú kó ọrọ̀ jọ, tàbi ti ó lo ipò wọn lati fi tẹ ará ilú mọ́lẹ̀ ni àtijọ́.  
+Irú ọrọ̀ bẹ́ ẹ̀  kò bá wọn kalẹ́ bẹni ìrántí wọn kò dára.
+Ni ọjọ́ keji ọ̀sẹ̀, ọjọ́ keje oṣù kẹfà, ọdún Ẹgbàá-lémẹ́rìndínlógún, ilé-iṣẹ́ Amóhùn-máwòrán Kẹrin ni Ilú-Ọba fi àpẹrẹ hàn bi àwọn ọmọ Ọlọ́rọ̀ lati Nigeria ti mba owó ninú jẹ́ ni Ilú-Ọba.  
+Yorùbá ni “Ohun ti a kò bá jiyà fún, ki i lè tọ́jọ́”.  
+Wọn nná owó ti ọgọrun enia lè ná ni ọdún kan ni alẹ́ ọjọ́ kan lai ronú ọ̀pọ̀ aláìní ni orílẹ̀ èdè wọn, ti Bàbá wọn ti fa ijiyà fún lati kó ọrọ̀ ti wọn nná dànù jọ.  
+Kò si ìyàlẹ́nu ni irú iwà ti àwọn ọmọ ọlọ́rọ̀ Nigeria wọnyi hù nitori ọ̀pọ̀lọpọ̀ wọn bàjẹ́, wọn kò ni ẹ̀kọ́, wọn kò mọ iyi owó nitori wọn kò ṣiṣẹ́ fun.
 
-Ọbabinrin Elizabeth Keji, pé aadọrun ọdún láyé ni ọjọ́ kọkànlélógún, oṣù kẹrin ọdún Ẹgbàálémẹrindinlólgún.  
-Gbogbo ará ilú àti àwọn Ìjọ Onigbàgbọ́ pé jọ lati ṣe ayẹyẹ à ṣe pọ̀ fún Ọbabinrin ni ọjọ́ Ìsimi, ọjọ́ kejila, oṣù kẹfà ọdún.  Eleyi bọ si àsikò ti ọkọ rẹ Philips pé ọgọrundinmarun ọdún.
+Ọbabinrin Elizabeth Keji, pé aadọrun ọdún láyé ni ọjọ́ kọkànlélógún, oṣù kẹrin ọdún Ẹgbàálémẹrindinlólgún.  
+Gbogbo ará ilú àti àwọn Ìjọ Onigbàgbọ́ pé jọ lati ṣe ayẹyẹ à ṣe pọ̀ fún Ọbabinrin ni ọjọ́ Ìsimi, ọjọ́ kejila, oṣù kẹfà ọdún.  Eleyi bọ si àsikò ti ọkọ rẹ Philips pé ọgọrundinmarun ọdún.
 
-Lẹhin ti Ọbabinrin Elizabeth keji gun ori oyè ni ọdún mẹtalelọgọta sẹhin, ó bẹ ilú Èkó wò ni ọgọta ọdún sẹhin, nigbati Ilú Èkó jẹ́ Olú-Ilú orilẹ̀ èdè Nigeria ki a tó gba Òminira lábẹ́ Ilú-Ọba ni odun Ẹdẹgbaalelọgọta.  
-A ṣe yi ṣe àmọ́dún o.  Ẹ ṣe àyẹ̀wò àwòrán wọnyi.
-Ìròyìn ikú Muhammad Ali ọmọ ọdún mẹ́rinlélaadọrin kàn ni oṣù kẹfa, ọjọ́ kẹta, ọdún Ẹgbàálémẹ́rìndínlógún.  Bi ó ti ẹ jẹ wi pé, Ali ti wà lóri àisàn fún bi ọgbọ̀n ọdún, inú ọmọdé àti àgbà ni àgbáyé ṣe ìdárò nigbati wọn gbọ ìròyìn ikú rẹ.
+Lẹhin ti Ọbabinrin Elizabeth keji gun ori oyè ni ọdún mẹtalelọgọta sẹhin, ó bẹ ilú Èkó wò ni ọgọta ọdún sẹhin, nigbati Ilú Èkó jẹ́ Olú-Ilú orilẹ̀ èdè Nigeria ki a tó gba Òminira lábẹ́ Ilú-Ọba ni odun Ẹdẹgbaalelọgọta.  
+A ṣe yi ṣe àmọ́dún o.  Ẹ ṣe àyẹ̀wò àwòrán wọnyi.
+Ìròyìn ikú Muhammad Ali ọmọ ọdún mẹ́rinlélaadọrin kàn ni oṣù kẹfa, ọjọ́ kẹta, ọdún Ẹgbàálémẹ́rìndínlógún.  Bi ó ti ẹ jẹ wi pé, Ali ti wà lóri àisàn fún bi ọgbọ̀n ọdún, inú ọmọdé àti àgbà ni àgbáyé ṣe ìdárò nigbati wọn gbọ ìròyìn ikú rẹ.
 
-Ki ṣe iṣẹ́ akànṣẹ́ nikan ni Muhammad Ali dúró fún, ó dúró fún ohun ti ó gbàgbọ́ lai bẹ̀rù.  Ni bi ọdún marun-dinlọgọta sẹhin, nigbati Aláwọ-funfun ṣe òfin lati ya Aláwọ̀-dúdú si ọ̀tọ̀, pé wọn kò lè lo ohun amáyédẹrùn (bi ọkọ̀ wi wọ̀ pọ̀, ilé oúnjẹ, ilé ìgbọ̀nsẹ̀ àti bẹ́ ẹ̀ b ẹ́ ẹ̀  lọ)  ti wọn pèsè fún ará ilú pẹ̀lú Aláwọ-funfun, Muhammad Ali kò pa ẹnu mọ lati dẹbi fún irú òfin àti iwà burúkú yi.  Ó kọ̀ lati lọ jagun, ti kò gbàgbọ́ nitori ó gbàgbọ́ pé alafia dára ju ogun lọ.  
-Muhammad Ali yi orúkọ ẹrú “Cacius Clay’’àti ẹ̀sìn padà lati kọ ẹ̀hin si iwà burúkú ti Aláwọ-funfun hù si enia rẹ.
+Ki ṣe iṣẹ́ akànṣẹ́ nikan ni Muhammad Ali dúró fún, ó dúró fún ohun ti ó gbàgbọ́ lai bẹ̀rù.  Ni bi ọdún marun-dinlọgọta sẹhin, nigbati Aláwọ-funfun ṣe òfin lati ya Aláwọ̀-dúdú si ọ̀tọ̀, pé wọn kò lè lo ohun amáyédẹrùn (bi ọkọ̀ wi wọ̀ pọ̀, ilé oúnjẹ, ilé ìgbọ̀nsẹ̀ àti bẹ́ ẹ̀ b ẹ́ ẹ̀  lọ)  ti wọn pèsè fún ará ilú pẹ̀lú Aláwọ-funfun, Muhammad Ali kò pa ẹnu mọ lati dẹbi fún irú òfin àti iwà burúkú yi.  Ó kọ̀ lati lọ jagun, ti kò gbàgbọ́ nitori ó gbàgbọ́ pé alafia dára ju ogun lọ.  
+Muhammad Ali yi orúkọ ẹrú “Cacius Clay’’àti ẹ̀sìn padà lati kọ ẹ̀hin si iwà burúkú ti Aláwọ-funfun hù si enia rẹ.
 
-Muhammad Ali mú adùn wọ iṣẹ́ akànṣẹ́, ó fi ọlà rẹ ṣe àánú fún ọ̀pọ̀lọpọ̀ aláìní, ó si jẹ àwòkọ̀ṣe fún àwọn ọ̀dọ́ pàtàki Aláwọ̀-dúdú ti ó fi hà̀n pé ‘kò si ohun ti kò ṣe é ṣe, bi enia bá fi ọkàn si’.  
-Eleyi jẹ ki èrò fẹ́ràn rẹ púpọ̀.
-Àwọn Olóri Ilú àti Ẹlẹ́sin ni oriṣiriṣi ati gbogbo àgbáyé ṣe ìdárò Muhammad Ali bi wọn ti ṣe ẹ̀yẹ ikẹhin tó yẹ fún Ọba, ni ibi ìtẹ́ ìsìnkú ni oṣù kẹfa, ọjọ́ kẹwa, ọdún Ẹgbàálémẹ́rìndínlógún.  Ọ̀pọ̀lọpọ̀ ọmọ, ọmọ-ọmọ, Ìyàwó, ẹbi àti ará ló gbẹ̀hin rẹ.  Sùn re o.
-Ohun ti Yorùbá mọ̀ si àròkàn n irònú igbà gbogbo.  
-Kò si ẹni ti ki ronú, ṣùgbọ́n àròkàn léwu.  Inú rirò yàtọ si àròkàn. 
-Inu rirò ni àwọn Onimọ-ijinlẹ̀ lò lati ṣe ọkọ̀ òfúrufú tàbi lọ si òṣùpá, oògùn igbàlódé lati wo àisàn, àti fún ipèsè ohun amáyédẹrùn igbàlódé yoku ṣùgbọ́n  àròkàn lo nfa pi-pokùnso, ipàniyàn, olè jijà àti iwà burúkú miran.
+Muhammad Ali mú adùn wọ iṣẹ́ akànṣẹ́, ó fi ọlà rẹ ṣe àánú fún ọ̀pọ̀lọpọ̀ aláìní, ó si jẹ àwòkọ̀ṣe fún àwọn ọ̀dọ́ pàtàki Aláwọ̀-dúdú ti ó fi hà̀n pé ‘kò si ohun ti kò ṣe é ṣe, bi enia bá fi ọkàn si’.  
+Eleyi jẹ ki èrò fẹ́ràn rẹ púpọ̀.
+Àwọn Olóri Ilú àti Ẹlẹ́sin ni oriṣiriṣi ati gbogbo àgbáyé ṣe ìdárò Muhammad Ali bi wọn ti ṣe ẹ̀yẹ ikẹhin tó yẹ fún Ọba, ni ibi ìtẹ́ ìsìnkú ni oṣù kẹfa, ọjọ́ kẹwa, ọdún Ẹgbàálémẹ́rìndínlógún.  Ọ̀pọ̀lọpọ̀ ọmọ, ọmọ-ọmọ, Ìyàwó, ẹbi àti ará ló gbẹ̀hin rẹ.  Sùn re o.
+Ohun ti Yorùbá mọ̀ si àròkàn n irònú igbà gbogbo.  
+Kò si ẹni ti ki ronú, ṣùgbọ́n àròkàn léwu.  Inú rirò yàtọ si àròkàn. 
+Inu rirò ni àwọn Onimọ-ijinlẹ̀ lò lati ṣe ọkọ̀ òfúrufú tàbi lọ si òṣùpá, oògùn igbàlódé lati wo àisàn, àti fún ipèsè ohun amáyédẹrùn igbàlódé yoku ṣùgbọ́n  àròkàn lo nfa pi-pokùnso, ipàniyàn, olè jijà àti iwà burúkú miran.
 
-Bi èniyàn bá lówó tàbi wa ni ipò agbára kò ni ki ó má ro àròkàn nitori ìbẹ̀rù ki ohun ini wọn ma
-parẹ́, àisàn, ọ̀fọ̀, àjálù, à i ri ọmọ bi, ọmọ ti o n hùwà burúkú àti àwọn oriṣiriṣi idi miran.  
-Bakan naa ni òtòṣì lè ni àròkàn nitori à i lówó lọ́wọ́ tàbi aini, àisàn, ọ̀fọ̀, ìrẹ́jẹ lati ọ̀dọ̀ ẹni ti ó ju ni lọ, ìrètí pi pẹ́ àti àwọn idi miran.
+Bi èniyàn bá lówó tàbi wa ni ipò agbára kò ni ki ó má ro àròkàn nitori ìbẹ̀rù ki ohun ini wọn ma
+parẹ́, àisàn, ọ̀fọ̀, àjálù, à i ri ọmọ bi, ọmọ ti o n hùwà burúkú àti àwọn oriṣiriṣi idi miran.  
+Bakan naa ni òtòṣì lè ni àròkàn nitori à i lówó lọ́wọ́ tàbi aini, àisàn, ọ̀fọ̀, ìrẹ́jẹ lati ọ̀dọ̀ ẹni ti ó ju ni lọ, ìrètí pi pẹ́ àti àwọn idi miran.
 
-Lára àmin àròkàn ni: à i lè sùn, à i lè jẹun, ìbẹ̀rù, ẹkún igbà gbogbo, ibànújẹ́ tàbi ọgbẹ́ ọkàn.  
-Àròkàn kò lè tú nkan ṣe à fi ki ó bá nkan jẹ si.  
-Ewu ti àròkàn lè fà ni: ẹ̀fọ́rí igbà gbogbo, aisan wẹ́rẹ-wẹ̀rẹ, aisan ẹ̀jẹ̀ riru, òyi àti àárẹ̀.
+Lára àmin àròkàn ni: à i lè sùn, à i lè jẹun, ìbẹ̀rù, ẹkún igbà gbogbo, ibànújẹ́ tàbi ọgbẹ́ ọkàn.  
+Àròkàn kò lè tú nkan ṣe à fi ki ó bá nkan jẹ si.  
+Ewu ti àròkàn lè fà ni: ẹ̀fọ́rí igbà gbogbo, aisan wẹ́rẹ-wẹ̀rẹ, aisan ẹ̀jẹ̀ riru, òyi àti àárẹ̀.
 
-Ni igbà miran kò si ohun ti èniyàn lè ṣe lati yẹ àròkàn pàtàki ẹni ti ọ̀fọ̀ ṣẹ, á ro  àròkàn ṣùgbọ́n ọ̀pọ̀ igbà àwọn ohun miran wà ni ikáwọ́ lati ṣe lati din àròkàn kù.   
-Lára ohun ti ẹni ti ó bá ni àròkàn lè ṣe ni: ki ó ni igbàgbọ́, ìtẹ́lọ́rùn, ro rere, ṣe iṣẹ rere,  jinà si elérò burúkú tàbi oníṣẹ́ ibi àti lati fẹ́ràn ẹni keji.
+Ni igbà miran kò si ohun ti èniyàn lè ṣe lati yẹ àròkàn pàtàki ẹni ti ọ̀fọ̀ ṣẹ, á ro  àròkàn ṣùgbọ́n ọ̀pọ̀ igbà àwọn ohun miran wà ni ikáwọ́ lati ṣe lati din àròkàn kù.   
+Lára ohun ti ẹni ti ó bá ni àròkàn lè ṣe ni: ki ó ni igbàgbọ́, ìtẹ́lọ́rùn, ro rere, ṣe iṣẹ rere,  jinà si elérò burúkú tàbi oníṣẹ́ ibi àti lati fẹ́ràn ẹni keji.
 
-Ẹ̀tẹ̀ tó mbá ilú jà ni ‘iwà-ibàjẹ́’.  
-Ìyà ti ará ilú njẹ lọ́wọ́lọ́wọ́, ki i ṣe èrè iwà-ibàjẹ́ ọdún kan, ṣùgbọ́n  ti ọ̀pọ̀lọpọ̀ ọdún.  
-Kò si ìfẹ́ ilú, nitori eyi, àwọn oniwà ibàjẹ́ ni àwọn ará ilú nyin bi wọn bá ti ẹ fi èrú kó owó jọ pàtàki ni ilé ìjọ́sìn, wọn kò ri ẹni ba wọn wi.
+Ẹ̀tẹ̀ tó mbá ilú jà ni ‘iwà-ibàjẹ́’.  
+Ìyà ti ará ilú njẹ lọ́wọ́lọ́wọ́, ki i ṣe èrè iwà-ibàjẹ́ ọdún kan, ṣùgbọ́n  ti ọ̀pọ̀lọpọ̀ ọdún.  
+Kò si ìfẹ́ ilú, nitori eyi, àwọn oniwà ibàjẹ́ ni àwọn ará ilú nyin bi wọn bá ti ẹ fi èrú kó owó jọ pàtàki ni ilé ìjọ́sìn, wọn kò ri ẹni ba wọn wi.
 
-Fún akiyesi, ilé iṣẹ́ ti ó n pèsè iná mọ̀nàmọ́ná, owó ti Ìjọba àpa-pọ̀ ba pin lati pèsè iná mọ̀nàmọ́ná fún gbogbo ará ilú, ọ̀gá ilé-iṣẹ́ á pin pẹ̀lú àwọn Ìjọba Ológun tàbi Òṣèlú Alágbádá.  
-Ni bi ọgbọ̀n ọdún sẹhin, nigbati àwọn ọmọ iṣẹ́ ri pé àwọn ọ̀gá ti ó nji owó, kò si ẹni ti ó mú wọn, àwọn na a brẹ̀rẹ̀ si lọ yọ nkan lára ẹ̀rọ ti ó gbé iná wọ àdúgbò lati lè gba àbẹ̀tẹ́lẹ̀ lọ́wọ́ ará àdúgbò.  
-Ará àdúgbò á dá owó ki àwọn òṣiṣẹ́ ilé-iṣẹ́ mọ̀nàmọ́ná tó wá tú ohun ti ó bàjẹ́ tàbi ohun ti wọn yọ ṣe.
-Kàkà ki ará ilú para-pọ̀ lati wo ẹ̀tẹ̀ san, nipa gbi gbé ogun ti iwà-ibàjẹ́ ni ilé-iṣẹ́ mọ̀nàmọ́ná, onikálùkù bẹ̀rẹ̀ si ṣètò fún ará wọn nipa ri ra ẹ̀rọ́ iná mọ̀nàmọ́ná ti àwọn Òyinbó ngbe dani nigbati wọn bá fẹ lọ pàgọ́.  
-Àwọn ẹ̀rọ wọnyi kò lágbára tó lati dipò iná mọ̀nàmọ́ná ti ó yẹ ki Ìjọba pèsè.  
-Àwọn ará ilú kò ro ìnáwó ti ó kó wọn si, ariwo, àti èéfín burúkú ti ẹ̀rọ yi nfẹ sinú afẹ́fẹ́.  
-Àwọn ti ó nja ilú lólè ni ó nkó ẹ̀rọ wọnyi wọlé, wọn kò gbèrò ki iná mọ̀nàmọ́ná wa nitori wọn kò ni ri ẹni ra ọjà wọn.   
-Wọn rò wi pé àwọn lè dá ilé-iṣẹ́ ti ó n pèsè iná mọ̀nàmọ́ná silẹ̀ ti ó lè lo atẹ́gùn, omi, epo rọ̀bì, oòrùn lati pèsè iná ti kò léwu bi ẹ̀rọ́ iná mọ̀nàmọ́ná.
+Fún akiyesi, ilé iṣẹ́ ti ó n pèsè iná mọ̀nàmọ́ná, owó ti Ìjọba àpa-pọ̀ ba pin lati pèsè iná mọ̀nàmọ́ná fún gbogbo ará ilú, ọ̀gá ilé-iṣẹ́ á pin pẹ̀lú àwọn Ìjọba Ológun tàbi Òṣèlú Alágbádá.  
+Ni bi ọgbọ̀n ọdún sẹhin, nigbati àwọn ọmọ iṣẹ́ ri pé àwọn ọ̀gá ti ó nji owó, kò si ẹni ti ó mú wọn, àwọn na a brẹ̀rẹ̀ si lọ yọ nkan lára ẹ̀rọ ti ó gbé iná wọ àdúgbò lati lè gba àbẹ̀tẹ́lẹ̀ lọ́wọ́ ará àdúgbò.  
+Ará àdúgbò á dá owó ki àwọn òṣiṣẹ́ ilé-iṣẹ́ mọ̀nàmọ́ná tó wá tú ohun ti ó bàjẹ́ tàbi ohun ti wọn yọ ṣe.
+Kàkà ki ará ilú para-pọ̀ lati wo ẹ̀tẹ̀ san, nipa gbi gbé ogun ti iwà-ibàjẹ́ ni ilé-iṣẹ́ mọ̀nàmọ́ná, onikálùkù bẹ̀rẹ̀ si ṣètò fún ará wọn nipa ri ra ẹ̀rọ́ iná mọ̀nàmọ́ná ti àwọn Òyinbó ngbe dani nigbati wọn bá fẹ lọ pàgọ́.  
+Àwọn ẹ̀rọ wọnyi kò lágbára tó lati dipò iná mọ̀nàmọ́ná ti ó yẹ ki Ìjọba pèsè.  
+Àwọn ará ilú kò ro ìnáwó ti ó kó wọn si, ariwo, àti èéfín burúkú ti ẹ̀rọ yi nfẹ sinú afẹ́fẹ́.  
+Àwọn ti ó nja ilú lólè ni ó nkó ẹ̀rọ wọnyi wọlé, wọn kò gbèrò ki iná mọ̀nàmọ́ná wa nitori wọn kò ni ri ẹni ra ọjà wọn.   
+Wọn rò wi pé àwọn lè dá ilé-iṣẹ́ ti ó n pèsè iná mọ̀nàmọ́ná silẹ̀ ti ó lè lo atẹ́gùn, omi, epo rọ̀bì, oòrùn lati pèsè iná ti kò léwu bi ẹ̀rọ́ iná mọ̀nàmọ́ná.
 
-Ẹ̀tẹ̀ ṣòro lati wòsàn ju làpálàpá lọ, ibàjẹ́ ló yára lati ṣe ju lati tú nkan ṣe lọ. O ye ki ará ilú para pọ̀ pẹ̀lú Ìjọba lọ́wọ́lọ́wọ́, lati gbé ogun ti iwà ibàjẹ́ àti àwọn aṣèbàjẹ́, ju pé ki wọn fi ara gbi gbóná kọ ìyà ọgbọ̀n ọdún laarin ọdún kan tàbi meji.
-Ìròyìn ti o jade ni ọjọ́ Ìṣẹ́gun, ọjọ́ kẹwa, oṣú karun, ọdún Ẹgbàá-le-mẹ́rìndínlógún, sọ wi pé Olóri Òṣèlú Ilú Ọba, David Cameron pe orilẹ̀ èdè Nigeria ni ilú ti ó hu iwà ibàjẹ́ jù ni àgbáyé.  
-Kò ṣe àlàyé bi Ì̀jọba ilú rẹ ti ngba owó iwà ibàjẹ́ pamọ́ lati fi tú ilú wọn ṣe.
-Ẹni gbé epo lájà, bi kò bá ri ẹni gba a pamọ́, kò ni ya lára lati tún ji omiran.  
-Bi kò ri ẹni gba a, ó lè jẹ epo na a tàbi ki ẹni tó ni epo ri mú ni wéré.  
-Gẹgẹ bi òwe Yorùbá ti sọ pé “Ẹni gbé epo lájà, kò jalè̀ tó ẹni gba a”, bi àwọn ti ó n fi ọna èrú àti iwà ibàjẹ́ ja ilú lólè, kò bá ri àwọn Ilú Ọba gba owó iwà ibàjẹ́  lọ́wọ́ wọn, iwá burúkú á din kù.
-Ogun ti Ìjọba tuntun ni Nigeria gbé ti iwà ibàjẹ́ lati igbà ti ará ilú ti dibò yan Ìjọba tuntun -Muhammadu  Buhari àti Yẹmi Osinbajo, ni bi ọdún kan sẹhin ni lati jẹ ki àwọn tó hu iwa ibaje jẹ èrè iṣẹ́ ibi, ki wọn si gba owó iwà ibàjẹ́ padà si àpò ilú.  
-Eyi ti ó ṣe pàtàki jù ni ki Ìjọba Ilú Ọba ṣe àlàyé bi wọn yio ti da àwon owó Nigeria padà ni ipàdé gbi gbógun ti iwa ibaje, ki wọn lè fihan pé àwọn kò fi ọwọ́ si iwà ibàjẹ́.
-Ìbá ṣe pọ̀ laarin Yorùbá àti Ìlú-Ọba ti lé ni igba ọdún nitori òwò Òkè-òkun, pàtàki òwò ẹrú àti fún ẹ̀kọ́ ni ilé iwé giga.  
-Nitori eyi, àṣà àti èdè Yorùbá kò ṣe fi ọwọ́ rọ sẹhin.
-Ni Ilú-Ọba, ẹ̀tọ́ ará ilú ni ki Ìjọba pèsè ohun amáyédẹrùn, pàtàki ibùgbé fún ọmọ ilú, ilé-ìwòsàn ọ̀fẹ́ fún ọmọ àti ará ilú.  
-Àwọn ẹ̀tọ́ wọnyi kò tọ́ si àlejò, ẹni ti ó fi èrú wọ ilú ti kò ni àṣẹ igbelu, tàbi ẹni tó ni iwé lati ṣe iṣẹ ṣùgbọ́n ko ti i di ará ilú.  
-Ẹni ti ó ni iwé-igbelu lati ṣe iṣẹ́ ti ko ti di ará ilú kò ni ẹ̀tọ́ si ilé Ìjọba, ṣùgbọ́n wọn ni ẹ̀tọ́ si ilé-ìwòsàn ọ̀fẹ́. 
-Iwé ìròyìn irọlẹ, gbe jade bi Trudy Alli-Balogun, ti lo ipò rẹ ni ilé iṣẹ́ ti ó nṣe ipèsè ibùgbé fún ọmọ ilú, lati gba àbẹ̀tẹ́lẹ̀ lọ́wọ́ àwọn Yorùbá ti kò ni ẹ̀tọ́ si irú ilé bẹ́ ẹ̀.  
-Wọn ṣe ìdájọ́ ẹ̀wọ̀n ọdún marun fún.
-Ìròyìn ti ó gbòde ni inu iwé ìròyìn  àti lori ayélujára fi han bi àwọn Olóri Òṣèlú, Aṣòfin àgbà nla àti kékeré, òṣiṣẹ́ Ìjọba àgbà àti àwọn ti ó wà ni ipó giga ni Nigeria ti lo ipò wọn lati fi ja ilu lólè.  
-Àyipadà ni Ìjọba pẹ̀lú pe Olóri Òṣèlú Muhammadu Buhari/Yẹmi Osinbajo ti ó gbógun ti iwà ibàjẹ́, ló jẹ ki àṣiri iṣẹ́ ibi wọnyi jade si ará ilú bi àwọn ti ó  wà ni ipò giga ti nlo ipò lati fi hu iwà ibàjẹ́ nitori àti kó ọrọ̀ jọ ni ọ̀nà ẹ̀bùrú.
-Yorùbá sọ wi pé “Ìṣe ilé ló mbá ni dode”.  
-Ni àtijọ́, àṣà Yorùbá ni lati wá idi bi enia ti kó ọrọ̀ jọ, ṣùgbọ́n ni ayé òde oni, olówó ni wọ́n mbọ, bi ó bá ti ẹ jalè tàbi ti ẹ̀wọ̀n de nitori iṣẹ́ ibi.  
-Àyipadà burúkú yi ni obìnirin Trudy Alli-Balogun gbé dé ẹnu iṣẹ́ lati ja ilé iṣẹ́ rẹ ni olè ọ̀kẹ́ aimoye, ti ó si na owó bẹ́ ẹ̀ ni ìná àpà lai ronú orúkọ burúkú ti ó rà fún Yorùbá àti gbogbo orilẹ̀ èdè Nigeria ni Ilú-Ọba àti pé irú iwà ibàjẹ́ yi ló ba ohun amáyédẹrùn jẹ ni Nigeria.  
-Iwà ibàjẹ́ kò ni orúkọ meji, ẹni ba jalè ba ọmọ jẹ́.
-Yorùbá fẹ́ràn ayẹyẹ ṣi ṣe púpọ̀ pàtàki fún igbéyàwó.  
-Ni ayé àtijọ́, ìnáwó igbéyàwó kò tó bi ó ti dà ni ayé òde òni.  
-Titi di bi ogoji ọdún sẹhin, ilé Bàbá Iyàwó tàbi ọgbà ẹbi ni wọn ti nṣe àpèjọ igbéyàwó.  
-Ẹbi ọ̀tún àti ti òsi yio joko fún ètò igbéyàwó lati gba ẹbi ọkọ ni àlejò fún àdúrà gbi gbà fún àwọn ọmọ ti ó nṣe igbéyàwó àti lati gbà wọn ni ìyànjú bi ó ṣe yẹ ki wọn gbé pọ̀ ni irọ̀rùn.  
-Ẹbi ọkọ yio kó ẹrù ti ẹbi iyàwó ma ngbà fún wọn, lẹhin eyi, ẹbi iyàwó yio pèsè oúnjẹ fún onilé àti àlejò.  
-Onilù àdúgbò lè lùlù ki wọn jó, ṣùgbọ́n kò kan dandan ki wọn lu ilu tàbi ki wọn jó.
-Nigbati ìnáwó rẹpẹtẹ fún igbeyawo bẹ̀rẹ̀, àwọn ẹlòmíràn bẹ̀rẹ̀ si jẹ igbèsè lati ṣe igbéyàwó pàtàki igbéyàwó ti Olóyìnbó ti a mọ si igbéyàwó-olórùka.  
-Nitori àṣejù yi, olè bẹ̀rẹ̀ si jà ni ibi igbéyàwó, eyi jẹ́ ki wọn gbé àpèjẹ igbéyàwó àti àwọn ayẹyẹ yoku kúrò ni ilé.  
-Wọn bẹ̀rẹ̀ si gbé àpèjẹ lọ si ọgbà ilé-iwé, ilé ìjọ́sìn tàbi ọgbà ilú àti ilé-ayẹyẹ.
-Yorùbá fẹ́ràn ayẹyẹ ṣi ṣe púpọ̀, ṣùgbọ́n àṣà tó gbòde ni ayé òde òni, ni igbéyàwó àti ayẹyẹ bi ọjọ́ ìbí ṣi ṣe ni òkèrè.  
-Gẹgẹ bi àṣà Yorùbá, ibi ti ẹbi iyàwó bá ngbé ni ẹbi ọkọ yio lọ lati ṣe igbéyàwó.  
-Ẹni ti kò ni ẹbi àti ará tàbi gbé ilú miran pàtàki Òkè-Òkun/Ilú Òyìnbó, yio lọ ṣe igbéyàwó ọmọ ni òkèrè.  
-Wọn yio pe ẹbi àti ọ̀rẹ́ ti ó bá ni owó lati bá wọn lọ si irú igbéyàwó bẹ́ ẹ̀.  
-Ẹbi ti kò bá ni owó, kò ni lè lọ nitori kò ni ri iwé irinna gbà.  
-A ri irú igbéyàwó yi, ti ẹbi ọkọ tàbi ti iyàwó kò lè lọ.  
-Eleyi wọ́pọ laarin àwọn Òṣèlú, Ọ̀gá Òṣìṣẹ́ Ìjọba àti àwọn ti ó ri owó ilú kó jẹ.
-Igbéyàwó àti ayẹyẹ ṣi ṣe ni òkèrè, jẹ́ ikan ninú àṣà ti ó mba owó ilú jẹ́.   
-Lati kúrò ni ilú ẹni lọ ṣe iyàwó tàbi ayẹyẹ ni ilú miran, wọn ni lati ṣẹ́ Naira si owó ilu ibi ti wọn ti fẹ́ lọ ṣe ayẹyẹ, lẹhin ìnáwó iwé irinna àti ọkọ̀ òfúrufú.  
-Ilú miran ni ó njẹ èrè ìnáwó bẹ́ ẹ̀, nitori bi wọn bá ṣe e ni ilé, èrò púpọ̀ ni yio jẹ èrè, pàtàki Alásè àti Onilù.  
-A lérò wi pé ni àsìkò ọ̀wọ́n owó pàtàki owó òkèrè ni ilú lati ṣe nkan gidi, ifẹ́ iná àpà fún ayẹyẹ á din kù.
-Ìbẹ̀rù tó gbòde ayé òde òni ni pé “Ayé Móoru”, nitori iṣẹ̀lẹ̀ ti o nṣẹlẹ̀ ni àgbáyé bi òjò àrọ̀ irọ̀ dá ni ilú kan, ilẹ̀-riru ni òmìràn, ọ̀gbẹlẹ̀, omíyalé, ijà iná àti bẹ́ ẹ̀ bẹ́ ẹ̀ lọ.  
-Eleyi dá ìbẹ̀rù silẹ̀ ni àgbáyé pàtàki ni àwọn ilú Òkè-Òkun bi Àmẹ́ríkà ti ó ka àwọn iṣẹ̀lẹ̀ wọnyi si àfọwọ́fà ọmọ ẹda.  
-Wọn kilọ̀ pé bi wọn kò bá wá nkan ṣe si Ayé Móoru yi, ayé yio parẹ́.
+Ẹ̀tẹ̀ ṣòro lati wòsàn ju làpálàpá lọ, ibàjẹ́ ló yára lati ṣe ju lati tú nkan ṣe lọ. O ye ki ará ilú para pọ̀ pẹ̀lú Ìjọba lọ́wọ́lọ́wọ́, lati gbé ogun ti iwà ibàjẹ́ àti àwọn aṣèbàjẹ́, ju pé ki wọn fi ara gbi gbóná kọ ìyà ọgbọ̀n ọdún laarin ọdún kan tàbi meji.
+Ìròyìn ti o jade ni ọjọ́ Ìṣẹ́gun, ọjọ́ kẹwa, oṣú karun, ọdún Ẹgbàá-le-mẹ́rìndínlógún, sọ wi pé Olóri Òṣèlú Ilú Ọba, David Cameron pe orilẹ̀ èdè Nigeria ni ilú ti ó hu iwà ibàjẹ́ jù ni àgbáyé.  
+Kò ṣe àlàyé bi Ì̀jọba ilú rẹ ti ngba owó iwà ibàjẹ́ pamọ́ lati fi tú ilú wọn ṣe.
+Ẹni gbé epo lájà, bi kò bá ri ẹni gba a pamọ́, kò ni ya lára lati tún ji omiran.  
+Bi kò ri ẹni gba a, ó lè jẹ epo na a tàbi ki ẹni tó ni epo ri mú ni wéré.  
+Gẹgẹ bi òwe Yorùbá ti sọ pé “Ẹni gbé epo lájà, kò jalè̀ tó ẹni gba a”, bi àwọn ti ó n fi ọna èrú àti iwà ibàjẹ́ ja ilú lólè, kò bá ri àwọn Ilú Ọba gba owó iwà ibàjẹ́  lọ́wọ́ wọn, iwá burúkú á din kù.
+Ogun ti Ìjọba tuntun ni Nigeria gbé ti iwà ibàjẹ́ lati igbà ti ará ilú ti dibò yan Ìjọba tuntun -Muhammadu  Buhari àti Yẹmi Osinbajo, ni bi ọdún kan sẹhin ni lati jẹ ki àwọn tó hu iwa ibaje jẹ èrè iṣẹ́ ibi, ki wọn si gba owó iwà ibàjẹ́ padà si àpò ilú.  
+Eyi ti ó ṣe pàtàki jù ni ki Ìjọba Ilú Ọba ṣe àlàyé bi wọn yio ti da àwon owó Nigeria padà ni ipàdé gbi gbógun ti iwa ibaje, ki wọn lè fihan pé àwọn kò fi ọwọ́ si iwà ibàjẹ́.
+Ìbá ṣe pọ̀ laarin Yorùbá àti Ìlú-Ọba ti lé ni igba ọdún nitori òwò Òkè-òkun, pàtàki òwò ẹrú àti fún ẹ̀kọ́ ni ilé iwé giga.  
+Nitori eyi, àṣà àti èdè Yorùbá kò ṣe fi ọwọ́ rọ sẹhin.
+Ni Ilú-Ọba, ẹ̀tọ́ ará ilú ni ki Ìjọba pèsè ohun amáyédẹrùn, pàtàki ibùgbé fún ọmọ ilú, ilé-ìwòsàn ọ̀fẹ́ fún ọmọ àti ará ilú.  
+Àwọn ẹ̀tọ́ wọnyi kò tọ́ si àlejò, ẹni ti ó fi èrú wọ ilú ti kò ni àṣẹ igbelu, tàbi ẹni tó ni iwé lati ṣe iṣẹ ṣùgbọ́n ko ti i di ará ilú.  
+Ẹni ti ó ni iwé-igbelu lati ṣe iṣẹ́ ti ko ti di ará ilú kò ni ẹ̀tọ́ si ilé Ìjọba, ṣùgbọ́n wọn ni ẹ̀tọ́ si ilé-ìwòsàn ọ̀fẹ́. 
+Iwé ìròyìn irọlẹ, gbe jade bi Trudy Alli-Balogun, ti lo ipò rẹ ni ilé iṣẹ́ ti ó nṣe ipèsè ibùgbé fún ọmọ ilú, lati gba àbẹ̀tẹ́lẹ̀ lọ́wọ́ àwọn Yorùbá ti kò ni ẹ̀tọ́ si irú ilé bẹ́ ẹ̀.  
+Wọn ṣe ìdájọ́ ẹ̀wọ̀n ọdún marun fún.
+Ìròyìn ti ó gbòde ni inu iwé ìròyìn  àti lori ayélujára fi han bi àwọn Olóri Òṣèlú, Aṣòfin àgbà nla àti kékeré, òṣiṣẹ́ Ìjọba àgbà àti àwọn ti ó wà ni ipó giga ni Nigeria ti lo ipò wọn lati fi ja ilu lólè.  
+Àyipadà ni Ìjọba pẹ̀lú pe Olóri Òṣèlú Muhammadu Buhari/Yẹmi Osinbajo ti ó gbógun ti iwà ibàjẹ́, ló jẹ ki àṣiri iṣẹ́ ibi wọnyi jade si ará ilú bi àwọn ti ó  wà ni ipò giga ti nlo ipò lati fi hu iwà ibàjẹ́ nitori àti kó ọrọ̀ jọ ni ọ̀nà ẹ̀bùrú.
+Yorùbá sọ wi pé “Ìṣe ilé ló mbá ni dode”.  
+Ni àtijọ́, àṣà Yorùbá ni lati wá idi bi enia ti kó ọrọ̀ jọ, ṣùgbọ́n ni ayé òde oni, olówó ni wọ́n mbọ, bi ó bá ti ẹ jalè tàbi ti ẹ̀wọ̀n de nitori iṣẹ́ ibi.  
+Àyipadà burúkú yi ni obìnirin Trudy Alli-Balogun gbé dé ẹnu iṣẹ́ lati ja ilé iṣẹ́ rẹ ni olè ọ̀kẹ́ aimoye, ti ó si na owó bẹ́ ẹ̀ ni ìná àpà lai ronú orúkọ burúkú ti ó rà fún Yorùbá àti gbogbo orilẹ̀ èdè Nigeria ni Ilú-Ọba àti pé irú iwà ibàjẹ́ yi ló ba ohun amáyédẹrùn jẹ ni Nigeria.  
+Iwà ibàjẹ́ kò ni orúkọ meji, ẹni ba jalè ba ọmọ jẹ́.
+Yorùbá fẹ́ràn ayẹyẹ ṣi ṣe púpọ̀ pàtàki fún igbéyàwó.  
+Ni ayé àtijọ́, ìnáwó igbéyàwó kò tó bi ó ti dà ni ayé òde òni.  
+Titi di bi ogoji ọdún sẹhin, ilé Bàbá Iyàwó tàbi ọgbà ẹbi ni wọn ti nṣe àpèjọ igbéyàwó.  
+Ẹbi ọ̀tún àti ti òsi yio joko fún ètò igbéyàwó lati gba ẹbi ọkọ ni àlejò fún àdúrà gbi gbà fún àwọn ọmọ ti ó nṣe igbéyàwó àti lati gbà wọn ni ìyànjú bi ó ṣe yẹ ki wọn gbé pọ̀ ni irọ̀rùn.  
+Ẹbi ọkọ yio kó ẹrù ti ẹbi iyàwó ma ngbà fún wọn, lẹhin eyi, ẹbi iyàwó yio pèsè oúnjẹ fún onilé àti àlejò.  
+Onilù àdúgbò lè lùlù ki wọn jó, ṣùgbọ́n kò kan dandan ki wọn lu ilu tàbi ki wọn jó.
+Nigbati ìnáwó rẹpẹtẹ fún igbeyawo bẹ̀rẹ̀, àwọn ẹlòmíràn bẹ̀rẹ̀ si jẹ igbèsè lati ṣe igbéyàwó pàtàki igbéyàwó ti Olóyìnbó ti a mọ si igbéyàwó-olórùka.  
+Nitori àṣejù yi, olè bẹ̀rẹ̀ si jà ni ibi igbéyàwó, eyi jẹ́ ki wọn gbé àpèjẹ igbéyàwó àti àwọn ayẹyẹ yoku kúrò ni ilé.  
+Wọn bẹ̀rẹ̀ si gbé àpèjẹ lọ si ọgbà ilé-iwé, ilé ìjọ́sìn tàbi ọgbà ilú àti ilé-ayẹyẹ.
+Yorùbá fẹ́ràn ayẹyẹ ṣi ṣe púpọ̀, ṣùgbọ́n àṣà tó gbòde ni ayé òde òni, ni igbéyàwó àti ayẹyẹ bi ọjọ́ ìbí ṣi ṣe ni òkèrè.  
+Gẹgẹ bi àṣà Yorùbá, ibi ti ẹbi iyàwó bá ngbé ni ẹbi ọkọ yio lọ lati ṣe igbéyàwó.  
+Ẹni ti kò ni ẹbi àti ará tàbi gbé ilú miran pàtàki Òkè-Òkun/Ilú Òyìnbó, yio lọ ṣe igbéyàwó ọmọ ni òkèrè.  
+Wọn yio pe ẹbi àti ọ̀rẹ́ ti ó bá ni owó lati bá wọn lọ si irú igbéyàwó bẹ́ ẹ̀.  
+Ẹbi ti kò bá ni owó, kò ni lè lọ nitori kò ni ri iwé irinna gbà.  
+A ri irú igbéyàwó yi, ti ẹbi ọkọ tàbi ti iyàwó kò lè lọ.  
+Eleyi wọ́pọ laarin àwọn Òṣèlú, Ọ̀gá Òṣìṣẹ́ Ìjọba àti àwọn ti ó ri owó ilú kó jẹ.
+Igbéyàwó àti ayẹyẹ ṣi ṣe ni òkèrè, jẹ́ ikan ninú àṣà ti ó mba owó ilú jẹ́.   
+Lati kúrò ni ilú ẹni lọ ṣe iyàwó tàbi ayẹyẹ ni ilú miran, wọn ni lati ṣẹ́ Naira si owó ilu ibi ti wọn ti fẹ́ lọ ṣe ayẹyẹ, lẹhin ìnáwó iwé irinna àti ọkọ̀ òfúrufú.  
+Ilú miran ni ó njẹ èrè ìnáwó bẹ́ ẹ̀, nitori bi wọn bá ṣe e ni ilé, èrò púpọ̀ ni yio jẹ èrè, pàtàki Alásè àti Onilù.  
+A lérò wi pé ni àsìkò ọ̀wọ́n owó pàtàki owó òkèrè ni ilú lati ṣe nkan gidi, ifẹ́ iná àpà fún ayẹyẹ á din kù.
+Ìbẹ̀rù tó gbòde ayé òde òni ni pé “Ayé Móoru”, nitori iṣẹ̀lẹ̀ ti o nṣẹlẹ̀ ni àgbáyé bi òjò àrọ̀ irọ̀ dá ni ilú kan, ilẹ̀-riru ni òmìràn, ọ̀gbẹlẹ̀, omíyalé, ijà iná àti bẹ́ ẹ̀ bẹ́ ẹ̀ lọ.  
+Eleyi dá ìbẹ̀rù silẹ̀ ni àgbáyé pàtàki ni àwọn ilú Òkè-Òkun bi Àmẹ́ríkà ti ó ka àwọn iṣẹ̀lẹ̀ wọnyi si àfọwọ́fà ọmọ ẹda.  
+Wọn kilọ̀ pé bi wọn kò bá wá nkan ṣe si Ayé Móoru yi, ayé yio parẹ́.
 Àpẹrẹ miran ti a lè fi ṣe àlàyé pé “Ọ̀run nyabọ̀, ki ṣé ọ̀rọ̀ ẹnìkan”, ni ẹni ti ó sọ pé ohun ri amin pé ayé ti fẹ parẹ́, àwọn kan gbàgbọ́, wọn bẹ̀rẹ̀ si ta ohun ìní wọn.  
 Àti ẹni ti ó ta ohun ìní àti ẹni ti ó ra, kò si ninú wọn ti ó ma mú nkankan lọ ti ayé bá parẹ ni tootọ.   
 Elòmíràn, kò ni ṣe iwadi ohun ti àwọn èniyàn fi ńsáré, ki ó tó bẹ̀rẹ̀ si sáré.  
@@ -997,256 +997,256 @@ Elòmíràn, kò ni ṣe iwadi ohun ti àwọn èniyàn fi ńsáré, ki ó tó b
 Fún àpẹrẹ, nigbati iná ajónirun balẹ̀ ni àgọ́ Ológun ni Ikẹja ni ìlú Èkó ni bi ọdún mẹwa sẹhin.  
 Bi àwọn kan ti gbọ́ ìró iná ajónirun yi, wọn sáré titi ọpọ fi parun si inú irà ni Ejigbo ni ọ̀nà jínjìn si ibi ti ìṣẹ̀lẹ̀ ti ṣẹlẹ̀.
 Òwe Yorùbá yi ṣe gba àwọn ti o nbẹ̀rù nigba gbogbo níyànjú wí pé ó yẹ ki èniyàn fara balẹ̀ lati ṣe iwadi ohun ti ó fẹ́ ṣẹlẹ̀ ki ó tó “kú sílẹ̀ de ikú”. 
-Bi èniyàn bẹ̀rù á kú, bi kò bẹ̀rù á kú, nitori gẹ́gẹ́ bi itàn àdáyébá, gbogbo ohun ti ó nṣẹlẹ̀ láyé òde òni ló ti ṣẹlẹ̀ ri.
-Àṣà Yorùbá ma ńri ọpẹ́ ninú ohun gbogbo, nitori eyi ni àjọyọ̀ àti ayẹyẹ ṣe pọ ni ilẹ̀ Yorùbá.  
-Bi kò bá ṣe ayẹyẹ igbéyàwó; á jẹ́ idúpẹ́ fun ikómọ/isọmọlórúkọ; ìsìnku arúgbó; ikóyọ ninú ewu ijàmbá ọkọ̀; iṣile; oyè gbigbà ni ilé-iwé giga tàbi oyé ilú; idúpẹ́ ìparí ọdún tàbi ọdún tuntun àti bẹ̃bẹ̃ lọ.  
-Kò si igbà ti àlejò kò ni ri ibi ti wọn ti ńṣe ayẹyẹ kan tàbi èkeji ni gbogbo ilẹ́ Yorùbá.  
-Eyi jẹ́ ki àlejò rò wipé igbà gbogbo ni Yorùbá fi ńṣọdún.
-Kò si ẹni ti o ńdúpẹ́ ti inú rẹ ńbàjẹ́, tijó tayọ̀ ni enia fi nṣe idúpẹ́.  
-Ninú idúpẹ́ àti àjọyọ̀ yi ni ẹni ti inu rẹ bàjẹ́ miran ti lè ni ireti pé ire ti ohun naa yio dé.  
-Ni ilú Èkó, lati Ọjọ́bọ̀ titi dé ọjọ́ Àikú ni enia yio ri ibi ti wọn ti ńṣe ayẹyẹ.  
-Ọjọ́bọ̀ jẹ ọjọ́ ti wọn ńṣe àisùn-òkú; ọjọ́ Ẹti ni isinkú, ọjọ́ Àbámẹ́ta ni ti ayẹyẹ igbéyàwó nigbati ọjọ́ Àikú wà fún idúpẹ́ pàtàki ni ilé ijọsin onigbàgbọ́.  
-Ọ̀pọ̀lọpọ̀ ayẹyẹ yi ló mú ipèsè jijẹ, mimu, ilù àti ijó lati ṣe àlejò fún ẹbi, ará àti ọ̀rẹ́ ti ó wá báni ṣe ayẹyẹ.
-A lè fi òwe Yorùbá ti ó ni “A ò mọ èyi ti Ọlọrun yio ṣe, kò jẹ́ ki á binú kú”, tu ẹni ti ó bá ni ìrẹ̀wẹ̀sì ninú, pé ọjọ́ ọ̀la yio dára.   
-Yorùbá gbàgbọ́  pé ẹni ti kò ri jẹ loni, bi kò bá kú, ti ó tẹpá-mọ́ṣẹ́, lè di ọlọ́rọ̀ ni ọ̀la. 
-Nitori eyi, kò yẹ ki enia “Kú silẹ̀ de ikú” nitorina, “Bi ẹ̀mi bá wà, ireti ḿbẹ”.
-À ì sí Iná Mọ̀nà-mọ́ná àti Epo Ọkọ̀ bá Onílé pẹ̀lú Àlejò.
-Ki gbogbo Nigeria tó gba ominira ni àwọn Òṣèlú lábẹ́ olùdari Olóyè Ọbáfẹ́mi Awolọwọ ti fi owó kòkó àti iṣẹ́-àgbẹ̀ dá nkan ṣe fún gbogbo ilẹ̀ Yorùbá.  
-Yorùbá jẹ èrè àwọn ohun gidi, amáyé-dẹrùn bi ilé-iwé ọ̀fẹ́, ilé-ìwòsàn ọ̀fẹ́, ilé iṣẹ́ amóhùn-máwòrán àkọ́kọ́, ilé àwọn àgbẹ̀ (olókè mẹrin-lé-lógún – ilé giga àkọ́kọ́), ọ̀nà ọlọ́dà, omi, iná mọ̀nà-mọ́ná àti bẹ́ẹ̀bẹ́ẹ̀ lọ.  
-Àwọn ohun ipèsè wọnyi jẹ èrè lati ọ̀dọ̀ Òṣèlú tó fẹ́ràn ilú ti ó gbé wọn dé ipò, eleyi jẹ àwò kọ́ iṣe fún àwọn Òṣèlú ẹ̀yà ilẹ̀ Nigeria yókù.
-Ìjọba Ológun fi ibọn àti ipá gbé ara wọn si ipò Òṣèlú, wọn fi ipá kó gbogbo ohun amáyé-dẹrùn si abẹ́ Ìjọba àpapọ̀.  
-Lati igbà yi ni ilé-iwé kékeré àti giga, ilé-ìwòsàn àti ohun amáyé-dẹrùn ti Òṣèlú pèsè fún agbègbè wọn ti bẹ̀rẹ̀ si bàjẹ́.  
-A lè fi ibàjẹ́ ohun amáyé-dẹrùn ti àwọn Òṣèlú àkọ́kọ́ pèsè fún ara ilú wọnyi wé ọbẹ̀ tó dànu,̀ ti igbẹhin rẹ já si òfò fún onilé àti àlejò.
-Òwe Yorùbá ni “Ọbẹ̀ tó dànù, òfò onilé, òfò àlejò” Àpẹrẹ pataki ni ọna àti ilé-iwosan ti ó bàjẹ́.  
-Òfò ni ọ̀nà ti ó bàjẹ́ mú bá ara ilú nipa ijàmbá ọkọ̀ fún onilé àti àlejò.  
-Ibàjẹ́ ile-iwosan jẹ òfò fún onilé àti àlejò nitori ọ̀pọ̀ àisàn ti kò yẹ kó pani ló ńṣe ikú pani, fún àpẹrẹ, itijú ni pé, Ọba, Ìjòyè àti Òṣèlú ńkú si àjò fún àìsàn ti kò tó nkan.  
-Dákú-dáji iná mọ̀nà-mọ́ná ti ó sọ ilú si òkùnkùn jẹ́ òfò fún olówó àti aláini nitori, yàtọ̀ si ariwo àti òórùn, ai mọye enia ni ikú ẹ̀rọ mọ̀nà-mọ́ná ti pa. 
-À ì sí Iná Mọ̀nà-mọ́ná àti Epo Ọkọ̀ bá Onílé pẹ̀lú Àlejò.  
-Ìwà ìbàjẹ́, àbẹ̀tẹ́lẹ̀ gbi gbà fún ọ̀pọ̀lọpọ̀ ọdún ló da ọbẹ̀ ohun amáyédẹrùn danu.
-Bi ọbẹ̀ bá dànù, kò ṣe kó padà, à fi ki enia se ọbẹ̀ tuntun, bi ó bá fẹ jẹ ọbẹ̀.  
-Yorùbá ni “Ẹ̀bẹ̀ là nbẹ òṣikà, ki ó tú ilú ṣe”.  
-Fún àtúnṣe, ó ṣe pàtàki ki gbogbo ará ilú parapọ̀ lati tún ohun ti ó ti bàjẹ́ ṣe nipa gbi gbé ogun ti iwà ìbàjẹ́ àti àbẹ̀tẹ́lẹ̀ gbi gbà.
-Odò ti ó bá gbàgbé orisun gbi gbẹ ló ngbẹ
-Orúkọ idile Yorùbá ti ó nparẹ́ nitori èsìn.  
-Àwọn orúkọ ìdílé wọnyi kò di ẹlẹ́sìn lọ́wọ́ lati ṣe iṣẹ́ rere tàbi dé ọ̀run,
-Ni igbà àtijọ́, ẹranko ti wọn pè ni Ẹkùn jẹ alágbára ẹranko, bẹni Kìnìún si jẹ́ alágbára ẹranko.  
-Bi Kìnìún ti lágbára tó ninú igbó, bi ó bá bú ramúramù, ohun gbogbo ninú igbó á pa kẹ́kẹ́ titi dé ori ẹranko yoku. 
-Ti Ẹkùn nikan ló yàtọ̀, nitori Ọlọrun fún ni ẹ̀bùn igbóyà, idi niyi ti a fi ńpè ni “Baba Ẹranko”, ti a ńpè Kìnìún ni “Ọlọ́là Ijù”.
-Ẹ̀rù ló sọ ọmọ Ẹkùn di Ológbò/Ológìní tó fi di Ẹran-àmúsìn – Ọdẹ peku-peku
-Ni ọjọ́ kan, Ẹkùn gbéra lọ sinú igbó lati lọ wa oúnjẹ fún àwọn ọmọ rẹ, àwọn ọmọ ẹ kéré wọn kò lè yára bi iyá wọn.  
-Ó fún wọn ni imọ̀ràn pe ki wọn kó ara pọ̀ si ibi òkiti-ọ̀gán ti ohun ti lè tètè ri wọn, ṣùgbọ́n wọn kò gbọ́dọ̀ bẹ̀rù fún ohunkóhun tàbi ẹranko ti ó bá wá si sàkáni wọn.
-Gẹgẹ bi a ṣe mọ, Kìnìún àti Ẹkùn, ọ̀gá ni onikálùkù láyé ara wọn, wọn ki ja.  
-Ibi ti Kìnìún bá wà Ẹkùn kò ni dé ibẹ̀, ibi ti Ẹkùn bá wà Kìnìún ò ni dé ibẹ̀.  
-Nitori èyi ni Yorùbá fi npa lowe pé “Kàkà ki Kìnìún ṣe akápò Ẹkùn, onikálùkù yio má ba ọdẹ rẹ̀ lọ”.
-Lai fà ọ̀rọ̀ gùn àwọn ọmọ Ẹkùn gbọ́ igbe Kìnìún, wọn ri ti ó ré kọja, àwọn ọmọ Ẹkùn ti ẹ̀rù ba ti kò ṣe bi iyá wọn ti ṣe ìkìlọ̀, ìjáyà bá wọn, wọ́n sá.  
-Nigbati Ẹkùn dé ibùdó rẹ lati fún àwọn ọmọ rẹ ni ẹran jẹ, àwọn ọmọ rẹ kò pé, ṣ̀ugbọ́n àwọn ọmọ ti ijáyà bá padà wá bá iyá wọn, nigbà yi ni iyá wọn rán wọn leti ikilọ̀ pé wọn kò gbọ́dọ̀ jáyà.  
-Nitori èyi, ohun kọ̀ wọ́n lọ́mọ.
-Nigbati iyá wọn kọ̀ wọ́n lọ́mọ, wọn kò lè ṣe ọdẹ inú igbó mọ́, wọn di ẹranko tó ńrágó, ti wọn ńsin ninú ilé, to ńpa eku kiri.  
-Idi èyi ni Yorùbá fi npa ni òwe pé “Ìjayà ló bá ọmọ Ẹkùn ti ó di Ológbò ti ó ńṣe ọde eku inú ilé.
-Ẹ̀kọ́-ìṣirò ni èdè Yorùbá
-Yorùbá ni bi wọn ti ma nṣe ìṣirò ki wọn tó bẹ̀rẹ̀ si ka ni èdè Gẹ̀ẹ́sì.  
-Akọ̀wé yi kọ ìṣirò ki ó tó bẹ̀rẹ̀ ilé-ìwé lọdọ ìyá rẹ̀ àgbà.  
-Nígbàtí ìyá-àgbà bá nṣe iṣẹ́ òwú “Sányán” lọ́wọ́, a ṣa òkúta wẹ́wẹ́ fún ọmọ-ọmọ rẹ̀ lati ṣe ìṣirò ni èdè Yorùbá.  
-Is̀irò ni èdè Yorùbá ti fẹ́ di ohun ìgbàgbé, nitori àwọn ọmọ ayé òde òní kò rí ẹni kọ́ wọn ni ilé tàbi ilé-ìwé, nitorina ni a ṣe ṣe àkọọ́lẹ̀ ìṣirò yi si ojú ewé yi.
-Yorùbá ni bi wọn ti ma a nka nkàn ki wọ́n tó bẹ̀rẹ̀ si ka a ni èdè Gẹ̀ẹ́sì.  
-Ẹ ṣe àyẹ̀wò kíkà ni èdè Yorùbá ni ojú ewé yi:
-Ẹ Kú Ọwọ́ Lómi Là Nki Ọlọ́mọ Tuntun – Ìtọ́jú Ọmọ Tuntun ni Àtijọ́
-Ni ayé àtijọ́, kò si itẹdi à lò sọnù bi ti ayé òde òni.   
-Bẹni wọn kò lo ìgò oúnjẹ lati fún ọmọ tuntun ni oúnjẹ.
-Ọwọ́ ọlọ́mọ tuntun ki kúrò ni omi nitori omi ni wọn fi nto àgbo ti wọn nrọ ọmọ fún ìtọ́jú ọmọ tuntun.  
-Aṣọ àlòkù Bàbá, Ìyá àti ẹbi ni wọn nya si wẹ́wẹ́ lati ṣe itẹdi ọmọ nitori kò si itẹdi à lò sọnú bi ti ayé òde òni.
-Ọmọ tuntun a ma ya ìgbẹ́ àti ìtọ̀ tó igbà mẹwa tàbi jù bẹ́ ẹ̀ lọ ni ojúmọ́.  
-Ọmọ ki i sùn ni ọ̀tọ̀, ẹ̀gbẹ́ ìyá ọmọ ni wọn ntẹ́ ọmọ si.  
-Lẹhin ọsẹ̀ mẹ́fà tàbi ogoji ọjọ́ tàbi ó lé kan ti wọn ti bi ọmọ, ìyá àti ọmọ lè lọ òde, ìyá á pọn ọmọ lati jáde.
-Nitori aṣọ ni itẹdi kò gba omi dúró, bi ọmọ bá tọ̀ tàbi ya ìgbẹ́, á yi aṣọ ìyá tàbi ẹni ti ó gbé ọmọ.  
-Kò si ẹ̀rọ ifọṣọ igbàlódé nitori na a, ó di dandan ki wọ́n fọ aṣọ ọmọ àti ẹni ti ó gbé ọmọ ni igbà gbogbo ni ilé ọlọ́mọ tuntun.  
-Eyi ni ó jẹ́ ki Yorùbá ma ki ẹni ti ó bá ntọ ọmọ lọ́wọ́ pé “Ẹ kú ọwọ lómi nitori ọwọ́ ki kúrò ni omi aṣọ fí fọ̀.
-Òṣèlú Nigeria, Ẹ Jọ̀wọ́, Ẹ Má Pe Ajá ni Ọ̀bọ fún Ará Ìlú
-Lati bi ogójì ọdún sẹhin, Epo-rọ̀bi nikan ni okùn ọrọ̀ ajé orilẹ̀ èdè Nigeria, ó si ti pa owó ribiribi wọlé fún ilú.  
-Nigbati Epo-rọ̀bi bẹ̀rẹ̀ si pa owó wọlé, ará ilú kọ iṣẹ́ àgbẹ̀ àti àwọn ohun ti ilú nṣe silẹ̀ fún ifẹ́ ọjà òkèrè.  
-Àsikò Epo-rọ̀bi ni ilú fi irẹsi òkèrè dipò oriṣiriṣi oúnjẹ ilẹ̀ wa.  
-Ki ṣe eyi nikan, Ìjọba Ológun àti Òṣèlú bẹ̀rẹ̀ iwà ibàjẹ́ nipa ki kó owó ti ó yẹ ki wọn fi tún ilú ṣe jẹ.  
-Wọn ò kó owó àbẹ̀tẹ́lẹ̀ yi dúró ni ilú, wọn nko lọ si Òkè-Òkun, eyi ló ba iná mọ̀nàmọ́ná, ilé-ìwòsàn, ilé-iwé, ọ̀nà, omi mi-mun àti ohun amáyédẹrùn yoku jẹ́.
-Lẹhin ti àwọn Ìjọba Ológun àti Òṣèlú fi ipò wọn ba ilú jẹ́ tán, bi ori bá fọ́ wọn, wọn á gba ọ̀nà Òkè-Òkun lọ fún ìtọ́jú, dipò ki wọn tú ile-iwé ṣe, wọn a fi owó ti wọn ji pamọ́ rán ọmọ lọ si Òkè-Òkun fún ẹ̀kọ́ ti ó yè kooro.  
-Wọn a fi owó àbẹ̀tẹ́lẹ́ ra ilé nla si Òkè-Òkun, oúnjẹ àti èso ilú kò dùn lẹnu olówó, aṣọ àti ohun ti ará ilú nṣe kò dára tó, ọjà Òkè-Òkun nikan ni wọn lè fi yangàn.
-Lai pẹ yi, àwọn Òṣèlú bẹ̀rẹ̀ si polongo pé “ki ará́ ilu ra ọja ilú, ki Naira (owo Nigeria) lè gòkè”.  
-Ki i ṣe ìyànjú burúkú ni eyi ṣùgbọ́n, “ọ̀rọ̀ kò dùn lẹ́nu olè”,  kì í ṣe lati ẹnu àwọn Òṣèlú ti ẹnu wọn ti fẹ si ọjà òkèrè nitori wọn ti kó owó ilú pamọ́ si àwọn ilú Òkè-Òkun.  
-Bi a bá ṣe akiyesi, ki àṣiri tó tú ni àsikò Ìjọba tuntun (Buhari/Òṣinbàjò), àwọn ti ilé-iṣẹ́ Agbógun ti ìwà ìbàjẹ́ tọka tàbi mú pé ó kó owó ilú jẹ jù̀, kò wọ aṣọ Òkè-Òkun.  
-Ó san ki wọn wọ aṣọ Òkè-Òkun, ju ki wọn kó owó rẹpẹtẹ ti wọn ji kó lọ si Òkè-Òkun.
-Díẹ̀ ninú àwọn Òṣèlú ti Ilé Iṣẹ́ Agbógun ti Ìwà Ìbàjẹ́ fi ẹ̀sùn kàn
-Ẹ̀bẹ̀ la bẹ̀ “Òṣèlú Nigeria” ki wọn ma pe Ajá l’Ọbọ fún ará ilú, ki wọn kó owó ilú ti wọn ji pamọ́ si Òkè-Òkun padà, ki wọn si fi àpẹrẹ rere silẹ̀ fún ará ilú nipa àyipadà kúrò ni iwà ojúkòkòrò àti olè ti wọn nfi ipò jà dúró.  
-Àyipadà Òṣèlú kúrò ninú iwà burúkú ni ó lè mú ki owó ilú (Naira) kògè.
-“Awọ kò ká Ojú ìlù, Ọmọ Onílù ni òhun fẹ́ má a sun Awọ jẹ – Ojúkòkòrò àwọn Òṣèlú Nigeria”:
-Nigbati àwọn Òṣèlú gba Ìjọba ni igbà keji lọ́wọ́ Ìjọba Ológun, inú ará ilú dùn nitori wọn rò wi pé Ológun kò kọ iṣẹ́ Òṣèlú.  
-Ilú rò wi pé Ìjọba Alágbádá yio ni àánú ilú ju Ìjọba Ológun lọ.  
-Ó ṣe ni laanu pé fún ọdún mẹ́rìndínlógún ti Òṣèlú ti gba Ìjọba, wọn kò fi hàn pé wọn ni àánú ará ilú rárá.  
-Dipò ki wọn ronú bi nkan yio ti rọrùn fún ilú nipa ipèsè ohun amáyédẹrùn bi iná mọ̀nàmọ́ná, ilé-iwé, ilé-ìwòsàn, ojú ọ̀nà ti ó dára, òfin lati jẹ ki ilú tòrò, ṣe ni wọn bẹ̀rẹ̀ si ji owó ilú.  
-Bi ori bá fọ́ Òṣèlú, wọn á lọ si Òkè-Òkun nibiti wọn kó owó ti ó yẹ ki wọn fi tú ilé-ìwòsàn ṣe si.  
-Àwọn Òṣèlú Òkè-Òkun nfi owó Nigeria tọ́jú ará ilú wọn nitori eyi, gbogbo ọ̀dọ́ Nigeria ti kò ni iṣẹ́ fẹ́ lọ si Òkè-Òkun ni ọ̀nà kọnà.
-Òwe Yorùbá ti ó sọ wi pé “Awọ kò ká Ojú ìlù, Ọmọ Onilù ni òhún fẹ́ má a sun Awọ jẹ” bá ìròyìn ti ó jáde ni lọ́wọ́-lọ́wọ́, bi àwọn Òṣèlú ti bá owó ọrọ̀ ajé Nigeria jẹ nipa bi wọn ti ṣe pin owó ohun ijà fún Ológun lati ra ibò.  
-‘Epo Rọ̀bì’ ni ‘Awọ’ nitori ó lé ni idá ọgọrin ti owó epo rọ̀bì kó ni owó ọrọ̀ ajé ti ilú tà si Òkè-Òkun.  
-Fún bi ọdún mẹ̃dógún ninú ọdún merindinlogun ti Èrò Ẹgbẹ́ Òṣèlú (ti Alágboòrùn) fi ṣe Ìjọba ki ó tó bọ lọ́wọ́ wọn ni ọdún tó kọjá, owó epo rọ̀bì lọ si òkè rẹpẹtẹ, ọrọ̀ ajé yoku pa owó wọlé.  
-Dipò ki wọn lo owó ti ó wọlé lati tú ilú ṣe, wọn bẹ̀rẹ̀ si pin owó lati fi ra owó Òkè-Òkun lati kó jade lọ ra ilé nlá si àwọn ilú wọnyi lati sá fún ilú ti wọn bàjẹ́ ni gbogbo ọ̀nà.
-Owó epo rọ̀bì fọ́, awọ kò wá ká ojú ilú mọ́.  
-Oníṣẹ́ Ìjoba kò ri owó-oṣ̀ù gbà déédé, àwọn ti ó fi ẹhin ti ni iṣẹ́ Ìjọba kò ri owó ifẹhinti wọn gba, owó ilú bàjẹ́, bẹni àwọn Òṣèlú bú owó oṣ́u rẹpẹtẹ fún ara wọn.  
-Eyi ti ó burú jù ni owó rẹpẹtẹ miran ti wọn bù lati ra ọkọ ti ìbọn ò lè wọ, olówó nla lati Òkè-Òkun fún Ọgọrun-le-mẹsan Aṣòfin-Àgbà.   
-Olóri Aṣòfin-Àgbà fẹ ra ọkọ̀ mẹsan fún ara rẹ nikan.
-Àsìkò tó ki àwọn èrò ji lati bá àwọn olè wọnyi wi, nitori àwọn Òṣèlú Òkè-Òkun nibiti wọn nkó owó ilú lọ, kò fi owó ilú wọn tọ́jú ara wọn, wọn nwọ ọkọ̀ pẹ̀lú àwọn ará ilú, àyè kò si fún wọn lati ja ilú ni olè bi ti àwọn Òṣèlú Nigeria.
-Olóri Ẹbi, Baba Bùkátà
-Olóri Ẹbi jẹ àkọ́bi ọkùnrin ni idilé.  
-Bi àkọ́bi bá kú, ọkùnrin ti ó bá tẹ̀le yio bọ si ipò.  Iṣẹ́ olóri ẹbi ni lati kó ẹbi jọ fún ilọsiwájú ẹbi, nipa pi pari ijà, ijoko àgbà ni ibi igbéyàwó, ìsìnkú, pi pin ogún, ìsọmọ-lórúkọ, ọdún ìbílẹ̀ àti ayẹyẹ yoku.
-Ni ayé òde òni, wọn ti fi owó dipò ipò àgbà, nitori ki wọn tó pe olóri ẹbi ti ó wà ni ìtòsí, wọn yio pe ẹni ti ó ni owó ninú ẹbi ti ó wà ni òkèrè pàtàki ti ó bá wà ni Èkó àti àwọn ilú nla miran tàbi Ilú-Òyinbó/Òkè-Òkun. 
-Ai ṣe ojúṣe Ìjọba nipa ipèsè ilé-iwòsàn ti ó péye, Ilé-iwé, omi mimu àti ohun amáyédẹrùn yoku jẹ ki iṣẹ́ pọ fún olóri ẹbi.
-Gẹ́gẹ́ bi ọ̀rọ̀ Yorùbá ti ó sọ wi pé “Olóri Ẹbi, Baba Bùkátà”, iṣẹ́ nla ni lati jẹ Olóri Ẹbi, ó gba ọgbọ́n, òye àti ìnáwó lati kó ẹbi jọ.
-A ki yin lati Ilé
-Ni ai pẹ yi, Olùkọ̀wé yi bẹ ilé wò fún bi ọ̀sẹ̀ mẹta.  
-A ṣe àwọn akiyesi wọnyi.  
-Ilú Èkó n fẹ̀ si, ṣùgbọ́n ọ̀nà kò fẹ̀ tó bi èrò àti ọkọ̀ ti pọ̀ tó, nitori eyi, sún-kẹrẹ fà-kẹrẹ ọkọ̀ kò jẹ́ ki ará ilú gbádùn.  
-Àwọn ti ó nlọ si ibi iṣẹ́ agogo mẹjọ ni lati kúrò ni ilé ki agogo marun tó lù, wọn yio si wọlé ni agogo mẹwa lẹhin ti wọn bá pari iṣẹ́ ni agogo marun.  
-Ó kéré jù, òṣìṣẹ́ yio lo wákàtí mẹfa lati lọ àti bọ ni ibi iṣẹ́ nitori sún-kẹrẹ fà-kẹrẹ ọkọ̀.
-Ìjọba ko ti i ṣe ìpèsè omi ẹ̀rọ, ọ̀nà àdúgbò àti ohun amáyédẹrùn igbàlódé pàtàki ni àwọn agbègbè tuntun.  
-Iná mọ̀nàmọ́ná ti dára di ẹ̀ si, nitori iná kò lọ púpọ̀ mọ́ bi ti tẹ́lẹ̀.
-Ni àwọn olú ilú ilẹ̀ Yorùbá yókù bi Ìbàdàn, Òṣogbo, Abẹ́òkúta, Àkúrẹ́ àti Adó-Èkìtì, kò si sún-kẹrẹ fà-kẹrẹ ọkọ̀ bi ti Èkó ṣùgbọ́n iná mọ̀nàmọ́ná kò ṣe déédé bi ti ilú Èkó.  
-Ọ̀wọ́n epo-ọkọ̀ ti ó gbòde ni igbà ọdún Kérésìmesì ti ó kọjá àti ni ibẹ̀rẹ̀ ọdún tuntun ti lọ ṣùgbọ́n epo-ọkọ̀ wọn ni ọ̀pọ̀lọpọ̀ ilé epo ni àwọn olú ilú yókù ju ti Èkó.  
-Gbogbo ohun tita ló ti wọ́n si.
-Ó ṣòro lati lo ayélujára nitori ai ṣe déédé iná mọ̀nàmọ́ná àti ayélujára, pàtàki bi enia ba jade kúrò ni ilú Èkó, ṣùgbọ́n ó sàn ju ti àtẹ̀hin wá lọ.  
-Ni àpapọ̀, ọyẹ́ jẹ́ ki ẹni ti ó bá nti Òkè-Òkun bọ̀ gbádùn nitori ooru din kù.
-“Ilú-Oyinbo dára, ọ̀rẹ́ mi òtútù pọ̀”
-Gẹgẹbi, àgbà ninu olórin Yorùbá “Délé Òjó” ti kọ ni ọpọlọpọ ọdún sẹhin pe “Ilú Oyinbo dára, ọrẹ mi òtútù pọ̀, à ti gbọmọ lọwọ èkùrọ́ o ki ma i ṣojú bọ̀rọ̀”.  
-Àsikò òtútù ni àlejò ma ńṣe iranti ilé.  
-Òtútù ò dára fún arúgbó, a fi ti onilé nã bá lówó lati san owó iná ti o gun òkè nitori àti tan ẹ̀rọ-amúlé gbónọ́.
-Ìmọ̀ràn fún àwọn ti ó gbé ìyá wọn wá si ìlú-oyinbo, ni ki wọn gbiyànjú lati ṣe ètò fún àwọn ìyá-àgbà lati lọ si ilé ni asiko òtútù lati fara mọ́ àwọn enia wọn. 
-Òtútù o dára fún eegun àgbà.
-“A ki i fi ọjọ́ kan bọ́ ọmọ tó rù”: Ìmọ̀ràn fún Òṣèlú tuntun àti àwọn ará ilú Nigeria
-Ọmọ ki dédé rù lai ni idi.  
-Lára àwọn idi ti ọmọ lè fi rù ni: àìsàn, ebi, òùngbẹ, ìṣẹ́, ai ni alabojuto, òbí olójú kòkòrò, ai ni òbí àti bẹ ẹ bẹ lọ.
-Orilẹ̀ èdè Nigeria ti jẹ gbogbo ìyà àwọn ohun ti ó lè mú ki ọmọ rù yi, lọ́wọ́ Ìjọba Ológun àti Òsèlú fún ọ̀pọ̀ ọdún.  
-Nigbati àwọn òbí ti ó fẹ́ràn ọmọ bi Olóògbé Olóyè Ọbáfẹ́mi Awólọ́wọ̀ àti àwọn àgbà ti ó bèrè fún Ominira lọwọ Ilú-Ọba, ṣe Òsèlú, ilú kò rù, pàtàki ọmọ Yorùbá.  
-Wọn fi ọrọ̀ ajé àti iṣẹ́ àgbẹ̀ ni ipinlẹ̀, pèsè ohun amáyédẹrùn fún ilú, ilé-ìwòsàn ọ̀fẹ́, ilé-iwé ọ̀fẹ́, àwọn tó jade ni ilé-iwé giga ri iṣẹ́ gidi àti pé àwọn ará ilú tẹ̀ lé òfin.  
-Eyi mú ìlọsíwájú bá ilẹ̀ Yorùbá ju ọ̀pọ̀lọpọ̀ ilẹ̀ Aláwọ̀dúdú.
-Ilú bẹ̀rẹ̀ si rù lati igbà ti Ìjọba Ológun àkọ́kọ́ ti fi ipá kó gbogbo ipinlẹ̀ Nigeria si abẹ́ Ìjọba-àpapọ̀ ni  ọdún mọ́kàndinlãdọta sẹhin .  
-Lati igbà ti wọn ti kó ọrọ̀ ajé gbogbo ipinlẹ̀ si abẹ́ Ìjọba-àpapọ̀ ti a lè pè ni “Òbí” ti jinà si ará ilú ti a lè pè ni “Ọmọ” ti rù.  
-Ojúkòkòrò àti olè ji jà Ìjọba Ológun àti Òṣèlú lábẹ́ Ìjọba-àpapọ̀ ti fa ebi, òùngbẹ àti àìsàn fún ará ilú.
-Ni ọdún mọ́kànlélọ́gbọ̀n sẹhin, Olóri Òsèlu tuntun Muhammadu Buhari àti àtẹ̀lé rẹ Túndé Ìdíàgbọn ṣe Ìjọba fún ogún oṣù gẹgẹ bi Ìjọba Ológun.  
-Nigbati wọn gba Ìjọba lọ́wọ́ àwọn Òṣèlú ti ó ba ilú jẹ́ pẹ̀lú iwà ìbàjẹ́ ti wọn fi kó ilú si igbèsè lábẹ́ Olóri Òṣèlú Shehu Shagari, wọn fi ìkánjú ṣe idájọ́ fún àwọn tó hu iwà ibàjẹ́, eleyi jẹ ki ilú ké pé Ìjọba wọn ti le jù.  
-Ká ni ilú farabalẹ̀ ni àsikò na a, ilú ki bá ti dára si.  
-Nigbati Olóri-ogun Badamasi Babangida gba Ìjọba, inú ilú dùn nitori àyè gba ará ilú lati ṣe bi wọn ti fẹ lati ri owó.  
-Eleyi jẹ ki ọ̀pọ̀lọpọ̀ olówó ojiji pọ̀ si lati igbà na a titi di oni.  
-Àyè àti ni owó ojiji nipa ifi owó epo-rọ̀bì ṣòfò, ki kó owó ìpèsè ohun amáyédẹrùn jẹ, gbi gba àbẹ̀tẹ́lẹ̀ àti iwà ìbàjẹ́, ló pa ilé-iwé giga, ilé-ìwòsàn, pàtàki ìpèsè iná-mọ̀nàmọ́ná, ìdájọ́ àti bẹ ẹ bẹ lọ.
-A lè lo òwe “A ki i fi ọjọ́ kan bọ́ ọmọ tó rù” ṣe àlàyé pé iwà ìbàjẹ́ àti ohun tò bàjẹ́ fún ọdún pi pẹ́ kò ṣe tún ṣe ni ọjọ́ kan, nitori eyi, ki ará ilú ṣe sùúrù fún Ìjọba tuntun lati ṣe àtúnṣe lati ìbẹ̀rẹ̀.  
-Ki Ìjọba tuntun na a mọ̀ pé “Ori bi bẹ́, kọ́ ni oògùn ori fi fọ́”, nitori eyi ki wọn tẹ̀ lé òfin lati ṣe ìdájọ́ fún àwọn ti ó ba ilú jẹ́.
-Ẹ Jọ̀wọ́ Darapọ̀ Mọ́ Wa lati kọ nipa Àṣà àti Ìtàn Àdáyébá ni Agbègbè Yin 
-Gbogbo olólùfẹ́ èdè àti àṣà Yorùbá ti ó tẹ̀lé wa ni àwọn ọdún ti ó kọjá, a ki yin fún ọdún tuntun ti ó wọlé.  Èdùmàrè á jẹ́ ki ọdún na a tura o.  
-Inú wa yio dùn ti ẹ bá lè darapọ̀ mọ́ wa lati kọ nipa àṣà ati itàn àdáyébá ni agbègbè yin ni ilẹ̀ Yorùbá fún àkọọ́lẹ̀ ki èdè àti àṣà Yorùbá ma ba parẹ́.
-Èdè àti Àṣà Yorùbá kò ni parẹ́.
-Ìkini fún ọdún tuntun“A ki i jẹ Igún, a ki i fi Ìyẹ́ Igún rinti: Ẹnu Ayé Lẹbọ
-Ohun ti o jẹ èèwọ̀ tàbi òfin ni ilú kan le ma jẹ èèwọ̀/òfin ni ilú miran ṣùgbọ́n bi èniyàn bá dé ilú, ó yẹ ki ó bọ̀wọ̀ fún àṣà àti òfin ilú.  
-Bi èniyàn bá ṣe nkan èèwọ̀, ó lè ṣé gbé ti kò bá si ẹlẹri lati ṣe àkóbá tàbi ki ó fi ẹnu ṣe àkóbá fún ara rẹ̀.
-Ni ilú kan ti a mọ̀ si “Ayégbẹgẹ́”, àwọn àlejò ọkùnrin meji kan wa ti orúkọ wọn njẹ́ – Miòṣé àti Moṣétán.  
-Ọba ilú Ayégbẹgẹ́ kede pé èèwọ̀ ni lati jẹ ẹiyẹ Igún ni ilú wọn.  
-Akéde ṣe ikilọ̀ pé ẹni ti ó bá jẹ Igún, ikùn rẹ yio wu titi yio fi kú ni.  
-Àwọn àlejò meji yi ṣe ìlérí pé kò si nkan ti yio ṣẹlẹ̀ ti àwon bá jẹ Igún, nitori eyi wọn fi ojú di èèwọ̀ ilú Ayégbẹgẹ́.
-Miòṣé, lọ si oko, ó pa Igun, ó din láta, ó si jẹ́, ṣùgbọ́n ó pa adiẹ, ó da iyẹ́ adiẹ si ààtàn bi ẹni pé adiẹ ló jẹ.  
-Ọ̀pọ̀ ará ilú ti wọn mọ̀ pé èèwọ̀ ni lati jẹ Igún paapa, jẹ ninú rẹ, ṣùgbọ́n wọn kò mọ pé Igún ni àwọn jẹ, wọn rò wi pé adiẹ ni.  
-Miòṣé fi ọ̀rọ̀ àṣiri yi sinú lai si nkan ti ó ṣe gbogbo àwọn ti ó jẹ Igún pẹ̀lú rẹ.
-Moṣétán lọ si oko ohun na a pa Igun, ó gbe wá si ilé, ṣùgbọ́n kò jẹ́.  
-Ó pa adiẹ dipò Igún, o din adiẹ ó jẹ ẹ, ṣùgbọ́n, ó da iyẹ́ Igún si ààtàn bi ẹni pé Igún lohun jẹ.  
-Ni ọjọ́ keji àwọn ará ilú ri iyẹ́ Igún wọn pariwo pé Moṣétán jẹ èèwọ̀, ó ni bẹni, ohun jẹ Igún.  
-Ni ọjọ́ kẹta inú Moṣétán bẹ̀rẹ̀ si i wú titi ara fi ni.  
-Nigbati ìnira pọ̀ fún Moṣétán, ó jẹ́wọ́ wi pé adiẹ lohun jẹ, ṣùgbọ́n wọn ko gba a gbọ pé kò jẹ Igun, titi ti ó fi ṣubú ti ó si kú. Yorùbá ni “Ẹnu Ayé Lẹbo”, Moṣétán fi ẹnu kó bá ara rẹ̀.
-Ẹ̀kọ́ ìtàn yi ni pé, àfojúdi kò dára, ó yẹ ki enia pa òfin mọ nitori “Bi a ti nṣe ni ilé wa, èèwọ̀ ibò miran”.  
-Ẹni ti kò bá pa òfin mọ, á wọ ijọ̀ngbọ̀n ti ó lè fa ikú tàbi ẹ̀wọ̀n.
-“Ṣe bi o ti mọ ki i tẹ́ – Ọdún wọlé dé”
-Ọdún Kérésì jẹ́ ọdún Onigbàgbọ́ lati ṣe iránti ọjọ́ ibi Jésù Olùgbàlà.  
-Ọjọ́ kẹjọ lẹhin ọdún Kérésìmesì ni ọdún  tuntun.  
-Fún ayẹyẹ ọdún, kò si iyàtọ̀ laarin Ìgbàgbọ́ àti Mùsùlùmi ni ilẹ̀ Yorùbá nitori Yorùbá gbà wi pé “Ẹni ọdún bá láyé, ó yẹ kó dúpẹ́”.  
-Ọpẹ́ ló yẹ ki èniyàn dá ju igbèsè ji jẹ lati ṣe àṣe hàn ni àsikò ọdún.
-Ni ọ̀pọ̀lọpọ̀ ọdún sẹhin, àwọn Àgbẹ̀ á dari wálé pẹ̀lú irè oko pàtàki iṣu.  
-Àwọn Oniṣòwò á ri ọjà tà nitori àsikò yi ni Bàbá àti Ìyá ma nrán aṣọ ọdún fún àwọn ọmọdé àti oúnjẹ rẹpẹtẹ fún ipalẹ̀mọ́ ọdún.  
-Inú ọmọdé ma ndùn nitori asiko yi ni wọn nse irẹsi àti pa adiẹ fún ọdún.  
-Àwọn ọmọdé á lọ lati ilé ẹbi kan si ekeji, ẹbi ti wọn lọ ki, á fún wọn ni oúnjẹ àti owó ọdún.  
-Àwọn àgbàlagbà naa ma ndá aṣọ ẹgbẹ́ fún idúpẹ́ ọdún, ṣùgbọ́n ki owó epo rọ̀bi tó gba igboro, ki ṣe aṣọ olówó nla bi ti ayé òde òni.
-Àsikò ti olè npọ̀ si niyi pàtàki ni ilú Èkó, nitori ọ̀pọ̀lọpọ̀ fẹ na owó ti wọn kò ni lati ṣe ọdún.  
-Ìpolówó ọjà pọ̀ ni àsikò yi ni Òkè-Òkun, nitori eyi, ọ̀pọ̀ nlo ike-igbèsè tàbi ki wọn ya owó-èlè lati ra ọjà ti wọn kò ni owó rẹ.  
-Lẹhin ọdún, wọn a fi ọdún tuntun bẹ̀rẹ̀ si san igbèsè, nitori eyi Ìyá àti Bàbá a ma a ti ibi iṣẹ́ kan lọ si ekeji lai ni ìsimi tàbi ri àyè àti bójú tó àwọn ọmọ.
-Ọ̀rọ̀ Yorùbá sọ wi pé “Ṣe bi o ti mọ ki i tẹ́ ”, nitori eyi gbogbo ọmọ Yorùbá ni ilé, ni oko, ẹ ṣe bi ẹ ti mọ, ẹ ma tori odun na ọwọ́ si nkan ti ọwọ́ yin kò tó, ki ẹ ma ba a tẹ́.  
-Ọ̀pọ̀lọpọ̀ Onigbàgbọ́  ayé òde oni ki i fẹ fi èdè Yorùbá kọrin ṣùgbọ́n ẹ gbọ́ bi ọmọ Òyinbó ti kọ orin àwọn “Obinrin Rere” ni ojú iwé yi.
-Èkó – Aginjù laarin àwọn Olú Ilú Àgbáyé
-Èkó ni olú ilú Nigeria fún ọ̀pọ̀lọpọ̀ ọdún ki àwọn Ijọba Ológun tó kó Olú Ilú Nigeria lọ si Abuja ni bi ọdún mẹrinlélógún sẹhin.  
-Ki kó olú ilú kúrò ni Èkó kò din èrò ti o nwọ Èkó kù, ilú Èkó ngbòrò si ni, ṣùgbọn bi èrò ti npọ si, Ijọba àpapọ̀ kò ran Eko lọwọ nipa ipèsè owó tó tó ni àsikò fún ohun amáyédẹrùn.
-Ká fi Èkó wé àwọn olú ilú yoku ni àgbáyé àti àwọn ilú nla ti omi yi ká, inira Èkó pọ̀ ju àwọn ilú wọnyi lọ.  
-Kò si iná mọ̀nàmọ́ná ti ó ṣe deede, kò si omi mimu fún ará ilú pàtàki fún àwọn agbègbè titun.  
-Eyi ti ó burú jù ni ki èniyàn jade, kó má mọ igbà ti ó ma padà wọlé nipa li lo bi wákàti mẹ́fà tàbi ju bẹ́ ẹ̀ lọ ninú sún kẹẹrẹ fa kẹẹrẹ ọkọ̀, nitori ọ̀nà kò tó, bẹni kò dára, iwà-kuwà pọ̀ fún awakọ̀, ọkọ̀ àti èrò pọ̀ ju òpópó ọ̀nà lọ.
-Bi Ijọba àpapọ̀ Nigeria ti ri owó ori gbà ni Èkó ju gbogbo àwọn ilú yoku lọ tó, kò si irànlọ́wọ́ lati tú ọ̀nà Ijọba àpapọ̀ ṣe.  
-Ni ọ̀pọ̀lọpọ̀ ọdún sẹhin, Ijọba Ológun di Èkó lọ́wọ́ lati pèsè ọkọ̀ ojú irin ti ó ngbé èrò púpọ̀ ti Gómìnà Lateef Jakande bẹ̀rẹ̀.  
-Bi Èkó ti tóbi tó, ibùdókọ òfúrufú kan ló wà lójú kan naa ni Ìkẹjà fún àwọn ti ó nlọ si gbogbo àgbáyé àti àwọn ti ó fẹ́ lọ si ilú Nigeria miran.  
-Lati igbà ti Ijọba Ológun ti lé àwọn àjòjì ti ó dá ilé ọjà nla silẹ fún ọ̀pọ̀lọpọ̀ ọdún, àwọn Olówó ilú kò ronú lati ṣe irú ilé ọjà bẹ́ ẹ̀ si gbogbo agbègbè Èkó fún irọ̀rùn ará ilú ju bi gbogbo ọjà nla ti kó ori jọ si Erékùṣù Èkó.  
-Àwọn nkan wọnyi àti iwà ibàjẹ́ àti ojúkòkòrò Ijọba Ológun àti Alágbádá (Òṣèlú) ló sọ Èkó di aginjù laarin àwọn olú ilú àgbáyé.
-A lérò wi pé Ijọba Òṣèlú ti àwọn ará ilú yàn fún “àyipadà” kúrò ninú iwà ibàjẹ́ tó gba orilẹ̀ èdè kan fún igbà pi pẹ́, yio wa àtúnṣe fún Èkó.  
-Gómìnà Akinwunmi Àmbọ̀dé ni lati wá àtúnṣe si iyà ti ojú ará ilú nri nipa gbi gbé ọkàn lé ọkọ̀ ilẹ́ fún ohun irinna nikan, nipa pi pari iṣẹ́ ọkọ̀ ojú irin àti ibùdókọ̀ ojú omi ti Ijọba Gómìnà Babátúndé Raji Fáṣọlá bẹ̀rẹ̀, ki wọn si ṣe kun nipa ipèsè ibùdókọ òfúrufú àti ohun amáyédẹrùn yoku.
-Èkó kò ni bàjẹ́ o – ó bàjẹ́ ti.
-Ọbẹ̀ tó dùn, Owó ló pá: Àwòrán àti pi pè Èlò Ọbẹ̀
-Òwe Yorùbá ni “Ọbẹ̀ tó dùn, owó ló pá”, ṣùgbọ́n kò ri bẹ̃ fún ẹni ti kò mọ ọbẹ̀ se.  
-Elomiran lè lo ọ̀kẹ́ àimọye owó lati fi se ọbẹ̀ kó má dùn nitori, bi iyọ̀ ò ja, ata á pọ̀jù tàbi ki omi pọ̀jù.
-Ni tõtọ, owó ni enia ma fi lọ ra èlò ọbẹ̀ lọ́jà, ṣùgbọ́n fún ẹni ti ó mọ ọbẹ̀ se, ìwọ̀nba owó ti ó bá mú lọ si ọjà, ó lè fi ra èlò ọbẹ̀ gẹ́gẹ́ bi owó rẹ ti mọ, ki ó si se ọbẹ̀ na kó dùn.  
-Ẹ wo àwòrán àti pipè èlò ọbẹ ni abala ojú iwé yi.
-Olóyè Hannah Ìdòwú Dideolú Awólọ́wọ̀, Iyalode Rẹ́mọ, Yèyé Oòduà relé pẹ̀lú ijó àti ayọ̀
-A bi Olóògbé, Olóyè Hannah Ìdòwú Dideolú ni ọjọ́ karundinlọ́gbọ̀n, oṣù kọkanla, ọdún Ẹ̀dẹ́ẹ́gbãlemẹ̃dógún, ó ṣe igbéyàwó pẹ̀lú Olóògbé Olóyè Ọbáfẹ́mi Awólọ́wọ̀ àgbà Òṣèlú ni ọjọ́ kẹrindinlọ́gbọ̀n, oṣù kejila, Ẹ̀dẹ́ẹ́gbãlemẹ̃tadinlọ́gbọ̀n, o jade láyé nigbati ó kú bi oṣú meji ó lé di ẹ ki ó pé ọgọrun ọdún.
-“Lẹhin ọkùnrin tàbi obinrin (ni ayé òde òni) ti ó bá ṣe ori-ire, obinrin tàbi ọkunrin rere wa lẹhin tabi ẹ̀gbẹ rẹ”.  
-Òwe yi ni a lè fi ṣe àpẹrẹ iṣẹ́ ribiribi ti Olóògbé, Olóyè Hannah Ìdòwú Dideolú ṣe fún Olóògbé Olóyè Ọbáfẹ́mi Awólọ́wọ̀, ògúná gbongbo Òṣèlú ni ilẹ̀ Yorùbá àti fún orilẹ̀ èdè Nigeria.  
-Nigbati Bàbá mba iṣẹ́ oselu kiri gbogbo àgbáyé, Iyá ló di ilé mú, ti ọkàn Olóògbé Olóyè Ọbáfẹ́mi Awólọ́wọ̀ fi balẹ̀ lati le fi ipò Olóri Òsèlú ṣe iṣẹ́ ribiribi ti ó ṣe.  
-Titi di ọjọ́ ikú ọkọ rẹ ni ọdún mejidinlọ́gbọ̀n sẹhin, lẹhin igbéyàwó àádọ́ta ọdún, ó ṣe àti lẹhin fún ọkọ rẹ titi di ọjọ́ alẹ́, eyi jẹ àpẹrẹ rere fún gbogbo obinrin.
-Ẹbi àti ará ti bẹ̀rẹ̀ si palẹ̀mọ́ fún ọjọ́ ibi ọgọrun fún Olóògbé, Olóyè Hannah Ìdòwú Dideolú nigbati iròyin ikú rẹ jade pé iyá sùn ni ọjọ kọkàndinlógún, oṣú kẹsan ọdún Ẹgbàálemẹ̃dógún.  
-Ipalẹ̀mọ́ ìsìnku bẹ̀rẹ lati ṣe àṣeyẹ ikẹhin fún olóògbé dipò ayẹyẹ ọjọ́ ọgọrun ibi. 
-Olóri Òṣèlú Nigeria Muhammadu Buhari pẹ̀lú àwọn àgbà Òsèlú, àwọn Ọba àti  Ìjòyè, ọmọdé àti àgbà ilú dara pọ̀ pẹ̀lú ẹbi àti àwọn ọmọ Olóògbé lati ṣe ẹ̀yẹ ikẹhin fún Olóògbé, Olóyè Hannah Ìdòwú Dideolú Awólọ́wọ̀ ni ọjọ́ karùndinlọ́gbọ̀n, oṣù kọkanla ọdún Ẹgbàálemẹ̃dógún.
-Sùn re o, ó digbà, o di gbóṣe.
-Ọba titun, Ọọni Ifẹ̀ Kọkànlélaadọta gba Adé
-Ilé-Ifẹ̀ tàbi Ifẹ̀ jẹ ilú àtijọ́ ti Yorùbá kà si orisun Yorùbá.  
-Lẹhin ọjọ mọ́kànlélógún ni Ilofi (Ilé Oyè) nigbati gbogbo ètùtù ti ó yẹ ki Ọba ṣe pari, Ọba Adéyẹyè Ẹniitàn, Ògúnwùsi gba Adé  Aàrẹ Oduduwa ni ọjọ́ kẹtàlélógún oṣù kọkànlá ọdún Ẹgbàálemẹ͂dógún ni Òkè Ọra nibiti Bàbá Nlá Yorùbá Oduduwa ti kọ́kọ́ gba adé yi ni ọ̀pọ̀lọpọ̀ ọdún sẹhin.
-Ọba Ogunwusi, Ọjaja Keji, di Ọba kọkànlélaadọta Ilé Ifẹ̀, lẹhin ti Ọba Okùnadé Sijúwadé pa ipò dà ni ọjọ́ kejidinlọgbọn, oṣù keje odun Ẹgbàálemẹ͂dógún.
-Gẹ́gẹ́ bi àṣà àdáyébá, ẹ͂kan ni ọdún nigba ọdún  Ọlọ́jọ́ ti wọn ma nṣe ni oṣù kẹwa ọdún ni Ọba lè dé Adé Aàrẹ Oduduwa.
-Adé á pẹ́ lóri o, bàtà á pẹ́ lẹ́sẹ̀.  
-Igbà Ọba Adéyẹyè Ẹniitàn, Ògúnwùsi á tu ilú lára.
-lè dé Adé Àrẹ Oduduwa.
-Bi a bá tori ẹni burúkú fọ́jú, a kò ni ri ojú ri ẹni rere
-Kò si ilú, ẹ̀yà tàbi àwọ̀ ti kò ni ẹni burúkú tàbi ẹni rere.  
-Àti ẹni burúkú àti ẹni rere ló wà ninú ẹbi, ilú, àti gbogbo ẹ̀yà àgbáyé ninú èniyàn dúdú àti funfun, ọkùnrin, obinrin, ọmọdé àti àgbà.
-Bi èniyàn bá pàdé ẹni kan tàbi meji ni àkọ́kọ́, ti ó ti ẹ̀yà tàbi ilú kan jade, ti ó si hùwà rere, ni ọ̀pọ̀ igbà, ó wọ́pọ̀ lati rò wi pé gbogbo ará ilú bẹ́ ẹ̀ ló dára, ni ida keji, ti irú ẹni bẹ́ ẹ̀ ba hùwà burúkú, ó wọ́pọ̀ lati rò wi pé gbogbo ẹni ti ó ti irú ẹ̀yà yi jade ni ẹni burúkú.
-Ọ̀pọ̀ igbà, lai pàdé enia ri, ẹlòmiràn lè ni lọ́kàn pe ẹni burúkú tàbi ẹni rere ni ohun pàdé nitori itàn ti ó ti gbọ́.  
-Itàn yi lè nipá lóri irú iwà ti èniyàn yio hu si ẹni ti a bá pàdé.  
-Fún àpẹrẹ, wọn a ni Ìjẹ̀bú fẹ́ràn owó ju ẹmi lọ, Ondó njẹ Ajá, Ọ̀yọ́ ‘ayọ́mọọ́lẹ̀’’, Èkìtì ni agidi, Ìjẹ̀shà – Òṣómàáló’ àti bẹ́ ẹ̀ bẹ́ ẹ̀ lọ.  
-Ki ṣe gbogbo àwọn ará ilú wọnyi ló bá àpèjúwe yi mu.
-Ọ̀pọ̀lọpọ̀ ti fọ́jú nitori iwà burúkú ẹni kan tàbi itàn burúkú.  
-Ó wọ́pọ̀ laarin ẹbi ọkùnrin àti obinrin àfẹ́sọ́nà, ki obi kọ̀ ki wọn fẹ́ra nitori itàn pé idilé tàbi ilú ti ikan ninú ọkùnrin tàbi obinrin ti jade kò dára.  
-Lára ewu ti ó wà ninú ki èniyàn tori ẹni burúkú fọ́jú, ọ̀pọ̀ ti tàsé iyàwó tàbi ọkọ rere lai farabalẹ̀ wo iwà ẹni ti ọmọ wọn mú wálé tàbi tàsé ẹni rere.  
-Nitori òwe Yorùbá ti ó sọ pé “Bi a bá tori Ẹni burúkú fọ́jú, a kò ni ri ojú ri ẹni rere”, ó yẹ ki a farabalẹ̀ wo iwà ẹni ti a bá pàdé ju ki itàn tàbi iwà awọn diẹ ba gbogbo ẹni ti ó bá ti ẹbi, ilú tàbi ẹ̀yà kan jẹ́, ki á lè ri ojú ri ẹni rere.
-Ẹni tó ni Ẹrú ló ni Ẹrù – Ìtàn Bàbá tó kó gbogbo ogún fun Ẹrú 
-Ni ayé igbà kan ri ki ṣe oye ọkọ, ilé gogoro, aṣọ àti owó ni ilé-ìfowó-pamọ́ ni a fi nmọ Ọlọ́rọ̀ bi kò ṣe pé oye Ẹrú, Ìyàwó, Ọmọ, Ẹran ọsin àti oko rẹpẹtẹ ni a fi n mọ Ọlọ́rọ̀.   
-Ni àsikò yi, Bàbá kan wa ti ó ni Iyawo púpọ̀, Oko rẹpẹtẹ, ogún-lọ́gọ̀ ohun ọsin, ọ̀pọ̀lọpọ̀ Ẹrú tàbi Alágbàṣe, Ọmọ púpọ̀, ṣùgbọ́n ninú gbogbo ọmọ wọnyi, ikan ṣoṣo ni ọkùnrin.  
-Bàbá fi ikan ninú gbogbo Ẹrú ti ó ti pẹ́ pẹ̀lú rẹ, ṣe Olóri fún àwọn Ẹrú yoku.  
-Ẹrú yi fẹ́ràn Bàbá, ó si fi tọkàn-tọkàn ṣe iṣẹ́ fún.
-Nigbati Bàbá ti dàgbà, ó pe àwọn àgbà ẹbí lati sọ àsọtẹ́lẹ̀ bi wọn ṣe ma a pín ogún ohun lẹhin ti ohun bá kú nitori kò si iwé-ogún bi ti ayé òde oni.  Ó ṣe àlàyé pé, ohun fẹ́ràn Olóri Ẹrú gidigidi nitori o fi tọkàn-tọkàn sin ohun, nitori na a, ki wọn kó gbogbo ohun ini ohun fún Ẹrú yi.  
-Ó ni ohun kan ṣoṣo ni ọmọ ọkùnrin ohun ni ẹ̀tọ́ si lati mu.
-Lẹhin ọ̀pọ̀lọpọ̀ ọdún, Bàbá re ibi àgbà nrè, ó ku.  
-Lẹhin ìsìnkú, àwọn ẹbí àti àwọn ọmọ Olóògbé pé jọ lati pín ogún.  
-Ni àsikò yi, ọmọ ọkùnrin ni ó n jogún Bàbá, pàtàki àkọ́bí ọkùnrin nitori ohun ni Àrólé.  
-Gẹgẹ bi àsọtẹ́lẹ̀, wọn pe Olóri Ẹrú jade, wọn si ko gbogbo ohun ini Bàbá ti o di Oloogbe fún.  
-Wọn tún pe ọmọ ọkùnrin kan ṣoṣo ti Bàbá bi jade pé ó ni ẹ̀tọ́ lati mu ohun kan ti ó bá wu u ninú gbogbo ohun ini Bàbá rẹ, nitori eyi wọn fún ni ọjọ́ meje lati ronú ohun ti ó bá wù ú jù.  
-Àwọn ẹbí sun ìpàdé si ọjọ́ keje.  
-Inú Ẹrú dùn púpọ̀ nigbati inú ọmọ Bàbá bàjẹ́. 
-Eyi ya gbogbo àwọn ti ó pé jọ lẹ́nu pàtàki ọmọ Bàbá nitori ó rò pé Bàbá kò fẹ́ràn ohun. 
-Lẹhin ìbànújẹ́ yi, ó gbáradi, ó tọ àwọn àgbà lọ fún ìmọ̀ràn.
-Ni ọjọ́ keje, ẹbí àti ará tún péjọ lati pari ọ̀rọ̀ ogún pin-pin, wọn pe ọmọ Bàbá jade pé ki ó wá mú ohun kan ṣoṣo ti ó fẹ́ ninú ẹrù Baba rẹ.  
-Ó dide, ó dúpẹ́ lọ́wọ́ gbogbo àwọn ti ó joko, ó yan Olóri Ẹrú  gẹgẹ bi àwọn àgbà ti gba a ni ìyànjú.  
-Inú Ẹrú bàjẹ́, ṣùgbọ́n o ni ki Ẹrú má bẹ̀rù, Ẹrú na a ṣe ìlérí lati fi tọkàn-tọkàn tọ́jú ohun ti Bàbá fi silẹ̀.  
-Idi niyi ti Yorùbá ṣe ma npa a lowe pe “Ẹni tó ni Ẹrú ló ni Ẹrù.”
-Lára ẹ̀kọ́ itàn yi ni pé, ó dára lati lo ọgbọ́n ọlọ́gbọ́n nitori “Ọgbọ́n ọlọ́gbọ́n ni ki i jẹ ki á pe àgbà ni wèrè”. 
-Ẹ̀kọ́ keji ni pé, ogún ti ó ṣe pàtàki jù ni ki á kọ ọmọ ni ẹ̀kọ́ lati ilé àti lati bójú tó ẹ̀kọ́ ilé-iwé.
-Bi ọmọ ò jọ ṣòkòtò á jọ kíjìpá: Ibáṣe pọ Idilé Yorùbá
+Bi èniyàn bẹ̀rù á kú, bi kò bẹ̀rù á kú, nitori gẹ́gẹ́ bi itàn àdáyébá, gbogbo ohun ti ó nṣẹlẹ̀ láyé òde òni ló ti ṣẹlẹ̀ ri.
+Àṣà Yorùbá ma ńri ọpẹ́ ninú ohun gbogbo, nitori eyi ni àjọyọ̀ àti ayẹyẹ ṣe pọ ni ilẹ̀ Yorùbá.  
+Bi kò bá ṣe ayẹyẹ igbéyàwó; á jẹ́ idúpẹ́ fun ikómọ/isọmọlórúkọ; ìsìnku arúgbó; ikóyọ ninú ewu ijàmbá ọkọ̀; iṣile; oyè gbigbà ni ilé-iwé giga tàbi oyé ilú; idúpẹ́ ìparí ọdún tàbi ọdún tuntun àti bẹ̃bẹ̃ lọ.  
+Kò si igbà ti àlejò kò ni ri ibi ti wọn ti ńṣe ayẹyẹ kan tàbi èkeji ni gbogbo ilẹ́ Yorùbá.  
+Eyi jẹ́ ki àlejò rò wipé igbà gbogbo ni Yorùbá fi ńṣọdún.
+Kò si ẹni ti o ńdúpẹ́ ti inú rẹ ńbàjẹ́, tijó tayọ̀ ni enia fi nṣe idúpẹ́.  
+Ninú idúpẹ́ àti àjọyọ̀ yi ni ẹni ti inu rẹ bàjẹ́ miran ti lè ni ireti pé ire ti ohun naa yio dé.  
+Ni ilú Èkó, lati Ọjọ́bọ̀ titi dé ọjọ́ Àikú ni enia yio ri ibi ti wọn ti ńṣe ayẹyẹ.  
+Ọjọ́bọ̀ jẹ ọjọ́ ti wọn ńṣe àisùn-òkú; ọjọ́ Ẹti ni isinkú, ọjọ́ Àbámẹ́ta ni ti ayẹyẹ igbéyàwó nigbati ọjọ́ Àikú wà fún idúpẹ́ pàtàki ni ilé ijọsin onigbàgbọ́.  
+Ọ̀pọ̀lọpọ̀ ayẹyẹ yi ló mú ipèsè jijẹ, mimu, ilù àti ijó lati ṣe àlejò fún ẹbi, ará àti ọ̀rẹ́ ti ó wá báni ṣe ayẹyẹ.
+A lè fi òwe Yorùbá ti ó ni “A ò mọ èyi ti Ọlọrun yio ṣe, kò jẹ́ ki á binú kú”, tu ẹni ti ó bá ni ìrẹ̀wẹ̀sì ninú, pé ọjọ́ ọ̀la yio dára.   
+Yorùbá gbàgbọ́  pé ẹni ti kò ri jẹ loni, bi kò bá kú, ti ó tẹpá-mọ́ṣẹ́, lè di ọlọ́rọ̀ ni ọ̀la. 
+Nitori eyi, kò yẹ ki enia “Kú silẹ̀ de ikú” nitorina, “Bi ẹ̀mi bá wà, ireti ḿbẹ”.
+À ì sí Iná Mọ̀nà-mọ́ná àti Epo Ọkọ̀ bá Onílé pẹ̀lú Àlejò.
+Ki gbogbo Nigeria tó gba ominira ni àwọn Òṣèlú lábẹ́ olùdari Olóyè Ọbáfẹ́mi Awolọwọ ti fi owó kòkó àti iṣẹ́-àgbẹ̀ dá nkan ṣe fún gbogbo ilẹ̀ Yorùbá.  
+Yorùbá jẹ èrè àwọn ohun gidi, amáyé-dẹrùn bi ilé-iwé ọ̀fẹ́, ilé-ìwòsàn ọ̀fẹ́, ilé iṣẹ́ amóhùn-máwòrán àkọ́kọ́, ilé àwọn àgbẹ̀ (olókè mẹrin-lé-lógún – ilé giga àkọ́kọ́), ọ̀nà ọlọ́dà, omi, iná mọ̀nà-mọ́ná àti bẹ́ẹ̀bẹ́ẹ̀ lọ.  
+Àwọn ohun ipèsè wọnyi jẹ èrè lati ọ̀dọ̀ Òṣèlú tó fẹ́ràn ilú ti ó gbé wọn dé ipò, eleyi jẹ àwò kọ́ iṣe fún àwọn Òṣèlú ẹ̀yà ilẹ̀ Nigeria yókù.
+Ìjọba Ológun fi ibọn àti ipá gbé ara wọn si ipò Òṣèlú, wọn fi ipá kó gbogbo ohun amáyé-dẹrùn si abẹ́ Ìjọba àpapọ̀.  
+Lati igbà yi ni ilé-iwé kékeré àti giga, ilé-ìwòsàn àti ohun amáyé-dẹrùn ti Òṣèlú pèsè fún agbègbè wọn ti bẹ̀rẹ̀ si bàjẹ́.  
+A lè fi ibàjẹ́ ohun amáyé-dẹrùn ti àwọn Òṣèlú àkọ́kọ́ pèsè fún ara ilú wọnyi wé ọbẹ̀ tó dànu,̀ ti igbẹhin rẹ já si òfò fún onilé àti àlejò.
+Òwe Yorùbá ni “Ọbẹ̀ tó dànù, òfò onilé, òfò àlejò” Àpẹrẹ pataki ni ọna àti ilé-iwosan ti ó bàjẹ́.  
+Òfò ni ọ̀nà ti ó bàjẹ́ mú bá ara ilú nipa ijàmbá ọkọ̀ fún onilé àti àlejò.  
+Ibàjẹ́ ile-iwosan jẹ òfò fún onilé àti àlejò nitori ọ̀pọ̀ àisàn ti kò yẹ kó pani ló ńṣe ikú pani, fún àpẹrẹ, itijú ni pé, Ọba, Ìjòyè àti Òṣèlú ńkú si àjò fún àìsàn ti kò tó nkan.  
+Dákú-dáji iná mọ̀nà-mọ́ná ti ó sọ ilú si òkùnkùn jẹ́ òfò fún olówó àti aláini nitori, yàtọ̀ si ariwo àti òórùn, ai mọye enia ni ikú ẹ̀rọ mọ̀nà-mọ́ná ti pa. 
+À ì sí Iná Mọ̀nà-mọ́ná àti Epo Ọkọ̀ bá Onílé pẹ̀lú Àlejò.  
+Ìwà ìbàjẹ́, àbẹ̀tẹ́lẹ̀ gbi gbà fún ọ̀pọ̀lọpọ̀ ọdún ló da ọbẹ̀ ohun amáyédẹrùn danu.
+Bi ọbẹ̀ bá dànù, kò ṣe kó padà, à fi ki enia se ọbẹ̀ tuntun, bi ó bá fẹ jẹ ọbẹ̀.  
+Yorùbá ni “Ẹ̀bẹ̀ là nbẹ òṣikà, ki ó tú ilú ṣe”.  
+Fún àtúnṣe, ó ṣe pàtàki ki gbogbo ará ilú parapọ̀ lati tún ohun ti ó ti bàjẹ́ ṣe nipa gbi gbé ogun ti iwà ìbàjẹ́ àti àbẹ̀tẹ́lẹ̀ gbi gbà.
+Odò ti ó bá gbàgbé orisun gbi gbẹ ló ngbẹ
+Orúkọ idile Yorùbá ti ó nparẹ́ nitori èsìn.  
+Àwọn orúkọ ìdílé wọnyi kò di ẹlẹ́sìn lọ́wọ́ lati ṣe iṣẹ́ rere tàbi dé ọ̀run,
+Ni igbà àtijọ́, ẹranko ti wọn pè ni Ẹkùn jẹ alágbára ẹranko, bẹni Kìnìún si jẹ́ alágbára ẹranko.  
+Bi Kìnìún ti lágbára tó ninú igbó, bi ó bá bú ramúramù, ohun gbogbo ninú igbó á pa kẹ́kẹ́ titi dé ori ẹranko yoku. 
+Ti Ẹkùn nikan ló yàtọ̀, nitori Ọlọrun fún ni ẹ̀bùn igbóyà, idi niyi ti a fi ńpè ni “Baba Ẹranko”, ti a ńpè Kìnìún ni “Ọlọ́là Ijù”.
+Ẹ̀rù ló sọ ọmọ Ẹkùn di Ológbò/Ológìní tó fi di Ẹran-àmúsìn – Ọdẹ peku-peku
+Ni ọjọ́ kan, Ẹkùn gbéra lọ sinú igbó lati lọ wa oúnjẹ fún àwọn ọmọ rẹ, àwọn ọmọ ẹ kéré wọn kò lè yára bi iyá wọn.  
+Ó fún wọn ni imọ̀ràn pe ki wọn kó ara pọ̀ si ibi òkiti-ọ̀gán ti ohun ti lè tètè ri wọn, ṣùgbọ́n wọn kò gbọ́dọ̀ bẹ̀rù fún ohunkóhun tàbi ẹranko ti ó bá wá si sàkáni wọn.
+Gẹgẹ bi a ṣe mọ, Kìnìún àti Ẹkùn, ọ̀gá ni onikálùkù láyé ara wọn, wọn ki ja.  
+Ibi ti Kìnìún bá wà Ẹkùn kò ni dé ibẹ̀, ibi ti Ẹkùn bá wà Kìnìún ò ni dé ibẹ̀.  
+Nitori èyi ni Yorùbá fi npa lowe pé “Kàkà ki Kìnìún ṣe akápò Ẹkùn, onikálùkù yio má ba ọdẹ rẹ̀ lọ”.
+Lai fà ọ̀rọ̀ gùn àwọn ọmọ Ẹkùn gbọ́ igbe Kìnìún, wọn ri ti ó ré kọja, àwọn ọmọ Ẹkùn ti ẹ̀rù ba ti kò ṣe bi iyá wọn ti ṣe ìkìlọ̀, ìjáyà bá wọn, wọ́n sá.  
+Nigbati Ẹkùn dé ibùdó rẹ lati fún àwọn ọmọ rẹ ni ẹran jẹ, àwọn ọmọ rẹ kò pé, ṣ̀ugbọ́n àwọn ọmọ ti ijáyà bá padà wá bá iyá wọn, nigbà yi ni iyá wọn rán wọn leti ikilọ̀ pé wọn kò gbọ́dọ̀ jáyà.  
+Nitori èyi, ohun kọ̀ wọ́n lọ́mọ.
+Nigbati iyá wọn kọ̀ wọ́n lọ́mọ, wọn kò lè ṣe ọdẹ inú igbó mọ́, wọn di ẹranko tó ńrágó, ti wọn ńsin ninú ilé, to ńpa eku kiri.  
+Idi èyi ni Yorùbá fi npa ni òwe pé “Ìjayà ló bá ọmọ Ẹkùn ti ó di Ológbò ti ó ńṣe ọde eku inú ilé.
+Ẹ̀kọ́-ìṣirò ni èdè Yorùbá
+Yorùbá ni bi wọn ti ma nṣe ìṣirò ki wọn tó bẹ̀rẹ̀ si ka ni èdè Gẹ̀ẹ́sì.  
+Akọ̀wé yi kọ ìṣirò ki ó tó bẹ̀rẹ̀ ilé-ìwé lọdọ ìyá rẹ̀ àgbà.  
+Nígbàtí ìyá-àgbà bá nṣe iṣẹ́ òwú “Sányán” lọ́wọ́, a ṣa òkúta wẹ́wẹ́ fún ọmọ-ọmọ rẹ̀ lati ṣe ìṣirò ni èdè Yorùbá.  
+Is̀irò ni èdè Yorùbá ti fẹ́ di ohun ìgbàgbé, nitori àwọn ọmọ ayé òde òní kò rí ẹni kọ́ wọn ni ilé tàbi ilé-ìwé, nitorina ni a ṣe ṣe àkọọ́lẹ̀ ìṣirò yi si ojú ewé yi.
+Yorùbá ni bi wọn ti ma a nka nkàn ki wọ́n tó bẹ̀rẹ̀ si ka a ni èdè Gẹ̀ẹ́sì.  
+Ẹ ṣe àyẹ̀wò kíkà ni èdè Yorùbá ni ojú ewé yi:
+Ẹ Kú Ọwọ́ Lómi Là Nki Ọlọ́mọ Tuntun – Ìtọ́jú Ọmọ Tuntun ni Àtijọ́
+Ni ayé àtijọ́, kò si itẹdi à lò sọnù bi ti ayé òde òni.   
+Bẹni wọn kò lo ìgò oúnjẹ lati fún ọmọ tuntun ni oúnjẹ.
+Ọwọ́ ọlọ́mọ tuntun ki kúrò ni omi nitori omi ni wọn fi nto àgbo ti wọn nrọ ọmọ fún ìtọ́jú ọmọ tuntun.  
+Aṣọ àlòkù Bàbá, Ìyá àti ẹbi ni wọn nya si wẹ́wẹ́ lati ṣe itẹdi ọmọ nitori kò si itẹdi à lò sọnú bi ti ayé òde òni.
+Ọmọ tuntun a ma ya ìgbẹ́ àti ìtọ̀ tó igbà mẹwa tàbi jù bẹ́ ẹ̀ lọ ni ojúmọ́.  
+Ọmọ ki i sùn ni ọ̀tọ̀, ẹ̀gbẹ́ ìyá ọmọ ni wọn ntẹ́ ọmọ si.  
+Lẹhin ọsẹ̀ mẹ́fà tàbi ogoji ọjọ́ tàbi ó lé kan ti wọn ti bi ọmọ, ìyá àti ọmọ lè lọ òde, ìyá á pọn ọmọ lati jáde.
+Nitori aṣọ ni itẹdi kò gba omi dúró, bi ọmọ bá tọ̀ tàbi ya ìgbẹ́, á yi aṣọ ìyá tàbi ẹni ti ó gbé ọmọ.  
+Kò si ẹ̀rọ ifọṣọ igbàlódé nitori na a, ó di dandan ki wọ́n fọ aṣọ ọmọ àti ẹni ti ó gbé ọmọ ni igbà gbogbo ni ilé ọlọ́mọ tuntun.  
+Eyi ni ó jẹ́ ki Yorùbá ma ki ẹni ti ó bá ntọ ọmọ lọ́wọ́ pé “Ẹ kú ọwọ lómi nitori ọwọ́ ki kúrò ni omi aṣọ fí fọ̀.
+Òṣèlú Nigeria, Ẹ Jọ̀wọ́, Ẹ Má Pe Ajá ni Ọ̀bọ fún Ará Ìlú
+Lati bi ogójì ọdún sẹhin, Epo-rọ̀bi nikan ni okùn ọrọ̀ ajé orilẹ̀ èdè Nigeria, ó si ti pa owó ribiribi wọlé fún ilú.  
+Nigbati Epo-rọ̀bi bẹ̀rẹ̀ si pa owó wọlé, ará ilú kọ iṣẹ́ àgbẹ̀ àti àwọn ohun ti ilú nṣe silẹ̀ fún ifẹ́ ọjà òkèrè.  
+Àsikò Epo-rọ̀bi ni ilú fi irẹsi òkèrè dipò oriṣiriṣi oúnjẹ ilẹ̀ wa.  
+Ki ṣe eyi nikan, Ìjọba Ológun àti Òṣèlú bẹ̀rẹ̀ iwà ibàjẹ́ nipa ki kó owó ti ó yẹ ki wọn fi tún ilú ṣe jẹ.  
+Wọn ò kó owó àbẹ̀tẹ́lẹ̀ yi dúró ni ilú, wọn nko lọ si Òkè-Òkun, eyi ló ba iná mọ̀nàmọ́ná, ilé-ìwòsàn, ilé-iwé, ọ̀nà, omi mi-mun àti ohun amáyédẹrùn yoku jẹ́.
+Lẹhin ti àwọn Ìjọba Ológun àti Òṣèlú fi ipò wọn ba ilú jẹ́ tán, bi ori bá fọ́ wọn, wọn á gba ọ̀nà Òkè-Òkun lọ fún ìtọ́jú, dipò ki wọn tú ile-iwé ṣe, wọn a fi owó ti wọn ji pamọ́ rán ọmọ lọ si Òkè-Òkun fún ẹ̀kọ́ ti ó yè kooro.  
+Wọn a fi owó àbẹ̀tẹ́lẹ́ ra ilé nla si Òkè-Òkun, oúnjẹ àti èso ilú kò dùn lẹnu olówó, aṣọ àti ohun ti ará ilú nṣe kò dára tó, ọjà Òkè-Òkun nikan ni wọn lè fi yangàn.
+Lai pẹ yi, àwọn Òṣèlú bẹ̀rẹ̀ si polongo pé “ki ará́ ilu ra ọja ilú, ki Naira (owo Nigeria) lè gòkè”.  
+Ki i ṣe ìyànjú burúkú ni eyi ṣùgbọ́n, “ọ̀rọ̀ kò dùn lẹ́nu olè”,  kì í ṣe lati ẹnu àwọn Òṣèlú ti ẹnu wọn ti fẹ si ọjà òkèrè nitori wọn ti kó owó ilú pamọ́ si àwọn ilú Òkè-Òkun.  
+Bi a bá ṣe akiyesi, ki àṣiri tó tú ni àsikò Ìjọba tuntun (Buhari/Òṣinbàjò), àwọn ti ilé-iṣẹ́ Agbógun ti ìwà ìbàjẹ́ tọka tàbi mú pé ó kó owó ilú jẹ jù̀, kò wọ aṣọ Òkè-Òkun.  
+Ó san ki wọn wọ aṣọ Òkè-Òkun, ju ki wọn kó owó rẹpẹtẹ ti wọn ji kó lọ si Òkè-Òkun.
+Díẹ̀ ninú àwọn Òṣèlú ti Ilé Iṣẹ́ Agbógun ti Ìwà Ìbàjẹ́ fi ẹ̀sùn kàn
+Ẹ̀bẹ̀ la bẹ̀ “Òṣèlú Nigeria” ki wọn ma pe Ajá l’Ọbọ fún ará ilú, ki wọn kó owó ilú ti wọn ji pamọ́ si Òkè-Òkun padà, ki wọn si fi àpẹrẹ rere silẹ̀ fún ará ilú nipa àyipadà kúrò ni iwà ojúkòkòrò àti olè ti wọn nfi ipò jà dúró.  
+Àyipadà Òṣèlú kúrò ninú iwà burúkú ni ó lè mú ki owó ilú (Naira) kògè.
+“Awọ kò ká Ojú ìlù, Ọmọ Onílù ni òhun fẹ́ má a sun Awọ jẹ – Ojúkòkòrò àwọn Òṣèlú Nigeria”:
+Nigbati àwọn Òṣèlú gba Ìjọba ni igbà keji lọ́wọ́ Ìjọba Ológun, inú ará ilú dùn nitori wọn rò wi pé Ológun kò kọ iṣẹ́ Òṣèlú.  
+Ilú rò wi pé Ìjọba Alágbádá yio ni àánú ilú ju Ìjọba Ológun lọ.  
+Ó ṣe ni laanu pé fún ọdún mẹ́rìndínlógún ti Òṣèlú ti gba Ìjọba, wọn kò fi hàn pé wọn ni àánú ará ilú rárá.  
+Dipò ki wọn ronú bi nkan yio ti rọrùn fún ilú nipa ipèsè ohun amáyédẹrùn bi iná mọ̀nàmọ́ná, ilé-iwé, ilé-ìwòsàn, ojú ọ̀nà ti ó dára, òfin lati jẹ ki ilú tòrò, ṣe ni wọn bẹ̀rẹ̀ si ji owó ilú.  
+Bi ori bá fọ́ Òṣèlú, wọn á lọ si Òkè-Òkun nibiti wọn kó owó ti ó yẹ ki wọn fi tú ilé-ìwòsàn ṣe si.  
+Àwọn Òṣèlú Òkè-Òkun nfi owó Nigeria tọ́jú ará ilú wọn nitori eyi, gbogbo ọ̀dọ́ Nigeria ti kò ni iṣẹ́ fẹ́ lọ si Òkè-Òkun ni ọ̀nà kọnà.
+Òwe Yorùbá ti ó sọ wi pé “Awọ kò ká Ojú ìlù, Ọmọ Onilù ni òhún fẹ́ má a sun Awọ jẹ” bá ìròyìn ti ó jáde ni lọ́wọ́-lọ́wọ́, bi àwọn Òṣèlú ti bá owó ọrọ̀ ajé Nigeria jẹ nipa bi wọn ti ṣe pin owó ohun ijà fún Ológun lati ra ibò.  
+‘Epo Rọ̀bì’ ni ‘Awọ’ nitori ó lé ni idá ọgọrin ti owó epo rọ̀bì kó ni owó ọrọ̀ ajé ti ilú tà si Òkè-Òkun.  
+Fún bi ọdún mẹ̃dógún ninú ọdún merindinlogun ti Èrò Ẹgbẹ́ Òṣèlú (ti Alágboòrùn) fi ṣe Ìjọba ki ó tó bọ lọ́wọ́ wọn ni ọdún tó kọjá, owó epo rọ̀bì lọ si òkè rẹpẹtẹ, ọrọ̀ ajé yoku pa owó wọlé.  
+Dipò ki wọn lo owó ti ó wọlé lati tú ilú ṣe, wọn bẹ̀rẹ̀ si pin owó lati fi ra owó Òkè-Òkun lati kó jade lọ ra ilé nlá si àwọn ilú wọnyi lati sá fún ilú ti wọn bàjẹ́ ni gbogbo ọ̀nà.
+Owó epo rọ̀bì fọ́, awọ kò wá ká ojú ilú mọ́.  
+Oníṣẹ́ Ìjoba kò ri owó-oṣ̀ù gbà déédé, àwọn ti ó fi ẹhin ti ni iṣẹ́ Ìjọba kò ri owó ifẹhinti wọn gba, owó ilú bàjẹ́, bẹni àwọn Òṣèlú bú owó oṣ́u rẹpẹtẹ fún ara wọn.  
+Eyi ti ó burú jù ni owó rẹpẹtẹ miran ti wọn bù lati ra ọkọ ti ìbọn ò lè wọ, olówó nla lati Òkè-Òkun fún Ọgọrun-le-mẹsan Aṣòfin-Àgbà.   
+Olóri Aṣòfin-Àgbà fẹ ra ọkọ̀ mẹsan fún ara rẹ nikan.
+Àsìkò tó ki àwọn èrò ji lati bá àwọn olè wọnyi wi, nitori àwọn Òṣèlú Òkè-Òkun nibiti wọn nkó owó ilú lọ, kò fi owó ilú wọn tọ́jú ara wọn, wọn nwọ ọkọ̀ pẹ̀lú àwọn ará ilú, àyè kò si fún wọn lati ja ilú ni olè bi ti àwọn Òṣèlú Nigeria.
+Olóri Ẹbi, Baba Bùkátà
+Olóri Ẹbi jẹ àkọ́bi ọkùnrin ni idilé.  
+Bi àkọ́bi bá kú, ọkùnrin ti ó bá tẹ̀le yio bọ si ipò.  Iṣẹ́ olóri ẹbi ni lati kó ẹbi jọ fún ilọsiwájú ẹbi, nipa pi pari ijà, ijoko àgbà ni ibi igbéyàwó, ìsìnkú, pi pin ogún, ìsọmọ-lórúkọ, ọdún ìbílẹ̀ àti ayẹyẹ yoku.
+Ni ayé òde òni, wọn ti fi owó dipò ipò àgbà, nitori ki wọn tó pe olóri ẹbi ti ó wà ni ìtòsí, wọn yio pe ẹni ti ó ni owó ninú ẹbi ti ó wà ni òkèrè pàtàki ti ó bá wà ni Èkó àti àwọn ilú nla miran tàbi Ilú-Òyinbó/Òkè-Òkun. 
+Ai ṣe ojúṣe Ìjọba nipa ipèsè ilé-iwòsàn ti ó péye, Ilé-iwé, omi mimu àti ohun amáyédẹrùn yoku jẹ ki iṣẹ́ pọ fún olóri ẹbi.
+Gẹ́gẹ́ bi ọ̀rọ̀ Yorùbá ti ó sọ wi pé “Olóri Ẹbi, Baba Bùkátà”, iṣẹ́ nla ni lati jẹ Olóri Ẹbi, ó gba ọgbọ́n, òye àti ìnáwó lati kó ẹbi jọ.
+A ki yin lati Ilé
+Ni ai pẹ yi, Olùkọ̀wé yi bẹ ilé wò fún bi ọ̀sẹ̀ mẹta.  
+A ṣe àwọn akiyesi wọnyi.  
+Ilú Èkó n fẹ̀ si, ṣùgbọ́n ọ̀nà kò fẹ̀ tó bi èrò àti ọkọ̀ ti pọ̀ tó, nitori eyi, sún-kẹrẹ fà-kẹrẹ ọkọ̀ kò jẹ́ ki ará ilú gbádùn.  
+Àwọn ti ó nlọ si ibi iṣẹ́ agogo mẹjọ ni lati kúrò ni ilé ki agogo marun tó lù, wọn yio si wọlé ni agogo mẹwa lẹhin ti wọn bá pari iṣẹ́ ni agogo marun.  
+Ó kéré jù, òṣìṣẹ́ yio lo wákàtí mẹfa lati lọ àti bọ ni ibi iṣẹ́ nitori sún-kẹrẹ fà-kẹrẹ ọkọ̀.
+Ìjọba ko ti i ṣe ìpèsè omi ẹ̀rọ, ọ̀nà àdúgbò àti ohun amáyédẹrùn igbàlódé pàtàki ni àwọn agbègbè tuntun.  
+Iná mọ̀nàmọ́ná ti dára di ẹ̀ si, nitori iná kò lọ púpọ̀ mọ́ bi ti tẹ́lẹ̀.
+Ni àwọn olú ilú ilẹ̀ Yorùbá yókù bi Ìbàdàn, Òṣogbo, Abẹ́òkúta, Àkúrẹ́ àti Adó-Èkìtì, kò si sún-kẹrẹ fà-kẹrẹ ọkọ̀ bi ti Èkó ṣùgbọ́n iná mọ̀nàmọ́ná kò ṣe déédé bi ti ilú Èkó.  
+Ọ̀wọ́n epo-ọkọ̀ ti ó gbòde ni igbà ọdún Kérésìmesì ti ó kọjá àti ni ibẹ̀rẹ̀ ọdún tuntun ti lọ ṣùgbọ́n epo-ọkọ̀ wọn ni ọ̀pọ̀lọpọ̀ ilé epo ni àwọn olú ilú yókù ju ti Èkó.  
+Gbogbo ohun tita ló ti wọ́n si.
+Ó ṣòro lati lo ayélujára nitori ai ṣe déédé iná mọ̀nàmọ́ná àti ayélujára, pàtàki bi enia ba jade kúrò ni ilú Èkó, ṣùgbọ́n ó sàn ju ti àtẹ̀hin wá lọ.  
+Ni àpapọ̀, ọyẹ́ jẹ́ ki ẹni ti ó bá nti Òkè-Òkun bọ̀ gbádùn nitori ooru din kù.
+“Ilú-Oyinbo dára, ọ̀rẹ́ mi òtútù pọ̀”
+Gẹgẹbi, àgbà ninu olórin Yorùbá “Délé Òjó” ti kọ ni ọpọlọpọ ọdún sẹhin pe “Ilú Oyinbo dára, ọrẹ mi òtútù pọ̀, à ti gbọmọ lọwọ èkùrọ́ o ki ma i ṣojú bọ̀rọ̀”.  
+Àsikò òtútù ni àlejò ma ńṣe iranti ilé.  
+Òtútù ò dára fún arúgbó, a fi ti onilé nã bá lówó lati san owó iná ti o gun òkè nitori àti tan ẹ̀rọ-amúlé gbónọ́.
+Ìmọ̀ràn fún àwọn ti ó gbé ìyá wọn wá si ìlú-oyinbo, ni ki wọn gbiyànjú lati ṣe ètò fún àwọn ìyá-àgbà lati lọ si ilé ni asiko òtútù lati fara mọ́ àwọn enia wọn. 
+Òtútù o dára fún eegun àgbà.
+“A ki i fi ọjọ́ kan bọ́ ọmọ tó rù”: Ìmọ̀ràn fún Òṣèlú tuntun àti àwọn ará ilú Nigeria
+Ọmọ ki dédé rù lai ni idi.  
+Lára àwọn idi ti ọmọ lè fi rù ni: àìsàn, ebi, òùngbẹ, ìṣẹ́, ai ni alabojuto, òbí olójú kòkòrò, ai ni òbí àti bẹ ẹ bẹ lọ.
+Orilẹ̀ èdè Nigeria ti jẹ gbogbo ìyà àwọn ohun ti ó lè mú ki ọmọ rù yi, lọ́wọ́ Ìjọba Ológun àti Òsèlú fún ọ̀pọ̀ ọdún.  
+Nigbati àwọn òbí ti ó fẹ́ràn ọmọ bi Olóògbé Olóyè Ọbáfẹ́mi Awólọ́wọ̀ àti àwọn àgbà ti ó bèrè fún Ominira lọwọ Ilú-Ọba, ṣe Òsèlú, ilú kò rù, pàtàki ọmọ Yorùbá.  
+Wọn fi ọrọ̀ ajé àti iṣẹ́ àgbẹ̀ ni ipinlẹ̀, pèsè ohun amáyédẹrùn fún ilú, ilé-ìwòsàn ọ̀fẹ́, ilé-iwé ọ̀fẹ́, àwọn tó jade ni ilé-iwé giga ri iṣẹ́ gidi àti pé àwọn ará ilú tẹ̀ lé òfin.  
+Eyi mú ìlọsíwájú bá ilẹ̀ Yorùbá ju ọ̀pọ̀lọpọ̀ ilẹ̀ Aláwọ̀dúdú.
+Ilú bẹ̀rẹ̀ si rù lati igbà ti Ìjọba Ológun àkọ́kọ́ ti fi ipá kó gbogbo ipinlẹ̀ Nigeria si abẹ́ Ìjọba-àpapọ̀ ni  ọdún mọ́kàndinlãdọta sẹhin .  
+Lati igbà ti wọn ti kó ọrọ̀ ajé gbogbo ipinlẹ̀ si abẹ́ Ìjọba-àpapọ̀ ti a lè pè ni “Òbí” ti jinà si ará ilú ti a lè pè ni “Ọmọ” ti rù.  
+Ojúkòkòrò àti olè ji jà Ìjọba Ológun àti Òṣèlú lábẹ́ Ìjọba-àpapọ̀ ti fa ebi, òùngbẹ àti àìsàn fún ará ilú.
+Ni ọdún mọ́kànlélọ́gbọ̀n sẹhin, Olóri Òsèlu tuntun Muhammadu Buhari àti àtẹ̀lé rẹ Túndé Ìdíàgbọn ṣe Ìjọba fún ogún oṣù gẹgẹ bi Ìjọba Ológun.  
+Nigbati wọn gba Ìjọba lọ́wọ́ àwọn Òṣèlú ti ó ba ilú jẹ́ pẹ̀lú iwà ìbàjẹ́ ti wọn fi kó ilú si igbèsè lábẹ́ Olóri Òṣèlú Shehu Shagari, wọn fi ìkánjú ṣe idájọ́ fún àwọn tó hu iwà ibàjẹ́, eleyi jẹ ki ilú ké pé Ìjọba wọn ti le jù.  
+Ká ni ilú farabalẹ̀ ni àsikò na a, ilú ki bá ti dára si.  
+Nigbati Olóri-ogun Badamasi Babangida gba Ìjọba, inú ilú dùn nitori àyè gba ará ilú lati ṣe bi wọn ti fẹ lati ri owó.  
+Eleyi jẹ ki ọ̀pọ̀lọpọ̀ olówó ojiji pọ̀ si lati igbà na a titi di oni.  
+Àyè àti ni owó ojiji nipa ifi owó epo-rọ̀bì ṣòfò, ki kó owó ìpèsè ohun amáyédẹrùn jẹ, gbi gba àbẹ̀tẹ́lẹ̀ àti iwà ìbàjẹ́, ló pa ilé-iwé giga, ilé-ìwòsàn, pàtàki ìpèsè iná-mọ̀nàmọ́ná, ìdájọ́ àti bẹ ẹ bẹ lọ.
+A lè lo òwe “A ki i fi ọjọ́ kan bọ́ ọmọ tó rù” ṣe àlàyé pé iwà ìbàjẹ́ àti ohun tò bàjẹ́ fún ọdún pi pẹ́ kò ṣe tún ṣe ni ọjọ́ kan, nitori eyi, ki ará ilú ṣe sùúrù fún Ìjọba tuntun lati ṣe àtúnṣe lati ìbẹ̀rẹ̀.  
+Ki Ìjọba tuntun na a mọ̀ pé “Ori bi bẹ́, kọ́ ni oògùn ori fi fọ́”, nitori eyi ki wọn tẹ̀ lé òfin lati ṣe ìdájọ́ fún àwọn ti ó ba ilú jẹ́.
+Ẹ Jọ̀wọ́ Darapọ̀ Mọ́ Wa lati kọ nipa Àṣà àti Ìtàn Àdáyébá ni Agbègbè Yin 
+Gbogbo olólùfẹ́ èdè àti àṣà Yorùbá ti ó tẹ̀lé wa ni àwọn ọdún ti ó kọjá, a ki yin fún ọdún tuntun ti ó wọlé.  Èdùmàrè á jẹ́ ki ọdún na a tura o.  
+Inú wa yio dùn ti ẹ bá lè darapọ̀ mọ́ wa lati kọ nipa àṣà ati itàn àdáyébá ni agbègbè yin ni ilẹ̀ Yorùbá fún àkọọ́lẹ̀ ki èdè àti àṣà Yorùbá ma ba parẹ́.
+Èdè àti Àṣà Yorùbá kò ni parẹ́.
+Ìkini fún ọdún tuntun“A ki i jẹ Igún, a ki i fi Ìyẹ́ Igún rinti: Ẹnu Ayé Lẹbọ
+Ohun ti o jẹ èèwọ̀ tàbi òfin ni ilú kan le ma jẹ èèwọ̀/òfin ni ilú miran ṣùgbọ́n bi èniyàn bá dé ilú, ó yẹ ki ó bọ̀wọ̀ fún àṣà àti òfin ilú.  
+Bi èniyàn bá ṣe nkan èèwọ̀, ó lè ṣé gbé ti kò bá si ẹlẹri lati ṣe àkóbá tàbi ki ó fi ẹnu ṣe àkóbá fún ara rẹ̀.
+Ni ilú kan ti a mọ̀ si “Ayégbẹgẹ́”, àwọn àlejò ọkùnrin meji kan wa ti orúkọ wọn njẹ́ – Miòṣé àti Moṣétán.  
+Ọba ilú Ayégbẹgẹ́ kede pé èèwọ̀ ni lati jẹ ẹiyẹ Igún ni ilú wọn.  
+Akéde ṣe ikilọ̀ pé ẹni ti ó bá jẹ Igún, ikùn rẹ yio wu titi yio fi kú ni.  
+Àwọn àlejò meji yi ṣe ìlérí pé kò si nkan ti yio ṣẹlẹ̀ ti àwon bá jẹ Igún, nitori eyi wọn fi ojú di èèwọ̀ ilú Ayégbẹgẹ́.
+Miòṣé, lọ si oko, ó pa Igun, ó din láta, ó si jẹ́, ṣùgbọ́n ó pa adiẹ, ó da iyẹ́ adiẹ si ààtàn bi ẹni pé adiẹ ló jẹ.  
+Ọ̀pọ̀ ará ilú ti wọn mọ̀ pé èèwọ̀ ni lati jẹ Igún paapa, jẹ ninú rẹ, ṣùgbọ́n wọn kò mọ pé Igún ni àwọn jẹ, wọn rò wi pé adiẹ ni.  
+Miòṣé fi ọ̀rọ̀ àṣiri yi sinú lai si nkan ti ó ṣe gbogbo àwọn ti ó jẹ Igún pẹ̀lú rẹ.
+Moṣétán lọ si oko ohun na a pa Igun, ó gbe wá si ilé, ṣùgbọ́n kò jẹ́.  
+Ó pa adiẹ dipò Igún, o din adiẹ ó jẹ ẹ, ṣùgbọ́n, ó da iyẹ́ Igún si ààtàn bi ẹni pé Igún lohun jẹ.  
+Ni ọjọ́ keji àwọn ará ilú ri iyẹ́ Igún wọn pariwo pé Moṣétán jẹ èèwọ̀, ó ni bẹni, ohun jẹ Igún.  
+Ni ọjọ́ kẹta inú Moṣétán bẹ̀rẹ̀ si i wú titi ara fi ni.  
+Nigbati ìnira pọ̀ fún Moṣétán, ó jẹ́wọ́ wi pé adiẹ lohun jẹ, ṣùgbọ́n wọn ko gba a gbọ pé kò jẹ Igun, titi ti ó fi ṣubú ti ó si kú. Yorùbá ni “Ẹnu Ayé Lẹbo”, Moṣétán fi ẹnu kó bá ara rẹ̀.
+Ẹ̀kọ́ ìtàn yi ni pé, àfojúdi kò dára, ó yẹ ki enia pa òfin mọ nitori “Bi a ti nṣe ni ilé wa, èèwọ̀ ibò miran”.  
+Ẹni ti kò bá pa òfin mọ, á wọ ijọ̀ngbọ̀n ti ó lè fa ikú tàbi ẹ̀wọ̀n.
+“Ṣe bi o ti mọ ki i tẹ́ – Ọdún wọlé dé”
+Ọdún Kérésì jẹ́ ọdún Onigbàgbọ́ lati ṣe iránti ọjọ́ ibi Jésù Olùgbàlà.  
+Ọjọ́ kẹjọ lẹhin ọdún Kérésìmesì ni ọdún  tuntun.  
+Fún ayẹyẹ ọdún, kò si iyàtọ̀ laarin Ìgbàgbọ́ àti Mùsùlùmi ni ilẹ̀ Yorùbá nitori Yorùbá gbà wi pé “Ẹni ọdún bá láyé, ó yẹ kó dúpẹ́”.  
+Ọpẹ́ ló yẹ ki èniyàn dá ju igbèsè ji jẹ lati ṣe àṣe hàn ni àsikò ọdún.
+Ni ọ̀pọ̀lọpọ̀ ọdún sẹhin, àwọn Àgbẹ̀ á dari wálé pẹ̀lú irè oko pàtàki iṣu.  
+Àwọn Oniṣòwò á ri ọjà tà nitori àsikò yi ni Bàbá àti Ìyá ma nrán aṣọ ọdún fún àwọn ọmọdé àti oúnjẹ rẹpẹtẹ fún ipalẹ̀mọ́ ọdún.  
+Inú ọmọdé ma ndùn nitori asiko yi ni wọn nse irẹsi àti pa adiẹ fún ọdún.  
+Àwọn ọmọdé á lọ lati ilé ẹbi kan si ekeji, ẹbi ti wọn lọ ki, á fún wọn ni oúnjẹ àti owó ọdún.  
+Àwọn àgbàlagbà naa ma ndá aṣọ ẹgbẹ́ fún idúpẹ́ ọdún, ṣùgbọ́n ki owó epo rọ̀bi tó gba igboro, ki ṣe aṣọ olówó nla bi ti ayé òde òni.
+Àsikò ti olè npọ̀ si niyi pàtàki ni ilú Èkó, nitori ọ̀pọ̀lọpọ̀ fẹ na owó ti wọn kò ni lati ṣe ọdún.  
+Ìpolówó ọjà pọ̀ ni àsikò yi ni Òkè-Òkun, nitori eyi, ọ̀pọ̀ nlo ike-igbèsè tàbi ki wọn ya owó-èlè lati ra ọjà ti wọn kò ni owó rẹ.  
+Lẹhin ọdún, wọn a fi ọdún tuntun bẹ̀rẹ̀ si san igbèsè, nitori eyi Ìyá àti Bàbá a ma a ti ibi iṣẹ́ kan lọ si ekeji lai ni ìsimi tàbi ri àyè àti bójú tó àwọn ọmọ.
+Ọ̀rọ̀ Yorùbá sọ wi pé “Ṣe bi o ti mọ ki i tẹ́ ”, nitori eyi gbogbo ọmọ Yorùbá ni ilé, ni oko, ẹ ṣe bi ẹ ti mọ, ẹ ma tori odun na ọwọ́ si nkan ti ọwọ́ yin kò tó, ki ẹ ma ba a tẹ́.  
+Ọ̀pọ̀lọpọ̀ Onigbàgbọ́  ayé òde oni ki i fẹ fi èdè Yorùbá kọrin ṣùgbọ́n ẹ gbọ́ bi ọmọ Òyinbó ti kọ orin àwọn “Obinrin Rere” ni ojú iwé yi.
+Èkó – Aginjù laarin àwọn Olú Ilú Àgbáyé
+Èkó ni olú ilú Nigeria fún ọ̀pọ̀lọpọ̀ ọdún ki àwọn Ijọba Ológun tó kó Olú Ilú Nigeria lọ si Abuja ni bi ọdún mẹrinlélógún sẹhin.  
+Ki kó olú ilú kúrò ni Èkó kò din èrò ti o nwọ Èkó kù, ilú Èkó ngbòrò si ni, ṣùgbọn bi èrò ti npọ si, Ijọba àpapọ̀ kò ran Eko lọwọ nipa ipèsè owó tó tó ni àsikò fún ohun amáyédẹrùn.
+Ká fi Èkó wé àwọn olú ilú yoku ni àgbáyé àti àwọn ilú nla ti omi yi ká, inira Èkó pọ̀ ju àwọn ilú wọnyi lọ.  
+Kò si iná mọ̀nàmọ́ná ti ó ṣe deede, kò si omi mimu fún ará ilú pàtàki fún àwọn agbègbè titun.  
+Eyi ti ó burú jù ni ki èniyàn jade, kó má mọ igbà ti ó ma padà wọlé nipa li lo bi wákàti mẹ́fà tàbi ju bẹ́ ẹ̀ lọ ninú sún kẹẹrẹ fa kẹẹrẹ ọkọ̀, nitori ọ̀nà kò tó, bẹni kò dára, iwà-kuwà pọ̀ fún awakọ̀, ọkọ̀ àti èrò pọ̀ ju òpópó ọ̀nà lọ.
+Bi Ijọba àpapọ̀ Nigeria ti ri owó ori gbà ni Èkó ju gbogbo àwọn ilú yoku lọ tó, kò si irànlọ́wọ́ lati tú ọ̀nà Ijọba àpapọ̀ ṣe.  
+Ni ọ̀pọ̀lọpọ̀ ọdún sẹhin, Ijọba Ológun di Èkó lọ́wọ́ lati pèsè ọkọ̀ ojú irin ti ó ngbé èrò púpọ̀ ti Gómìnà Lateef Jakande bẹ̀rẹ̀.  
+Bi Èkó ti tóbi tó, ibùdókọ òfúrufú kan ló wà lójú kan naa ni Ìkẹjà fún àwọn ti ó nlọ si gbogbo àgbáyé àti àwọn ti ó fẹ́ lọ si ilú Nigeria miran.  
+Lati igbà ti Ijọba Ológun ti lé àwọn àjòjì ti ó dá ilé ọjà nla silẹ fún ọ̀pọ̀lọpọ̀ ọdún, àwọn Olówó ilú kò ronú lati ṣe irú ilé ọjà bẹ́ ẹ̀ si gbogbo agbègbè Èkó fún irọ̀rùn ará ilú ju bi gbogbo ọjà nla ti kó ori jọ si Erékùṣù Èkó.  
+Àwọn nkan wọnyi àti iwà ibàjẹ́ àti ojúkòkòrò Ijọba Ológun àti Alágbádá (Òṣèlú) ló sọ Èkó di aginjù laarin àwọn olú ilú àgbáyé.
+A lérò wi pé Ijọba Òṣèlú ti àwọn ará ilú yàn fún “àyipadà” kúrò ninú iwà ibàjẹ́ tó gba orilẹ̀ èdè kan fún igbà pi pẹ́, yio wa àtúnṣe fún Èkó.  
+Gómìnà Akinwunmi Àmbọ̀dé ni lati wá àtúnṣe si iyà ti ojú ará ilú nri nipa gbi gbé ọkàn lé ọkọ̀ ilẹ́ fún ohun irinna nikan, nipa pi pari iṣẹ́ ọkọ̀ ojú irin àti ibùdókọ̀ ojú omi ti Ijọba Gómìnà Babátúndé Raji Fáṣọlá bẹ̀rẹ̀, ki wọn si ṣe kun nipa ipèsè ibùdókọ òfúrufú àti ohun amáyédẹrùn yoku.
+Èkó kò ni bàjẹ́ o – ó bàjẹ́ ti.
+Ọbẹ̀ tó dùn, Owó ló pá: Àwòrán àti pi pè Èlò Ọbẹ̀
+Òwe Yorùbá ni “Ọbẹ̀ tó dùn, owó ló pá”, ṣùgbọ́n kò ri bẹ̃ fún ẹni ti kò mọ ọbẹ̀ se.  
+Elomiran lè lo ọ̀kẹ́ àimọye owó lati fi se ọbẹ̀ kó má dùn nitori, bi iyọ̀ ò ja, ata á pọ̀jù tàbi ki omi pọ̀jù.
+Ni tõtọ, owó ni enia ma fi lọ ra èlò ọbẹ̀ lọ́jà, ṣùgbọ́n fún ẹni ti ó mọ ọbẹ̀ se, ìwọ̀nba owó ti ó bá mú lọ si ọjà, ó lè fi ra èlò ọbẹ̀ gẹ́gẹ́ bi owó rẹ ti mọ, ki ó si se ọbẹ̀ na kó dùn.  
+Ẹ wo àwòrán àti pipè èlò ọbẹ ni abala ojú iwé yi.
+Olóyè Hannah Ìdòwú Dideolú Awólọ́wọ̀, Iyalode Rẹ́mọ, Yèyé Oòduà relé pẹ̀lú ijó àti ayọ̀
+A bi Olóògbé, Olóyè Hannah Ìdòwú Dideolú ni ọjọ́ karundinlọ́gbọ̀n, oṣù kọkanla, ọdún Ẹ̀dẹ́ẹ́gbãlemẹ̃dógún, ó ṣe igbéyàwó pẹ̀lú Olóògbé Olóyè Ọbáfẹ́mi Awólọ́wọ̀ àgbà Òṣèlú ni ọjọ́ kẹrindinlọ́gbọ̀n, oṣù kejila, Ẹ̀dẹ́ẹ́gbãlemẹ̃tadinlọ́gbọ̀n, o jade láyé nigbati ó kú bi oṣú meji ó lé di ẹ ki ó pé ọgọrun ọdún.
+“Lẹhin ọkùnrin tàbi obinrin (ni ayé òde òni) ti ó bá ṣe ori-ire, obinrin tàbi ọkunrin rere wa lẹhin tabi ẹ̀gbẹ rẹ”.  
+Òwe yi ni a lè fi ṣe àpẹrẹ iṣẹ́ ribiribi ti Olóògbé, Olóyè Hannah Ìdòwú Dideolú ṣe fún Olóògbé Olóyè Ọbáfẹ́mi Awólọ́wọ̀, ògúná gbongbo Òṣèlú ni ilẹ̀ Yorùbá àti fún orilẹ̀ èdè Nigeria.  
+Nigbati Bàbá mba iṣẹ́ oselu kiri gbogbo àgbáyé, Iyá ló di ilé mú, ti ọkàn Olóògbé Olóyè Ọbáfẹ́mi Awólọ́wọ̀ fi balẹ̀ lati le fi ipò Olóri Òsèlú ṣe iṣẹ́ ribiribi ti ó ṣe.  
+Titi di ọjọ́ ikú ọkọ rẹ ni ọdún mejidinlọ́gbọ̀n sẹhin, lẹhin igbéyàwó àádọ́ta ọdún, ó ṣe àti lẹhin fún ọkọ rẹ titi di ọjọ́ alẹ́, eyi jẹ àpẹrẹ rere fún gbogbo obinrin.
+Ẹbi àti ará ti bẹ̀rẹ̀ si palẹ̀mọ́ fún ọjọ́ ibi ọgọrun fún Olóògbé, Olóyè Hannah Ìdòwú Dideolú nigbati iròyin ikú rẹ jade pé iyá sùn ni ọjọ kọkàndinlógún, oṣú kẹsan ọdún Ẹgbàálemẹ̃dógún.  
+Ipalẹ̀mọ́ ìsìnku bẹ̀rẹ lati ṣe àṣeyẹ ikẹhin fún olóògbé dipò ayẹyẹ ọjọ́ ọgọrun ibi. 
+Olóri Òṣèlú Nigeria Muhammadu Buhari pẹ̀lú àwọn àgbà Òsèlú, àwọn Ọba àti  Ìjòyè, ọmọdé àti àgbà ilú dara pọ̀ pẹ̀lú ẹbi àti àwọn ọmọ Olóògbé lati ṣe ẹ̀yẹ ikẹhin fún Olóògbé, Olóyè Hannah Ìdòwú Dideolú Awólọ́wọ̀ ni ọjọ́ karùndinlọ́gbọ̀n, oṣù kọkanla ọdún Ẹgbàálemẹ̃dógún.
+Sùn re o, ó digbà, o di gbóṣe.
+Ọba titun, Ọọni Ifẹ̀ Kọkànlélaadọta gba Adé
+Ilé-Ifẹ̀ tàbi Ifẹ̀ jẹ ilú àtijọ́ ti Yorùbá kà si orisun Yorùbá.  
+Lẹhin ọjọ mọ́kànlélógún ni Ilofi (Ilé Oyè) nigbati gbogbo ètùtù ti ó yẹ ki Ọba ṣe pari, Ọba Adéyẹyè Ẹniitàn, Ògúnwùsi gba Adé  Aàrẹ Oduduwa ni ọjọ́ kẹtàlélógún oṣù kọkànlá ọdún Ẹgbàálemẹ͂dógún ni Òkè Ọra nibiti Bàbá Nlá Yorùbá Oduduwa ti kọ́kọ́ gba adé yi ni ọ̀pọ̀lọpọ̀ ọdún sẹhin.
+Ọba Ogunwusi, Ọjaja Keji, di Ọba kọkànlélaadọta Ilé Ifẹ̀, lẹhin ti Ọba Okùnadé Sijúwadé pa ipò dà ni ọjọ́ kejidinlọgbọn, oṣù keje odun Ẹgbàálemẹ͂dógún.
+Gẹ́gẹ́ bi àṣà àdáyébá, ẹ͂kan ni ọdún nigba ọdún  Ọlọ́jọ́ ti wọn ma nṣe ni oṣù kẹwa ọdún ni Ọba lè dé Adé Aàrẹ Oduduwa.
+Adé á pẹ́ lóri o, bàtà á pẹ́ lẹ́sẹ̀.  
+Igbà Ọba Adéyẹyè Ẹniitàn, Ògúnwùsi á tu ilú lára.
+lè dé Adé Àrẹ Oduduwa.
+Bi a bá tori ẹni burúkú fọ́jú, a kò ni ri ojú ri ẹni rere
+Kò si ilú, ẹ̀yà tàbi àwọ̀ ti kò ni ẹni burúkú tàbi ẹni rere.  
+Àti ẹni burúkú àti ẹni rere ló wà ninú ẹbi, ilú, àti gbogbo ẹ̀yà àgbáyé ninú èniyàn dúdú àti funfun, ọkùnrin, obinrin, ọmọdé àti àgbà.
+Bi èniyàn bá pàdé ẹni kan tàbi meji ni àkọ́kọ́, ti ó ti ẹ̀yà tàbi ilú kan jade, ti ó si hùwà rere, ni ọ̀pọ̀ igbà, ó wọ́pọ̀ lati rò wi pé gbogbo ará ilú bẹ́ ẹ̀ ló dára, ni ida keji, ti irú ẹni bẹ́ ẹ̀ ba hùwà burúkú, ó wọ́pọ̀ lati rò wi pé gbogbo ẹni ti ó ti irú ẹ̀yà yi jade ni ẹni burúkú.
+Ọ̀pọ̀ igbà, lai pàdé enia ri, ẹlòmiràn lè ni lọ́kàn pe ẹni burúkú tàbi ẹni rere ni ohun pàdé nitori itàn ti ó ti gbọ́.  
+Itàn yi lè nipá lóri irú iwà ti èniyàn yio hu si ẹni ti a bá pàdé.  
+Fún àpẹrẹ, wọn a ni Ìjẹ̀bú fẹ́ràn owó ju ẹmi lọ, Ondó njẹ Ajá, Ọ̀yọ́ ‘ayọ́mọọ́lẹ̀’’, Èkìtì ni agidi, Ìjẹ̀shà – Òṣómàáló’ àti bẹ́ ẹ̀ bẹ́ ẹ̀ lọ.  
+Ki ṣe gbogbo àwọn ará ilú wọnyi ló bá àpèjúwe yi mu.
+Ọ̀pọ̀lọpọ̀ ti fọ́jú nitori iwà burúkú ẹni kan tàbi itàn burúkú.  
+Ó wọ́pọ̀ laarin ẹbi ọkùnrin àti obinrin àfẹ́sọ́nà, ki obi kọ̀ ki wọn fẹ́ra nitori itàn pé idilé tàbi ilú ti ikan ninú ọkùnrin tàbi obinrin ti jade kò dára.  
+Lára ewu ti ó wà ninú ki èniyàn tori ẹni burúkú fọ́jú, ọ̀pọ̀ ti tàsé iyàwó tàbi ọkọ rere lai farabalẹ̀ wo iwà ẹni ti ọmọ wọn mú wálé tàbi tàsé ẹni rere.  
+Nitori òwe Yorùbá ti ó sọ pé “Bi a bá tori Ẹni burúkú fọ́jú, a kò ni ri ojú ri ẹni rere”, ó yẹ ki a farabalẹ̀ wo iwà ẹni ti a bá pàdé ju ki itàn tàbi iwà awọn diẹ ba gbogbo ẹni ti ó bá ti ẹbi, ilú tàbi ẹ̀yà kan jẹ́, ki á lè ri ojú ri ẹni rere.
+Ẹni tó ni Ẹrú ló ni Ẹrù – Ìtàn Bàbá tó kó gbogbo ogún fun Ẹrú 
+Ni ayé igbà kan ri ki ṣe oye ọkọ, ilé gogoro, aṣọ àti owó ni ilé-ìfowó-pamọ́ ni a fi nmọ Ọlọ́rọ̀ bi kò ṣe pé oye Ẹrú, Ìyàwó, Ọmọ, Ẹran ọsin àti oko rẹpẹtẹ ni a fi n mọ Ọlọ́rọ̀.   
+Ni àsikò yi, Bàbá kan wa ti ó ni Iyawo púpọ̀, Oko rẹpẹtẹ, ogún-lọ́gọ̀ ohun ọsin, ọ̀pọ̀lọpọ̀ Ẹrú tàbi Alágbàṣe, Ọmọ púpọ̀, ṣùgbọ́n ninú gbogbo ọmọ wọnyi, ikan ṣoṣo ni ọkùnrin.  
+Bàbá fi ikan ninú gbogbo Ẹrú ti ó ti pẹ́ pẹ̀lú rẹ, ṣe Olóri fún àwọn Ẹrú yoku.  
+Ẹrú yi fẹ́ràn Bàbá, ó si fi tọkàn-tọkàn ṣe iṣẹ́ fún.
+Nigbati Bàbá ti dàgbà, ó pe àwọn àgbà ẹbí lati sọ àsọtẹ́lẹ̀ bi wọn ṣe ma a pín ogún ohun lẹhin ti ohun bá kú nitori kò si iwé-ogún bi ti ayé òde oni.  Ó ṣe àlàyé pé, ohun fẹ́ràn Olóri Ẹrú gidigidi nitori o fi tọkàn-tọkàn sin ohun, nitori na a, ki wọn kó gbogbo ohun ini ohun fún Ẹrú yi.  
+Ó ni ohun kan ṣoṣo ni ọmọ ọkùnrin ohun ni ẹ̀tọ́ si lati mu.
+Lẹhin ọ̀pọ̀lọpọ̀ ọdún, Bàbá re ibi àgbà nrè, ó ku.  
+Lẹhin ìsìnkú, àwọn ẹbí àti àwọn ọmọ Olóògbé pé jọ lati pín ogún.  
+Ni àsikò yi, ọmọ ọkùnrin ni ó n jogún Bàbá, pàtàki àkọ́bí ọkùnrin nitori ohun ni Àrólé.  
+Gẹgẹ bi àsọtẹ́lẹ̀, wọn pe Olóri Ẹrú jade, wọn si ko gbogbo ohun ini Bàbá ti o di Oloogbe fún.  
+Wọn tún pe ọmọ ọkùnrin kan ṣoṣo ti Bàbá bi jade pé ó ni ẹ̀tọ́ lati mu ohun kan ti ó bá wu u ninú gbogbo ohun ini Bàbá rẹ, nitori eyi wọn fún ni ọjọ́ meje lati ronú ohun ti ó bá wù ú jù.  
+Àwọn ẹbí sun ìpàdé si ọjọ́ keje.  
+Inú Ẹrú dùn púpọ̀ nigbati inú ọmọ Bàbá bàjẹ́. 
+Eyi ya gbogbo àwọn ti ó pé jọ lẹ́nu pàtàki ọmọ Bàbá nitori ó rò pé Bàbá kò fẹ́ràn ohun. 
+Lẹhin ìbànújẹ́ yi, ó gbáradi, ó tọ àwọn àgbà lọ fún ìmọ̀ràn.
+Ni ọjọ́ keje, ẹbí àti ará tún péjọ lati pari ọ̀rọ̀ ogún pin-pin, wọn pe ọmọ Bàbá jade pé ki ó wá mú ohun kan ṣoṣo ti ó fẹ́ ninú ẹrù Baba rẹ.  
+Ó dide, ó dúpẹ́ lọ́wọ́ gbogbo àwọn ti ó joko, ó yan Olóri Ẹrú  gẹgẹ bi àwọn àgbà ti gba a ni ìyànjú.  
+Inú Ẹrú bàjẹ́, ṣùgbọ́n o ni ki Ẹrú má bẹ̀rù, Ẹrú na a ṣe ìlérí lati fi tọkàn-tọkàn tọ́jú ohun ti Bàbá fi silẹ̀.  
+Idi niyi ti Yorùbá ṣe ma npa a lowe pe “Ẹni tó ni Ẹrú ló ni Ẹrù.”
+Lára ẹ̀kọ́ itàn yi ni pé, ó dára lati lo ọgbọ́n ọlọ́gbọ́n nitori “Ọgbọ́n ọlọ́gbọ́n ni ki i jẹ ki á pe àgbà ni wèrè”. 
+Ẹ̀kọ́ keji ni pé, ogún ti ó ṣe pàtàki jù ni ki á kọ ọmọ ni ẹ̀kọ́ lati ilé àti lati bójú tó ẹ̀kọ́ ilé-iwé.
+Bi ọmọ ò jọ ṣòkòtò á jọ kíjìpá: Ibáṣe pọ Idilé Yorùbá
 
-Bàbá, iyá àti ọmọ ni wọn mọ si Idilé ni Òkè-òkun ṣùgbọ́n ni ilẹ̀ Yorùbá kò ri bẹ́ ẹ̀, nitori ẹbi Eg bàbá, ẹ̀gbọ́n àti àbúrò ẹni, ọmọ, ọkọ àti aya wọn ni a mọ̀ si Idilé.  
-Yorùbá fẹ́ràn lati má a bọ̀wọ̀ fún àgbà nitori eyi, ẹni ti ó bá ju Bàbá àti Ìyá ẹni lọ Bàbá tàbi Ìyá la n pè é, wọn ki pe àgbà ni orúko nitori eyi, wọn lè fi orúkọ ọmọ pe àgbà tàbi ki wọn lo orúkọ apejuwe (bi Bàbá Èkó, Iyá Ìbàdàn).  
-Ẹ ṣe à yẹ̀ wò àlàyé àti pi pè ibáṣepọ̀ idilé ni ojú iwé yi.
+Bàbá, iyá àti ọmọ ni wọn mọ si Idilé ni Òkè-òkun ṣùgbọ́n ni ilẹ̀ Yorùbá kò ri bẹ́ ẹ̀, nitori ẹbi Eg bàbá, ẹ̀gbọ́n àti àbúrò ẹni, ọmọ, ọkọ àti aya wọn ni a mọ̀ si Idilé.  
+Yorùbá fẹ́ràn lati má a bọ̀wọ̀ fún àgbà nitori eyi, ẹni ti ó bá ju Bàbá àti Ìyá ẹni lọ Bàbá tàbi Ìyá la n pè é, wọn ki pe àgbà ni orúko nitori eyi, wọn lè fi orúkọ ọmọ pe àgbà tàbi ki wọn lo orúkọ apejuwe (bi Bàbá Èkó, Iyá Ìbàdàn).  
+Ẹ ṣe à yẹ̀ wò àlàyé àti pi pè ibáṣepọ̀ idilé ni ojú iwé yi.
 Bi Ọdẹ bá ro ìṣẹ́ ro ìyà inú igbó, ti ó bá pa ẹran kòní fẹ́nì kan jẹ
 Láyé àtijọ́, iṣẹ́ Ọdẹ jẹ ikan ninú iṣẹ gidi ni ile Yorùbá.  
 Ògbójú Ọdẹ ló npa ẹranko bi Erin, Ẹkùn, Kìnìún àti Ẹfòn, Ìmàdò, Ikõkò, nígbàtí àwọn to nṣe Ọdẹ etílé npa ẹranko ìtòsí ilé bi Ọ̀kẹ́rẹ́, Òkété, Ọ̀bọ àti bẹ̃bẹ lọ.  
@@ -1257,63 +1257,63 @@ Láyé àtijọ́, iṣẹ́ Ọdẹ jẹ ikan ninú iṣẹ gidi ni ile Yorùb�
 A lè fi ò̀we Yorùbá “Bi Ọdẹ bá ro ìṣẹ́ ro ìyà inú igbó, ti ó bá pa ẹran kòní fẹ́nì kan jẹ” wé ìyá ti àwọn ti ó wà ni Ìlúọba/Ò̀kèòkun njẹ nínú òtútù lati pa owó.  Nínú owó yi, wọn a ronú àti ran àwọn ẹbí àti ọ̀rẹ́ lọ́wọ́, ṣùgbọ́n ọ̀pọ̀lọpọ̀ àwọn ti wọn gbìyànjú lati ràn lọ́wọ́, ki i wo ìya ti ojú wọn rí.
 
 Ẹ rántí wípé ẹni ti o bá laanu ló lè ronú lati ran ẹlòmíràn lọ́wọ́.
-Ìtàn bi Ìjàpá ti fa Àkóbá fún Ọ̀bọ: Ẹ Ṣọ́ra fún Ọ̀rẹ́ Burúkú
-Ni ọ̀pọ̀lọpọ̀ itàn Yorùbá, Ìjàpá jẹ ọ̀lẹ, òbùrẹ́wà, kò tóbi tó àwọn ẹranko yoku, ṣùgbọ́n ó ni ọgbọ́n àrékérekè ti ó fi ngbé ilé ayé.
+Ìtàn bi Ìjàpá ti fa Àkóbá fún Ọ̀bọ: Ẹ Ṣọ́ra fún Ọ̀rẹ́ Burúkú
+Ni ọ̀pọ̀lọpọ̀ itàn Yorùbá, Ìjàpá jẹ ọ̀lẹ, òbùrẹ́wà, kò tóbi tó àwọn ẹranko yoku, ṣùgbọ́n ó ni ọgbọ́n àrékérekè ti ó fi ngbé ilé ayé.
 
-Ò̀we Yorùbá sọ wi pé, “Iwà jọ iwà, ni ọ̀rẹ́ jọ ọ̀rẹ́”, ṣùgbọ́n ninú itàn yi, iwà Ìjàpá àti Ọ̀bọ kò jọra.  
-Ìjàpá  pẹ̀lú Ọ̀bọ di ọ̀rẹ́ nitori wọn jọ ngbé àdúgbò.  Gbogbo ẹranko yoku mọ̀ wi pé iwà wọn kò jọra nitori eyi, ó jẹ́ ìyàlẹ́nu fún wọn irú ọ̀rẹ́ ti wọn bára ṣe.
+Ò̀we Yorùbá sọ wi pé, “Iwà jọ iwà, ni ọ̀rẹ́ jọ ọ̀rẹ́”, ṣùgbọ́n ninú itàn yi, iwà Ìjàpá àti Ọ̀bọ kò jọra.  
+Ìjàpá  pẹ̀lú Ọ̀bọ di ọ̀rẹ́ nitori wọn jọ ngbé àdúgbò.  Gbogbo ẹranko yoku mọ̀ wi pé iwà wọn kò jọra nitori eyi, ó jẹ́ ìyàlẹ́nu fún wọn irú ọ̀rẹ́ ti wọn bára ṣe.
 
-Ọgbọ́n burúkú kó wọn Ìjàpá, ni ọjọ́ kan ó bẹ̀rẹ̀ si ṣe àdúrà lojiji pé “Àkóbá , àdábá, Ọlọrun ma jẹ ká ri”, Ọ̀bọ kò ṣe “Àmin àdúrà” nitori ó mọ̀ wi pé kò si ẹni ti ó lè ṣe àkóbá fún Ìjàpá, à fi ti ó bá ṣe àkóbá fún elòmiràn.  
-Inú bi Ìjàpá, ó ka iwà Ọ̀bọ yi si à ri fin, ó pinu lati kọ lọ́gbọ́n pé ọgbọ́n wa ninú ki enia mã ṣe “Àmin” si àdúrà àwọn àgbà.
+Ọgbọ́n burúkú kó wọn Ìjàpá, ni ọjọ́ kan ó bẹ̀rẹ̀ si ṣe àdúrà lojiji pé “Àkóbá , àdábá, Ọlọrun ma jẹ ká ri”, Ọ̀bọ kò ṣe “Àmin àdúrà” nitori ó mọ̀ wi pé kò si ẹni ti ó lè ṣe àkóbá fún Ìjàpá, à fi ti ó bá ṣe àkóbá fún elòmiràn.  
+Inú bi Ìjàpá, ó ka iwà Ọ̀bọ yi si à ri fin, ó pinu lati kọ lọ́gbọ́n pé ọgbọ́n wa ninú ki enia mã ṣe “Àmin” si àdúrà àwọn àgbà.
 
-Ìjàpá ṣe àkàrà ti ó fi oyin din, o di sinú ewé, ó gbe tọ Ẹkùn lọ.  
-Ki Ẹkùn tó bèrè ohun ti Ìjàpá nwa lo ti gbo oorun didun ohun ti Ìjàpá Ijapa gbe wa.  
-Ìjàpá jẹ́ ki Ẹkùn játọ́ titi kó tó fún ni àkàrà olóyin jẹ. 
-Àkàrà olóyin dùn mọ́ Ẹkùn, ó ṣe iwadi bi òhun ti lè tún ri irú rẹ.  
-Ìjàpá ni àṣiri ni pé Ọ̀bọ ma nṣu di dùn, lára igbẹ́ rẹ ni òhun bù wá fún Ẹkùn.  
-Ó ni ki Ẹkùn fi ọgbọ́n tan Ọ̀bọ, ki ó si gba ni ikùn diẹ ki ó lè ṣu igbẹ́ aládùn fun.  
-Ẹkùn kò kọ́kọ́ gbàgbọ́, ó ni ọjọ́ ti òhun ti njẹ ẹran oriṣiriṣi, kò si ẹranko ti inú rẹ dùn bi eyi ti Ìjàpá gbé wá.  
-Ìjàpá ni ọ̀rẹ òhun kò fẹ́ ki ẹni kan mọ àṣiri yi.  
-Ẹkùn gbàgbọ́, nitori ó mọ̀ wi pé ọ̀rẹ́ gidi ni Ìjàpá àti Ọ̀bọ.
-Ẹkùn lúgọ de Ọ̀bọ, ó fi ọgbọ́n tan ki ó lè sún mọ́ òhun.  
-Gẹ́rẹ́ ti Ọ̀bọ sún mọ́ Ẹkùn, o fã lati gba ikùn rẹ gẹ́gẹ́ bi Ìjàpá ti sọ, ki ó lè ṣu di dùn fún òhun.  
-Ó gbá ikun Ọ̀bọ titi ó fi ya igbẹ́ gbi gbóná ki ó tó tu silẹ̀.  
-Gẹ́rẹ́ ti Ẹkùn tu Ọ̀bọ silẹ̀, ó lo agbára diẹ ti ó kù lati sáré gun ori igi lọ lati gba ara lowo iku ojiji.  
-Ẹkùn tọ́ igbẹ́ Ọ̀bọ wò, inú rẹ bàjẹ́, ojú ti i pé òhun gba ọ̀rọ̀ Ìjàpá gbọ.  
-Lai pẹ, Ìjàpá ni Ọ̀bọ kọ́kọ́ ri, ó ṣe àlàyé fún ọ̀rẹ́ rẹ ohun ti ojú rẹ ri lọ́wọ́ Ẹkùn lai funra pé Ìjàpá ló fa àkóbá yi fún òhun.  
-Ìjàpá ṣe ojú àánú, ṣùgbọ́n ó padà ṣe àdúrà ti ó gbà ni ọjọ́ ti Obo kò ṣe “Amin”, pé ọgbọ́n wà ninú ki èniyàn mã ṣe “Àmin” si àdúrà àwọn àgbà.  
-Kia ni Ọ̀bọ bẹ̀rẹ̀ si ṣe “Àmin” lai dúró.  
-Idi ni yi ti Ọ̀bọ fi bẹ̀rẹ̀ si kólòlò ti ó ndún bi “Àmin” titi di ọjọ́ òni.
+Ìjàpá ṣe àkàrà ti ó fi oyin din, o di sinú ewé, ó gbe tọ Ẹkùn lọ.  
+Ki Ẹkùn tó bèrè ohun ti Ìjàpá nwa lo ti gbo oorun didun ohun ti Ìjàpá Ijapa gbe wa.  
+Ìjàpá jẹ́ ki Ẹkùn játọ́ titi kó tó fún ni àkàrà olóyin jẹ. 
+Àkàrà olóyin dùn mọ́ Ẹkùn, ó ṣe iwadi bi òhun ti lè tún ri irú rẹ.  
+Ìjàpá ni àṣiri ni pé Ọ̀bọ ma nṣu di dùn, lára igbẹ́ rẹ ni òhun bù wá fún Ẹkùn.  
+Ó ni ki Ẹkùn fi ọgbọ́n tan Ọ̀bọ, ki ó si gba ni ikùn diẹ ki ó lè ṣu igbẹ́ aládùn fun.  
+Ẹkùn kò kọ́kọ́ gbàgbọ́, ó ni ọjọ́ ti òhun ti njẹ ẹran oriṣiriṣi, kò si ẹranko ti inú rẹ dùn bi eyi ti Ìjàpá gbé wá.  
+Ìjàpá ni ọ̀rẹ òhun kò fẹ́ ki ẹni kan mọ àṣiri yi.  
+Ẹkùn gbàgbọ́, nitori ó mọ̀ wi pé ọ̀rẹ́ gidi ni Ìjàpá àti Ọ̀bọ.
+Ẹkùn lúgọ de Ọ̀bọ, ó fi ọgbọ́n tan ki ó lè sún mọ́ òhun.  
+Gẹ́rẹ́ ti Ọ̀bọ sún mọ́ Ẹkùn, o fã lati gba ikùn rẹ gẹ́gẹ́ bi Ìjàpá ti sọ, ki ó lè ṣu di dùn fún òhun.  
+Ó gbá ikun Ọ̀bọ titi ó fi ya igbẹ́ gbi gbóná ki ó tó tu silẹ̀.  
+Gẹ́rẹ́ ti Ẹkùn tu Ọ̀bọ silẹ̀, ó lo agbára diẹ ti ó kù lati sáré gun ori igi lọ lati gba ara lowo iku ojiji.  
+Ẹkùn tọ́ igbẹ́ Ọ̀bọ wò, inú rẹ bàjẹ́, ojú ti i pé òhun gba ọ̀rọ̀ Ìjàpá gbọ.  
+Lai pẹ, Ìjàpá ni Ọ̀bọ kọ́kọ́ ri, ó ṣe àlàyé fún ọ̀rẹ́ rẹ ohun ti ojú rẹ ri lọ́wọ́ Ẹkùn lai funra pé Ìjàpá ló fa àkóbá yi fún òhun.  
+Ìjàpá ṣe ojú àánú, ṣùgbọ́n ó padà ṣe àdúrà ti ó gbà ni ọjọ́ ti Obo kò ṣe “Amin”, pé ọgbọ́n wà ninú ki èniyàn mã ṣe “Àmin” si àdúrà àwọn àgbà.  
+Kia ni Ọ̀bọ bẹ̀rẹ̀ si ṣe “Àmin” lai dúró.  
+Idi ni yi ti Ọ̀bọ fi bẹ̀rẹ̀ si kólòlò ti ó ndún bi “Àmin” titi di ọjọ́ òni.
 
-Ẹ̀kọ́ itàn yi ni pé, bi èniyàn bá mbá ọ̀rẹ́ ọlọ́gbọ́n burúkú rin, ki ó mã funra tàbi ki ó yẹra, ki o ma ba ri àkóbá.
-Ránti Ọmọ Ẹni ti Iwọ Nṣe: Olè ki ṣe Orúkọ Rere lati fi Jogún
-Oriṣiriṣi òwe ni Yorùbá ni lati fihàn pé iwà rere ló ni ayé.  
-Iwà ni Yorùbá kàsí ni ayé àtijọ́ ju owó ti gbogbo ilú bẹ̀rẹ̀ si bọ ni ayé òde òni.  
-Fún àpẹrẹ, Yorùbá ni “Ẹni bá jalè ló bọmọ jẹ́”, lati gba òṣiṣẹ́ ni ìyànjú pé ki wọn tẹpámọ́ṣẹ́, ki wọn má jalè.
-Ni ayé òde òni, owó ti dipò iwà.  
-Olóri Ijọ, Olóri ilú àti Òṣèlú ti ó ja Ijọ àti ilú ni olè ni ará ilú bẹ̀rẹ̀ si i bọ ju àwọn Olóri ti kò lo ipò lati kó owó ijọ àti ilú fún ara wọn.  
-Owó ti ó yẹ ki Olóri Ijọ fi tọ́jú aláìní, tàbi ki Òṣèlú fi pèsè ohun amáyédẹrùn bi omi mimu, ọ̀nà tó dára, ilé ìwòsàn, ilé-iwé, iná mọ̀nàmọ́ná àti bẹ ẹ bẹ ẹ lọ ni wọn kó si àpò, ti wọn nná èérún rẹ fún ijọ tàbi ará ilú ti ó bá sún mọ́ wọn.  
-Ará ilú ki ronú wi pé “Alaaru tó njẹ́ búrẹ́dì, awọ ori ẹ̀ ló njẹ ti kò mọ̀”.
+Ẹ̀kọ́ itàn yi ni pé, bi èniyàn bá mbá ọ̀rẹ́ ọlọ́gbọ́n burúkú rin, ki ó mã funra tàbi ki ó yẹra, ki o ma ba ri àkóbá.
+Ránti Ọmọ Ẹni ti Iwọ Nṣe: Olè ki ṣe Orúkọ Rere lati fi Jogún
+Oriṣiriṣi òwe ni Yorùbá ni lati fihàn pé iwà rere ló ni ayé.  
+Iwà ni Yorùbá kàsí ni ayé àtijọ́ ju owó ti gbogbo ilú bẹ̀rẹ̀ si bọ ni ayé òde òni.  
+Fún àpẹrẹ, Yorùbá ni “Ẹni bá jalè ló bọmọ jẹ́”, lati gba òṣiṣẹ́ ni ìyànjú pé ki wọn tẹpámọ́ṣẹ́, ki wọn má jalè.
+Ni ayé òde òni, owó ti dipò iwà.  
+Olóri Ijọ, Olóri ilú àti Òṣèlú ti ó ja Ijọ àti ilú ni olè ni ará ilú bẹ̀rẹ̀ si i bọ ju àwọn Olóri ti kò lo ipò lati kó owó ijọ àti ilú fún ara wọn.  
+Owó ti ó yẹ ki Olóri Ijọ fi tọ́jú aláìní, tàbi ki Òṣèlú fi pèsè ohun amáyédẹrùn bi omi mimu, ọ̀nà tó dára, ilé ìwòsàn, ilé-iwé, iná mọ̀nàmọ́ná àti bẹ ẹ bẹ ẹ lọ ni wọn kó si àpò, ti wọn nná èérún rẹ fún ijọ tàbi ará ilú ti ó bá sún mọ́ wọn.  
+Ará ilú ki ronú wi pé “Alaaru tó njẹ́ búrẹ́dì, awọ ori ẹ̀ ló njẹ ti kò mọ̀”.
 
-Owé Yorùbá ti ó sọ wi pé “Ránti ọmọ Ẹni ti iwọ nṣe ” pin si ọ̀nà méji.  
-Ni apá kan, inú ọmọ ẹni ti ó hu iwà rere ni àwùjọ á dùn lati ránti ọmọ ẹni ti ó nṣe, ṣùgbọ́n inú ọmọ “Olè”, apànìyàn, àjẹ́, àti oniwà burúkú yoku, kò lè dùn lati ránti ọmọ ẹni ti wọn nṣe.  
-Nitori eyi, ki èniyàn hu iwà rere.
-Ijẹbu lo ni Ìfọ́kọrẹ́/Ìkọ́kọrẹ́ gbogbo Yorùbá ló ni Ọ̀jọ̀jọ̀ 
-Ẹ ṣe àyẹ̀wò bi a ti ńṣe Ọ̀jọ̀jọ̀ lójú iwé yi.
-Fọ Iṣu Ewùrà kan
-Bẹ ewùrà yi
-Rin iṣu yi (pẹ̀lú pãnu ti a dálu lati fi rin gãri, ilá tàbi ewùrà)
-Po iyọ̀ àti iyọ̀ igbàlódé, ata gigún tàbi rẹ́ atarodo tútù, rin tàbi rẹ àlùbọ́sà si ewùrà rí-rin yi
-Ti ó ba ki, fi omi diẹ si lati po gbogbo ẹ pọ
-Gbe epo tàbi òróró kaná,
-Bi ó bá ti gbóná, a lè fi ṣibi tàbi ọwọ́ da ewùrà ri-rin ti a ti pò pẹ̀lú èlò́ yi si inú epo to gbóná lati din
+Owé Yorùbá ti ó sọ wi pé “Ránti ọmọ Ẹni ti iwọ nṣe ” pin si ọ̀nà méji.  
+Ni apá kan, inú ọmọ ẹni ti ó hu iwà rere ni àwùjọ á dùn lati ránti ọmọ ẹni ti ó nṣe, ṣùgbọ́n inú ọmọ “Olè”, apànìyàn, àjẹ́, àti oniwà burúkú yoku, kò lè dùn lati ránti ọmọ ẹni ti wọn nṣe.  
+Nitori eyi, ki èniyàn hu iwà rere.
+Ijẹbu lo ni Ìfọ́kọrẹ́/Ìkọ́kọrẹ́ gbogbo Yorùbá ló ni Ọ̀jọ̀jọ̀ 
+Ẹ ṣe àyẹ̀wò bi a ti ńṣe Ọ̀jọ̀jọ̀ lójú iwé yi.
+Fọ Iṣu Ewùrà kan
+Bẹ ewùrà yi
+Rin iṣu yi (pẹ̀lú pãnu ti a dálu lati fi rin gãri, ilá tàbi ewùrà)
+Po iyọ̀ àti iyọ̀ igbàlódé, ata gigún tàbi rẹ́ atarodo tútù, rin tàbi rẹ àlùbọ́sà si ewùrà rí-rin yi
+Ti ó ba ki, fi omi diẹ si lati po gbogbo ẹ pọ
+Gbe epo tàbi òróró kaná,
+Bi ó bá ti gbóná, a lè fi ṣibi tàbi ọwọ́ da ewùrà ri-rin ti a ti pò pẹ̀lú èlò́ yi si inú epo to gbóná lati din
 Wa kuro bi o ba ti jina.
 Ìbà Àkọ́dá, ìbà Aṣẹ̀dá
 Ìbà ni n ó f’òní jú, mo r’íbà, k’íbà ṣẹ
 Nínú ríríjẹ, nínú àìríjẹ
-Mo wá gbégbá ọpẹ́, mo r’íbà k’íbà ṣẹ
-Alápáńlá tó so’lé ayé ró
-Ṣe àtúntò ayé mi
+Mo wá gbégbá ọpẹ́, mo r’íbà k’íbà ṣẹ
+Alápáńlá tó so’lé ayé ró
+Ṣe àtúntò ayé mi
 Ní gbogbo ọ̀nà tí mo ti k’etí ikún sí Ọ
 Baba d’áríjì, mo bẹ̀bẹ̀
 Odò Orisun Rẹ ni mí, máṣe jẹ́ n gbẹ
@@ -1322,33 +1322,33 @@ Odò Orisun Rẹ ni mí, máṣe jẹ́ n gbẹ
 Ọmọ ẹni ire a má a tọrọ jẹ
 Ọmọ onínúure a má a pọ́njú
 Bó ti wù Ọ ́lo ń ṣ’ọlá Rẹ
-Ìṣe Rẹ, Ìwọ ló yé o; Ògo Rẹ, é dibàjẹ́
-Àpáta ayérayé, mo sá di Ọ ́o
-Yọ́yọ́ l’ẹnu ayé
-Aráyé ń sọ Ọ ́sí láburú, aráyé ń sọ Ọ ́sí rere
+Ìṣe Rẹ, Ìwọ ló yé o; Ògo Rẹ, é dibàjẹ́
+Àpáta ayérayé, mo sá di Ọ ́o
+Yọ́yọ́ l’ẹnu ayé
+Aráyé ń sọ Ọ ́sí láburú, aráyé ń sọ Ọ ́sí rere
 Ọlọ́jọ́ ń ka’jọ́
-Bó pẹ́, bó yá, ohun ayé á b’áyé lọ
+Bó pẹ́, bó yá, ohun ayé á b’áyé lọ
 Ìbà! ìbà!!
 Ẹni iná ọ̀rẹ́ bá jó rí, bó bá ní’hun nínú kò ní lè rò
-ọ̀rẹ́ gidi ń bẹ bíi ká f’ẹ́ni dé’nú
+ọ̀rẹ́ gidi ń bẹ bíi ká f’ẹ́ni dé’nú
 ọ̀rẹ́ ló ṣe’ni l’ọ́ṣẹ́ tó ku s’ára bí iṣu
 Ìrètí nínú ènìyàn, irọ́ funfun gbáláhú!
 ọ̀rẹ́ kan tí mo ní
-Elédùmarè, Alágbára, ìbà Rẹ o Baba, Atóbijù!
+Elédùmarè, Alágbára, ìbà Rẹ o Baba, Atóbijù!
 Ìbà! ìbà!!
-“Obinrin ki ṣe Ẹrú tabi Ẹrù ti wọn njẹ mọ́ Ogún – Àsikò tó lati Dáwọ́ Àṣà ṣì Ṣúpó Dúró” 
-Ni ayé àtijọ́, àṣà ṣì ṣúpó wọ́pọ̀ ni Ilẹ̀ Yorùbá. 
-Obinrin ti ọkọ rẹ̀ bá kú wọn yio fi jogún gẹ́gẹ́ bi iyàwó fún ọmọ ọkọ ọkùnrin tàbi ẹbi ọkọ ọkùnrin. 
-Eleyi wọ́pọ̀, pàtàki ni idilé Ọba, Ìjòyè nla, Ọlọ́rọ̀ ni àwùjọ àti àgbàlagbà ti ó fẹ́ iyàwó púpọ̀.  
-Bi Ọba bá wàjà, Ọba titun yio ṣu gbogbo iyàwó ti ó bá láàfin lópó.
-Ni ayé ọ̀làjú ti òde òni, àṣà ṣì ṣúpó ti din kù púpọ̀, nitori ẹ̀sìn àti àwọn obinrin ti ó kàwé ti ó si ni iṣẹ́ lọ́wọ́ kò ni gbà ki wọn ṣú ohun lópó fún ẹbi ọkọ ti kò ni ìfẹ́ si.  
-Ọkùnrin ni ẹbi ọkọ na a ti bẹ̀rẹ̀ si kọ àṣà ṣì ṣúpó silẹ̀ pàtàki àwọn ti ó bá kàwé, nitori ó ti lè ni iyàwó tàbi ki ó ni àfẹ́sọ́nà.  
-Lai ti ẹ ni iyàwó, ọkùnrin ẹbi ọkọ lè ma ni ìfẹ́ si iyàwó ti ọkọ rẹ̀ kú.  
-Àṣa ṣì ṣúpó kò wọ́pọ̀ mọ laarin àwọn ti ó jade, àwọn ti ó ngbé ilú nla àti Òkè-òkun tàbi àwọn ti ó kàwé, ṣùgbọ́n ó wọ́pọ̀ laarin àwọn ti kò jade kúrò ni Abúlé àti àwọn ti kò kàwé.
-Idilé ti ifẹ bá wà laarin ẹbi, iyàwó pàápàá kò ni fẹ́ kúrò ni irú ẹbi bẹ́ ẹ̀ lati lọ fẹ́ ọkọ si idilé miran pàtàki nitori àwọn ọmọ tàbi ó dàgbà jù lati tun lọ fẹ ọkọ miran.  
-Ọmọ ọkọ tàbi ẹbi ọkọ ọkùnrin lè fi àṣà yi kẹ́wọ́ lati fẹ opó ni tipátipá, omiran lè pa ọkọ lati lè jogún iyàwó. 
-Bi iyàwó bá kú, wọn kò jẹ́ fi ọkọ rẹ jogún fún ẹbi iyàwó.
-Àsikò tó lati dáwọ́ àṣà ṣì ṣúpó dúró nitori obinrin ki ṣe ẹrú tàbi ẹrù ti wọn njẹ mọ́ ogún.
+“Obinrin ki ṣe Ẹrú tabi Ẹrù ti wọn njẹ mọ́ Ogún – Àsikò tó lati Dáwọ́ Àṣà ṣì Ṣúpó Dúró” 
+Ni ayé àtijọ́, àṣà ṣì ṣúpó wọ́pọ̀ ni Ilẹ̀ Yorùbá. 
+Obinrin ti ọkọ rẹ̀ bá kú wọn yio fi jogún gẹ́gẹ́ bi iyàwó fún ọmọ ọkọ ọkùnrin tàbi ẹbi ọkọ ọkùnrin. 
+Eleyi wọ́pọ̀, pàtàki ni idilé Ọba, Ìjòyè nla, Ọlọ́rọ̀ ni àwùjọ àti àgbàlagbà ti ó fẹ́ iyàwó púpọ̀.  
+Bi Ọba bá wàjà, Ọba titun yio ṣu gbogbo iyàwó ti ó bá láàfin lópó.
+Ni ayé ọ̀làjú ti òde òni, àṣà ṣì ṣúpó ti din kù púpọ̀, nitori ẹ̀sìn àti àwọn obinrin ti ó kàwé ti ó si ni iṣẹ́ lọ́wọ́ kò ni gbà ki wọn ṣú ohun lópó fún ẹbi ọkọ ti kò ni ìfẹ́ si.  
+Ọkùnrin ni ẹbi ọkọ na a ti bẹ̀rẹ̀ si kọ àṣà ṣì ṣúpó silẹ̀ pàtàki àwọn ti ó bá kàwé, nitori ó ti lè ni iyàwó tàbi ki ó ni àfẹ́sọ́nà.  
+Lai ti ẹ ni iyàwó, ọkùnrin ẹbi ọkọ lè ma ni ìfẹ́ si iyàwó ti ọkọ rẹ̀ kú.  
+Àṣa ṣì ṣúpó kò wọ́pọ̀ mọ laarin àwọn ti ó jade, àwọn ti ó ngbé ilú nla àti Òkè-òkun tàbi àwọn ti ó kàwé, ṣùgbọ́n ó wọ́pọ̀ laarin àwọn ti kò jade kúrò ni Abúlé àti àwọn ti kò kàwé.
+Idilé ti ifẹ bá wà laarin ẹbi, iyàwó pàápàá kò ni fẹ́ kúrò ni irú ẹbi bẹ́ ẹ̀ lati lọ fẹ́ ọkọ si idilé miran pàtàki nitori àwọn ọmọ tàbi ó dàgbà jù lati tun lọ fẹ ọkọ miran.  
+Ọmọ ọkọ tàbi ẹbi ọkọ ọkùnrin lè fi àṣà yi kẹ́wọ́ lati fẹ opó ni tipátipá, omiran lè pa ọkọ lati lè jogún iyàwó. 
+Bi iyàwó bá kú, wọn kò jẹ́ fi ọkọ rẹ jogún fún ẹbi iyàwó.
+Àsikò tó lati dáwọ́ àṣà ṣì ṣúpó dúró nitori obinrin ki ṣe ẹrú tàbi ẹrù ti wọn njẹ mọ́ ogún.
 Ìtàn Yorùbá bi Àdán ti di “Ko ṣeku, kò ṣẹyẹ”
 Ìtàn sọ wí pé eku ni àdán tẹ́lẹ̀ ki ìjà nla tó bẹ́ sílẹ̀ laarin eku àti ẹyẹ.  Àdán rò wípé àwọn ẹyẹ fẹ́ bori, nitorina o fo lati lọ darapọ̀ mọ́ ẹyẹ lati dojú ìjà kọ àwọn ẹbi rẹ eku.
 
@@ -1361,194 +1361,194 @@ A lè fi ìtàn yi wé àwọn Òṣèlú tó nsa lati ẹgbẹ́ kan si ekeji n
 Nígbàtí ìyàwó ilé bá gbọ́, wọn a pa òfo lọdọ ìyàwó ilé, wọn a tún tẹ́ lọ́dọ̀ àlè.
 
 Ẹ̀kọ́ ìtàn yí ni wípé iyè meji kò dara, ọ̀dalẹ̀ ma mba ilẹ̀ lọ ni, nitorina, ojúkòkòrò kò lérè.
-Olóri Òṣèlú Nigeria Muhammadu Buhari àti Àtẹ̀lé rẹ Ọ̀jọ̀gbọ́n Yẹmi Oṣinbajo pé Ọgọrun Ọj̀ọ́ lori oye
-“Ìṣòro ti Agbalésanwó n ri ni Ilú Nlá lati ri Ibùgbé”
-Ni ayé àtijọ́, kò si ohun ti ó njẹ́ Agbalésanwó nitori kò si ẹni ti kò ni ẹbi ti wọn lè bá gbé ni ọ̀fẹ́.  
-Kò wọ́pọ̀ ki èniyàn kúrò ni ilé lati lọ gbé ilú miran.  
-Iṣẹ́ meji ti ó wọ́pò ni ayé àtijọ́ ni iṣẹ́ àgbẹ̀ àti òwò nipa ti ta irè oko ni ọjọ́ Ọjà Oko lati Abúlé kan si ekeji.  
-Kò si ohun irinna bi ayé òde òni, nitorina ẹsẹ̀ ni wọn fi nlọ lati ilú kan si ekeji.  
-Yorùbá fẹ́ràn àlejò, nitori eyi, bi Oniṣòwò bá lọ si Ọjà Oko ni ilú miran, ti kò lè délé ni ọjọ́ ti ó gbéra, yio ri ilé sùn ni abúlé ti ó bá dé ti ilẹ̀ fi ṣú lai sanwó.  
-Olóko ni o ma npèsè ibùgbé fún Alágbàṣe ti wọn bá gbà fún iṣẹ́ oko, nitori eyi, kò si pé àlejò gba ilé lati sanwó.
-Ni igbà ti ó yá, èrò bẹ̀rẹ̀ si kúrò lati ilú kan si ekeji, pàtàki nitori ọ̀gbẹlẹ̀, iyàn, ogun tàbi ẹni ti wọn lé kúrò ni ilú nitori iwà burúkú.  
-Eleyi fã ki ilú kan fẹ̀ ju òmíràn lọ, pàtàki ni ilú ti ó bá sún mọ́ odò nla bi ti ilù Èkó nitori iṣẹ́ ma npọ̀.
+Olóri Òṣèlú Nigeria Muhammadu Buhari àti Àtẹ̀lé rẹ Ọ̀jọ̀gbọ́n Yẹmi Oṣinbajo pé Ọgọrun Ọj̀ọ́ lori oye
+“Ìṣòro ti Agbalésanwó n ri ni Ilú Nlá lati ri Ibùgbé”
+Ni ayé àtijọ́, kò si ohun ti ó njẹ́ Agbalésanwó nitori kò si ẹni ti kò ni ẹbi ti wọn lè bá gbé ni ọ̀fẹ́.  
+Kò wọ́pọ̀ ki èniyàn kúrò ni ilé lati lọ gbé ilú miran.  
+Iṣẹ́ meji ti ó wọ́pò ni ayé àtijọ́ ni iṣẹ́ àgbẹ̀ àti òwò nipa ti ta irè oko ni ọjọ́ Ọjà Oko lati Abúlé kan si ekeji.  
+Kò si ohun irinna bi ayé òde òni, nitorina ẹsẹ̀ ni wọn fi nlọ lati ilú kan si ekeji.  
+Yorùbá fẹ́ràn àlejò, nitori eyi, bi Oniṣòwò bá lọ si Ọjà Oko ni ilú miran, ti kò lè délé ni ọjọ́ ti ó gbéra, yio ri ilé sùn ni abúlé ti ó bá dé ti ilẹ̀ fi ṣú lai sanwó.  
+Olóko ni o ma npèsè ibùgbé fún Alágbàṣe ti wọn bá gbà fún iṣẹ́ oko, nitori eyi, kò si pé àlejò gba ilé lati sanwó.
+Ni igbà ti ó yá, èrò bẹ̀rẹ̀ si kúrò lati ilú kan si ekeji, pàtàki nitori ọ̀gbẹlẹ̀, iyàn, ogun tàbi ẹni ti wọn lé kúrò ni ilú nitori iwà burúkú.  
+Eleyi fã ki ilú kan fẹ̀ ju òmíràn lọ, pàtàki ni ilú ti ó bá sún mọ́ odò nla bi ti ilù Èkó nitori iṣẹ́ ma npọ̀.
 
-Ni ayé òde òni, ọ̀pọ̀lọpọ̀ ọ̀dọ́ má a nkúrò ni ilé lati wá iṣẹ́ lọ si ilú miran.  Ó rọrùn fún ẹni ti ó kàwé àti oníṣẹ́ ọwọ́ lati ri iṣẹ́ nitori oriṣiriṣi iṣẹ́ pọ ni ilú nlá, ju ilú kékeré lọ.  
-Eleyi jẹ́ ki ilú nlá bẹ̀rẹ̀ si fẹ si. 
-Gẹ́gẹ́ bi òwe Yorùbá “Ọ̀kọ́lé kò lè mu ràjò”, bẹni kò si bi ẹni ti ó kúrò ni ilé ti lè gbé ilé dáni lọ si ilú nlá. 
-Àlejò bẹ̀rẹ̀ si pọ̀ si ni ilú nlá ṣùgbọ́n ilé gbigbé kò kári.
+Ni ayé òde òni, ọ̀pọ̀lọpọ̀ ọ̀dọ́ má a nkúrò ni ilé lati wá iṣẹ́ lọ si ilú miran.  Ó rọrùn fún ẹni ti ó kàwé àti oníṣẹ́ ọwọ́ lati ri iṣẹ́ nitori oriṣiriṣi iṣẹ́ pọ ni ilú nlá, ju ilú kékeré lọ.  
+Eleyi jẹ́ ki ilú nlá bẹ̀rẹ̀ si fẹ si. 
+Gẹ́gẹ́ bi òwe Yorùbá “Ọ̀kọ́lé kò lè mu ràjò”, bẹni kò si bi ẹni ti ó kúrò ni ilé ti lè gbé ilé dáni lọ si ilú nlá. 
+Àlejò bẹ̀rẹ̀ si pọ̀ si ni ilú nlá ṣùgbọ́n ilé gbigbé kò kári.
 
-Àṣà ti ó wọ́pọ̀ ni ki Onilé gba owó ọdún kan tàbi meji.  
-Elòmìràn ngba ọdún mẹta fún owó à san silẹ̀.  
-Ilé wá di ohun à mu ṣowó.  
-Oriṣiriṣi àwọn oniṣẹ́ “Abániwálé” wá pọ̀ si.  
-ọ̀pọ̀ Onilé àti Abániwále bẹ̀rẹ̀ si lu jìbìtì nipa gbi gba owó lọ́wọ́ ọ̀pọ̀lọpọ̀ Agbalésanwó lóri ilé kan ṣoṣo, òmíràn ngba owó lóri ilé ti ki ṣe ti wọn. 
-Yorùbá ni “Alágbàtà tó nsọ ọjà di ọ̀wọn”, bi ilé bá ti wọn tó ni owó ti Abániwále má a ri gbà ti pọ̀ tó.  
-Eyi jẹ́ ki wọn sọ ilé di ọ̀wọ́n, nitori owó ti wọn má a ri gbà lọ́wọ́ Onilé àti Agbalésanwó lai ro inira Agbalésanwó.
-Oriṣi mẹta ni Yorùbá ka igbà ẹ̀dá si.  
-Gẹ́gẹ́ bi àgbà ninú Olórin ilẹ̀ Aláwọ̀dúdú Olóyè Ebenezer Obey (Fabiyi) ti kọ́ pé “Igbà mẹta ni igbà ẹ̀dá láyé, igbà òwúrọ̀, igbà ọ̀sán, igbà alẹ́, ki alẹ́ san wá ju òwúrọ̀ lọ”.  
-Igbà meji ló wà fún ojú ọjọ́ – igbà òjò àti ẹ̀rùn.
-Òjò ti fẹ́rẹ̀ kásẹ̀ kúrò ni ilẹ̀ ni oṣù kẹsan ọdún nitori àsikò ìkórè sún mọ́lé lẹhin òjò.  
-Gẹgẹ bi ọ̀rọ̀ Yorùbá ti ó sọ pé “Igba” ó yẹ ki enia kọ lati lo àsikò dáradára, nitori igbà kò dúró de ẹni kan.  
-Kò yẹ ki enia fi àkókò ṣòfò, nitori ẹni kò gbin nkan, kò ni ẹ̀tọ́ àti kórè ni igbà ikórè.  
-Ọ̀rọ̀ yi ṣe rán ẹni ti ó bá nfi àárọ̀ ṣeré leti pé bi igbà bá ti lọ, kò ṣe rà padà.
-“Àpẹrẹ Ẹrú ati Owó Àna fún Ìtọrọ Iyàwó ni Idilé Arinmájàgbẹ̀” 
-Gẹ́gẹ́ bi a ti kọ tẹ́lẹ̀, ẹrù àti owó àna yàtọ̀ lati idilé kan si ekeji, ṣùgbọ́n àwọn ohun àdúrà bára mu ni ilẹ̀ Yorùbá pàtàki Oyin, Obi, Ataare, Orógbó.  
-Fún ọ̀pọ̀lọpọ̀ ẹbi Yorùbá, ogoji ni oye àwọn ẹrù bi Obi, Orógbó, Ataare, Ẹja-gbígbẹ àti Iṣu ti idile ma ngba.  
-Olóri ẹbi lè din oye ẹrù ku lati din ìnáwó ọkọ iyàwó kù. 
-Lẹhin igbéyàwó ibilẹ̀, wọn yio pin ẹrù yi (yàtọ̀ si ẹrù fún Iyàwó), si ọ̀nà meji lati kó apá kan àti apá keji fún Idilé Bàbá àti Ìyá Iyàwó.   
-Ẹ ṣe àyẹ̀wò àpẹrẹ ẹrú ati owó àna fún Idilé Arinmájàgbẹ̀ ni Ìbòròpa-Àkókó, Ipinlẹ̀ Ondó ni ojú iwé yi.
+Àṣà ti ó wọ́pọ̀ ni ki Onilé gba owó ọdún kan tàbi meji.  
+Elòmìràn ngba ọdún mẹta fún owó à san silẹ̀.  
+Ilé wá di ohun à mu ṣowó.  
+Oriṣiriṣi àwọn oniṣẹ́ “Abániwálé” wá pọ̀ si.  
+ọ̀pọ̀ Onilé àti Abániwále bẹ̀rẹ̀ si lu jìbìtì nipa gbi gba owó lọ́wọ́ ọ̀pọ̀lọpọ̀ Agbalésanwó lóri ilé kan ṣoṣo, òmíràn ngba owó lóri ilé ti ki ṣe ti wọn. 
+Yorùbá ni “Alágbàtà tó nsọ ọjà di ọ̀wọn”, bi ilé bá ti wọn tó ni owó ti Abániwále má a ri gbà ti pọ̀ tó.  
+Eyi jẹ́ ki wọn sọ ilé di ọ̀wọ́n, nitori owó ti wọn má a ri gbà lọ́wọ́ Onilé àti Agbalésanwó lai ro inira Agbalésanwó.
+Oriṣi mẹta ni Yorùbá ka igbà ẹ̀dá si.  
+Gẹ́gẹ́ bi àgbà ninú Olórin ilẹ̀ Aláwọ̀dúdú Olóyè Ebenezer Obey (Fabiyi) ti kọ́ pé “Igbà mẹta ni igbà ẹ̀dá láyé, igbà òwúrọ̀, igbà ọ̀sán, igbà alẹ́, ki alẹ́ san wá ju òwúrọ̀ lọ”.  
+Igbà meji ló wà fún ojú ọjọ́ – igbà òjò àti ẹ̀rùn.
+Òjò ti fẹ́rẹ̀ kásẹ̀ kúrò ni ilẹ̀ ni oṣù kẹsan ọdún nitori àsikò ìkórè sún mọ́lé lẹhin òjò.  
+Gẹgẹ bi ọ̀rọ̀ Yorùbá ti ó sọ pé “Igba” ó yẹ ki enia kọ lati lo àsikò dáradára, nitori igbà kò dúró de ẹni kan.  
+Kò yẹ ki enia fi àkókò ṣòfò, nitori ẹni kò gbin nkan, kò ni ẹ̀tọ́ àti kórè ni igbà ikórè.  
+Ọ̀rọ̀ yi ṣe rán ẹni ti ó bá nfi àárọ̀ ṣeré leti pé bi igbà bá ti lọ, kò ṣe rà padà.
+“Àpẹrẹ Ẹrú ati Owó Àna fún Ìtọrọ Iyàwó ni Idilé Arinmájàgbẹ̀” 
+Gẹ́gẹ́ bi a ti kọ tẹ́lẹ̀, ẹrù àti owó àna yàtọ̀ lati idilé kan si ekeji, ṣùgbọ́n àwọn ohun àdúrà bára mu ni ilẹ̀ Yorùbá pàtàki Oyin, Obi, Ataare, Orógbó.  
+Fún ọ̀pọ̀lọpọ̀ ẹbi Yorùbá, ogoji ni oye àwọn ẹrù bi Obi, Orógbó, Ataare, Ẹja-gbígbẹ àti Iṣu ti idile ma ngba.  
+Olóri ẹbi lè din oye ẹrù ku lati din ìnáwó ọkọ iyàwó kù. 
+Lẹhin igbéyàwó ibilẹ̀, wọn yio pin ẹrù yi (yàtọ̀ si ẹrù fún Iyàwó), si ọ̀nà meji lati kó apá kan àti apá keji fún Idilé Bàbá àti Ìyá Iyàwó.   
+Ẹ ṣe àyẹ̀wò àpẹrẹ ẹrú ati owó àna fún Idilé Arinmájàgbẹ̀ ni Ìbòròpa-Àkókó, Ipinlẹ̀ Ondó ni ojú iwé yi.
 Ẹja gbigbẹ Abori
-Àwọn Oún ji jẹ
-Apẹ̀rẹ̀ ti a pin àwọn èso oriṣiriṣi wọnyi si
-Ohun Mimu Ọti Òyinbó
-Ẹrù Iyàwó
-Àpò Owó
-Ọti Òyinbó 
-Àkàrà òyinbó 
-Ọ̀pẹ̀ òyinbó
-Iwájú lèrò mbá èrò Kò si ohun téni kan ṣe, téni kò ṣe ri
-Ọ̀rọ̀ ijinlẹ àti Òwe Yorùbá wà lati fi kọ́ ọgbọ́n àti imò bi èniyàn ti lè gbé igbésí ayé rere.  
-Ọ̀gá àgbà ninú Olórin ilẹ̀ aláwọ̀-dúdú (Olóyè, Olùdarí Ebenezer Obey) kọ ninú orin ni èdè Yorùbá pé “ki lẹni kan ṣe, tẹni kan ò ṣe ri?”  Kò si owó, ọlá, ipò, agbára ti èniyàn ni, ti kò si ẹni tó ni ri tàbi ti ẹni ti ó mbọ̀ lẹhin kò lè ni.
-Ọ̀rọ̀ Yorùbá ti ó sọ pé “Iwájú lèrò mbá èrò” ṣe gba ẹni ti kò bá ni ìtẹ́lọ́rùn ni ìmọ̀ràn.  
-Ọjọ́ ori nlọ sókè ṣùgbọ́n ki wá lẹ̀.  
-Ai ni ìtẹ́lọ́rùn ló fa ki àgbàlagbà jowú ọmọdé nitori ọmọ àná ti ó rò pé kò lè da nkankan ti da nkan, tàbi ki ọ̀gá ilé-iṣẹ́ ma jowú ọmọ iṣẹ́.  
-Bi a bá ṣe akiyesi eré ije “Fi fa Okun” a o ri pé àwọn kan wà ni iwájú, bẹni àwọn kan wà lẹhin.  
-Èyi fihàn pé, “Ibi ti àgbà bá wà lọmọdé mba”, ṣùgbọ́n àgbà ti ṣe ọmọdé ri.
-Ai ni ìtẹ́lọ́rùn lè fà ikú ójiji nitori àìsàn ẹ̀jẹ̀-riru, irònú, ijiyà iṣẹ́ ibi, olè jijà, ija, gbigbé oògùn olóró, èrú ṣi ṣe,  àti bẹ́ẹ̀-bẹ́ẹ̀ lọ.  
-Bi èniyàn bá kọ́ ọgbọ́n ninú ọ̀rọ̀ Yorùbá ti ó sọ pé “Iwájú lèrò mbá èro” yi, à ri pé, kò si ipò ti òhún wà ti kò si ẹni ti ó wà nibẹ̀ ṣáájú tàbi lẹhin òhun.  
-Ìmọ̀ yi kò ni jẹ́ ki èniyàn ṣi iwà hù, tàbi binú ẹni keji.  
-Ó ṣe pàtàki gẹ́gẹ́ bi ikan ninú orin (Olóyè Olùdari Ebenezer Obey), pe “Ipò ki pò, ti a lè wà, ká má a dúpẹ́ ló tọ́”.
-“Bi ojú bá mọ́, Agbe á yalé Aláró, Àlùkò á yalé Olósùn, Lékeléke á yalé Ẹlẹ́fun”
-Bi a bá wo òwe yi, a o ri pe Agbe pọn bi aró, Àlùkò pupa bi osùn nigbati Lékeléke funfun bi ẹfun. 
-Nitori eyi, bi wọn kò ti ẹ̀ lọ si ilé Aláró, Olósùn àti Ẹlẹ́fun, àwọ̀ wọn á si wa bẹ̃, síbẹ-síbẹ, àwọn ẹiyẹ wọnyi gbiyànjú lati lọ si ibi ti wọn ti lè ri ohun ti yio tú ara wọn ṣe ki ó ma ba ṣa.
-A lè fi òwe Yoruba ti o ni “Bi ojú bá mọ́, Agbe á yalé Aláró, Àlùkò á yalé Olósùn, Lékeléke á yalé Ẹlẹ́fun” bá ilú, agbójúlógún àti ọ̀lẹ enia wi. 
-Kò si bi owo ilú, òbi, tàbi ẹbí ti lè pọ̀ tó, bi enia kò bá ṣiṣẹ́ kun á parun. 
-Irú ilú ti ó bá ńná iná-kuna, agbójúlógún àti ọ̀le wọnyi yio ráhùn ni ikẹhin. 
-Ẹ gbọ́ orin ti àwọn ọmọ ilé iwé ńkọ ni àsikò eré-ìbílẹ̀ ni ojú iwé yi.
-Agbe ló laró, ki ráhùn aró,
-Àlùkò ló losùn, ki ráhùn osùn
-Lékeléke ló lẹfun, ki ráhùn ẹfun,
-Ka má rahùn owó,
-Ka má rahùn ọmọ
-Ohun táó jẹ, táó mu kò mà ni wọn wa o) (lẹmeji)
-Ọọ̀ni Ilé Ifẹ̀, Ọba Okùnadé Alade Sijúwadé, Olúbùṣe Keji Wàjà 
-Ni ọjọ Kejidinlọ́gbọ̀n, oṣù Keje, ọdún Ẹgbãlemẹ͂dógún, iroyin jade ninú àwọn iwé-iroyin àti ori ayélujára pé Ọba Okunade Sijuwade, Olúbùṣe Keji, pa ipò da ni Ilú Ọba.  
-Àwọn Olóyè Ilé-Ifẹ̀ sẹ́ ọ̀rọ̀ ikú Ọba yi, nitori ni ayé àtijọ́, àwọn àgbà Oyè ló ni àṣẹ lati tú ọ̀fọ̀ pé Ọba wàjà fún ará ilú, nitori gẹ́gẹ́ bi àṣà Yorùbá Ọba ki kú.  
-Àwọn àgbà Oyè tú ọ̀fọ̀ ni iwá́jú Gómìnà Rauf Arégbẹ́ṣọlá ti ipinlẹ̀ Ọ̀ṣun, ni Ọjọ́rú, ọjọ́ kejila oṣù kẹjọ ọdún Ẹgbãlemẹ͂dógún. 
-Ni ayé òde òni kò si àṣiri mọ, àṣà yi ti yi padà nitori, ni àtijọ́, Ọba ki kú si àjò, bẹni kò si iwé-iroyin àti ẹ̀rọ ayélujára.
-Ilé Ifẹ̀ jẹ́ ilú pàtàki ni ilẹ̀ Yorùbá nitori itàn sọ wi pé ibẹ̀ ni orisun Yorùbá pẹ̀lú Bàbá nla Yorùbá “Oduduwa” ti ó tẹ ibẹ̀ dó.   
-Okùnadé Alade Sijúwadé, Olúbùṣe Keji, gun ori oyè Ọọni Ifẹ̀ nigbati ó pé aadọta ọdún, ó lo ọdún mẹ͂dógóji ni ipò Ọọni Ifẹ̀.  
-Ohun ni aadọta Ọba Ilé Ifẹ̀.
-Ìsìnkú Ọba Sijúwadé bẹ̀rẹ̀ ni ọjọ́ Ẹti, ọjọ́ kẹrinla, oṣù Kẹjọ, ọdún Ẹgbãlemẹ̃dógún.  Lẹhin ìsìnkú, ìséde ọlọ́jọ́ meje yio bẹ̀rẹ̀ ni Ilé-Ifẹ̀ àti agbègbè rẹ lati agogo mẹrin ìrọ̀lẹ́. 
-Ki Èdùmàrè gba olóògbé Ọba Sijúwadé si afẹ́fẹ́ rere.
-Wọn mbẹ Oníṣègùn, wọn ò bẹ Aláìsàn
-Yorùbá ma nlo òwe yi nigbati èniyàn bá ṣẹ̀ tàbi ṣe nkan burúkú si ẹni keji, ti wọn bẹ̀rẹ̀ si bẹ ẹni ti wọn ṣẹ̀ lai mọ bóyá ẹni ti ó ṣẹ̀ ni àyipadà ọkàn kúrò ni iwà ìbàjẹ́ tàbi iṣẹ́ ibi.  
-A tún lè ṣe àpẹrẹ pé wọn mbẹ Adájọ́ ki ó ṣe àánú fún ọ̀daràn lai jẹ ki ó ronú ohun burúkú ti ó ṣe, ki ó lé yi padà.
-Oníṣègùn ninú òwe yi lè jẹ́, Òbi, Ọ̀gá ilé-iṣẹ́, Adájọ́, Ọlọpa, Ọ̀rẹ́, Ẹ̀gbọ́n, Àbúrò àti bẹ́ ẹ̀ bẹ́ ẹ̀ lọ, nigbati Aláìsàn jẹ ẹni ti ó ṣẹ̀.  
-Lai si ìbáwí tàbi ijiyà fún ẹ̀ṣẹ̀, ẹlẹ́sẹ̀ tàbi ọ̀daràn kò ni yi padà.  
-Nitori eyi, ó yẹ ki á bẹ alaisan, ki ó lè lo oògùn ti Oníṣègùn ṣe, ki ó bà lè ri ìwòsàn, ki wọn tó bẹ Oníṣègùn.
-Bi Egúngún/Eégún bá ńlé ni ki a má rọ́jú, bi ó ṣe ńrẹ ará ayé, ló ńrẹ ará Ọrun
-Yorùbá ma ńṣe ọdún Egúngún/Eégún ni ọdọ-dún lati ṣe iranti Bàbánlá/Ìyánlá wọn ti ó ti di olóògbé nitori wọn ni iṣẹ́ lati ṣe laarin alàyè lati rán ará ilú leti pé ki wọn di àjogúnbá ẹ̀kọ́ iwà rere mú.  
-Yorùbá má ńpe Egúngún/Eégún ni “Ará Ọ̀run”.
-Egúngún/Eégún ma ńgbé ọ̀pá tàbi ẹgba lati na ẹni ti ó bá hu iwà burúkú ni àwùjọ. 
-Fún àpẹrẹ, obinrin ti kò múra dáradára tàbi ẹni ti ó bá wọ bàtà, Eégún á le lati naa.
-Òwe Yorùbá ti ó ni “Bi Egúngún/Eégún bá ńlé ni ki a má rọ́jú, bi ó ṣe ńrẹ ará ayé, ló ńrẹ ará Ọrun”, ṣe gba ẹni ti ó bá wà ninú ìṣòro ni ìyànjú pé, ìṣòro yi ki ṣe ohun ti kò ni tán tàbi ni òpin.  
-Èyi tùmọ́ si pé, ìṣòro yi á ré kọjá bi enia bá lè rọ́jú.
-Ni Ayé òde òni, njẹ́ ó yẹ ki a pọ́n Àṣà fi fẹ́ Iyàwó púpọ̀ lé ni Igbéyàwó Ìbílẹ̀ Yorùbá
-Ni igbà àtijọ́, oníyàwó kan kò wọ́pọ̀ nitori iṣẹ́ Àgbẹ̀.  
-Àṣà fi fẹ́ iyàwó púpọ̀ ṣe kókó nitori bibi ọmọ púpọ̀ pàtàki ọmọ ọkùnrin fún irànlọ́wọ́ iṣẹ́-oko.  
-Fi fẹ̀ iyàwó púpọ̀ kò pin si ilẹ̀ Yorùbá tàbi ilẹ̀ Aláwọ̀dúdú nikan, ó wọ́pọ̀ ni ilẹ̀ Aláwọ̀funfun ni ọ̀pọ̀lọpọ̀ ọdún sẹhin ṣùgbọ́n nitori òwò ẹrú àti ẹ̀sin igbàgbọ́ wọn bẹ̀rẹ̀ àṣà fi fẹ iyàwó kan.  
-Lẹhin òwò ẹrú, li lo ẹ̀rọ igbàlódé fún iṣẹ́ oko jẹ ki Aláwọ̀funfun lè dúró pẹ̀lú àṣà fi fẹ́ iyàwó kan.
-Ọ̀pọ̀lọpọ̀ ọ̀dọ́ ayé òde òni ti kọ àṣà fi fẹ́ iyàwó púpọ̀ silẹ̀ nitori ẹ̀sìn, ìmọ̀ àti si sá fún rògbòdiyàn ti ó lọ pẹ̀lú iyàwó púpọ̀.  
-Iṣẹ́ Alákọ̀wé kò ṣe fi jogún fún ọmọ nitori iwé-ẹ̀ri àti ipò ti èniyàn dé ni iṣẹ́ Akọ̀wé tàbi iṣẹ́ Ìjọba kò ṣe fi jogún fún ọmọ bi oko.  
-Owó ti ọ̀pọ̀lọpọ̀ Oniṣẹ́-oṣ̀u ngba kò tó lati bọ́ iyàwó kan ki owó oṣù míràn tó wọlé, bẹni kò tó gba ilé nla ti ó lè gba iyàwó púpọ̀ pàtàki ni ilú nla bi Èkó.  
-Àṣà iyàwó púpọ̀ ṣi pọ̀, ni àwọn ilú kékeré tàbi Abúlé laarin àwọn àgbẹ̀ àti àwọn ti kò kàwé.
-Yorùbá ni “Bàbá, bàbá gbogbo ayé”, bi iyàwó kò bá ni iṣẹ́ lati tọ́jú ọmọ wọn, ìṣẹ́ dé, nitori eyi, ọ̀pọ̀lọpọ̀ obinrin Yorùbá ma ntẹpá mọ́ṣẹ́ lati lè tọ́jú ọmọ wọn lai dúró de ọkọ.  
-Ìyà àti ìṣẹ́ ni fún ọmọ púpọ̀ àti àwon iyàwó ọkùnrin ti kò ni iṣẹ́ tàbi eyi ti ó ni iṣẹ́ ti kò wúlò.
-Ewu ti ó wà ni ilé oníyàwó  púpọ̀ ju ire ibẹ̀ lọ.  
-Yorùbá ni “Oníyàwó kan kò mọ ẹjọ́ oníyàwó  púpọ̀ da a”.  
-Lára ewu wọnyi ni, ki i si ifọ̀kànbalẹ̀ nitori ijà àti ariwo ti owú ji jẹ laarin àwọn iyàwó ma nfà pàtàki ni agbo ilé nlá tàbi ilé Ọlọ́rọ̀ àti Olóyè.  
-Ọ̀pọ̀lọpọ̀ ilé oníyàwó  púpọ̀ ma nda ahoro lẹhin ikú Olóri ilé nitori kò si ẹni ti ó ni ìfẹ́ tọ si Bàbá oníyàwó  púpọ̀.
-“Èèmọ̀ ni ki ọkùnrin fẹ́ ọkùnrin tàbi ki obinrin fẹ́ obinrin ni Àṣà Yorùbá ”
-Ilé Ẹjọ́ Àgbà yi Àṣà Ìgbéyàwó Àdáyébá padà ni ilú Àmẹ́ríka.  
-Ni ọjọ́ Ẹti, Oṣù kẹfà, ọjọ́ Kẹrindinlọ́gbọ́n, ọdún Ẹgbãlemẹdógún, Ilé Ẹjọ́ Àgbà ti ilú Àmẹ́ríkà ṣe òfin pé “Kò si Ìpínlẹ̀ Àmẹ́ríkà ti ó ni ẹ̀tọ́ lati kọ igbéyàwó laarin ọkùnrin pẹ̀lú ọkùnrin tàbi obinrin pẹ̀lú obinrin”.  
-Ijà fún ẹ̀tọ́ lati ṣe irú igbeyawo yi ti wà lati bi ọdún mẹrindinlãdọta sẹhin, ṣùgbọ́n ni oṣù kẹfà, ọdún Ẹgbãlemẹ́tàlá, Ilé Ẹjọ́ Àgbà fi àṣẹ si pé ki Ìjọba Àpapọ̀ gba àṣà ki ọkùnrin fẹ́ ọkùnrin tàbi ki obinrin fẹ́ obinrin, lati jẹ ki àwọn ti ó bá ṣe irú igbéyàwó yi lè gba ẹ̀tọ́ ti ó tọ́ si igbéyàwó àdáyébá – ohun ti ó tọ́ si ọkùnrin ti o fẹ́ obinrin, nipa ogún pinpin, owó ori tàbi bi igbéyàwó ba túká.
-Ìjọba-àpapọ̀ ti ilú Àmẹ́ríkà gba òfin yi wọlé nitori “Òfin-Òṣèlú ni wọn fi ndari ilú Àmẹ́ríkà”.  
-Lati igbà ti ìròyìn ìdájọ́ yi ti jade, ọ̀pọ̀lọpọ̀ ni àgbáyé, pàtàki àwọn Ẹlẹ́sin Igbàgbọ́ ti nda ẹ̀bi fún Ìjọba Àmẹ́ríkà pé wọn rú òfin Ọlọrun nipa Igbéyàwó.
-Ni àṣà igbéyàwó Yorùbá, èèmọ̀ ni ki ọkùnrin fẹ́ ọkùnrin tàbi ki obinrin fẹ́ obinrin.  Ki ẹbi ma ba parẹ́, ọmọ bibi jẹ ikan ninú ohun pàtàki ni igbéyàwó.  
-Bi ọkùnrin bá fẹ́ ọkùnrin, wọn ò lè bi ọmọ lai si pé wọn gba ọmọ tọ́ tàbi ki wọn wa obinrin ti yio bá wọn bi ọmọ tàbi bi ó bá jẹ laarin obinrin meji ti ó fẹ́ ara, ikan ninú obinrin yi ti lè bimọ tẹ́lẹ̀ tàbi ki ó wá ọkùnrin ti yio fún ohun lóyún ki wọn lè ni ọmọ ni irú igbéyàwó yi.
-Yorùbá ni “Bi a ti nṣe ni ilé wa, èèwọ̀ ibòmíràn” òfin Àmẹ́ríkà yi jẹ́ èèmọ̀ ni ilẹ̀ Yorùbá nitori a kò gbọ tàbi ka a ninú itàn àṣà Yoruba  .  
-Ki ṣe gbogbo èèmọ̀ ni ó dára, fún àpẹrẹ, ni igbà kan ri èèmọ̀ ni ki èniyàn bi àfin, tàbi bi ibeji nitori eyi, wọn ma npa ikan ninú àwọn meji yi ni tàbi ki wọn jù wọn si igbó lati kú, ṣùgbọ́n láyé òde òni àṣà ji ju ibeji tàbi ibẹta si igbó ti dúró.  
-Kò yẹ ki ẹnikẹni pa ẹnikeji nitori àwọ̀ ara tàbi nitori ẹni ti èniyàn bá ni ìfẹ́ si.  
-Ni ilú Àmẹ́ríkà ni àwọn ti ó fi ẹsin Ìgbàgbọ́ bojú ti kó si abẹ́ àwọn Aṣòfin ilú Àmẹ́ríkà ni ayé àtijọ́ pé Aláwọ̀dúdú ki ṣe èniyàn, nitori eyi, ó lòdi si òfin ki Aláwọ̀dúdú fẹ́ Aláwọ̀funfun, bi wọn bá fẹ́ra, wọn kò kà wọn kún tàbi ka irú ọmọ bẹ ẹ si èniyàn gidi.  
-Bẹni wọn lo òfin burúkú yi naa lati pa Aláwọ̀dúdú lẹhin isin ni aarin igboro lai ya Aláwọ̀dúdú ti wọn kó lẹ́rú lati ilẹ Yorùbá sọtọ.  
-Ogun abẹ́lé àti ṣi ṣe Òfin Àpapọ̀ tuntun lẹhin ogun, ni wọn fi gba àwọn Aláwọ̀dúdú silẹ̀ ni ilú Àmẹ́ríkà.
-Ki Àgbàdo tó di Ẹ̀kọ, a lọ̀ ọ́ pa pọ̀: Ògì Ṣí ṣe
-Àgbàdo ni wọn fi nṣe Ògì.  
-Ògì ni wọn fi nṣe Ẹ̀kọ́.  
-Ògì ṣí ṣe fẹ ìmọ́ tótó, nitori eyi, lai si omi, Ògì kò lè ṣe é ṣe.  
-Ọkà oriṣiriṣi ló wà ṣùgbọ́n, Ọkà Àgbàdo àti Bàbà ni wọn mọ̀ jù lati fi ṣe Ògì funfun tàbi pupa.  
-A lè lọ àgbàdo funfun àti pupa pọ̀, ẹlòmiràn lè lọ ẹ̀wà Sóyà pẹ̀lú gẹ́gẹ́ bi àpẹrẹ àwòrán ojú iwé yi
-Ṣí ṣe Ògì
-Ra Àgbàdo lọ́jà
-Rẹ Àgbàdo nikan
-Yọ ẹ̀gbin bi ò̀kúta kúrò
-Si sẹ́ Àgbàdo lẹhin li lọ 
-Ra Àgbàdo lọ́jà
-Da Àgbàdo rẹ fún ọjọ́ mẹta ninú omi tútù tàbi omi gbi gbóná
-Ṣọn Àgbàdo kúrò ninú omi lati yọ ẹ̀gbin bi ò̀kúta kúrò
-Gbe lọ si Ẹ̀rọ fún li lọ̀ tàbi gun pẹ̀lú odó lati lọ ọ.
-Sẹ́ Ògì pẹ̀lú asẹ́ aláṣọ tàbi asẹ́ igbàlódé
-Bẹ̀rẹ̀ si yọ omi ori Ògì si sẹ bi ó bá ti tòrò
-Pààrọ̀ omi ori rẹ fún ìtọ́jú rẹ fún ji jẹ tàbi
-Da Ògì sinú àpò ki ó lè gbẹ fún ìtọ́jú
-Ọba Aládélúsi Ògúnladé-Aládétóyìnbó gun Ori Oyè ilu Àkúrẹ́
-Déjì Àkúrẹ́ Ọba Aládélúsi Ògúnladé-Aládétóyìnbó pari gbogbo ètùtù ibilẹ ti Ọba Àkúrẹ́ ma nṣe lati gori oyè ni Ọjọ́rú, ọjọ́ kẹjọ, oṣù keje, ọdún Ẹgbãlemẹ̃dógún, lati di Ọba Kejidinlãdọta ilú Àkúrẹ́ ni ipinlẹ̀ Ondó ti ila-oorun orilẹ̀ èdè Nigeria.
-Kábiyèsi, Ọba Aláyélúà, wo kú ori ire o
-Ẹbọ á fín o Àbá
-Adé á pẹ́ lóri, bàtà á pẹ́ lọ́sẹ̀ o
-Ùgbà rẹ á tu ùlú Àkúrẹ́ lára (Àṣẹ)
-Wi wé Gèlè Aṣọ Òfì/Òkè
-Aṣọ-Òfì tàbi Aṣọ-Òkè jẹ́ aṣọ ilẹ̀ Yorùbá.  
-Aṣọ òde ni, nitori kò ṣe gbé wọ lójojúmọ́.  
-Ọ̀pọ̀lọpọ̀ Aṣọ-Òfì/Òkè wúwo, ṣùgbọ́n ti ìgbàlódé ti bẹ̀rẹ̀ si fúyẹ́ nitori òwú igbalode.  
-Yorùbá ma nlo Aso-Oke fún Igbéyàwó, Ìkómọ, Òkú ṣi ṣe, Oyè ji jẹ, àti ayẹyẹ ìbílẹ̀ yoku.  
-Ó dùn lati wé, ó si yẹ ni.  
-Ẹ ṣe àyẹ̀wò wi wé gèlè Aṣọ-Òkè ninú àwòrán àti àpèjúwe ojú iwé yi:
-Wi wé Gèlè Ìgbàlódé
-Oriṣiriṣi Gèlè
-Aṣọ Yorùbá kò pé, lai si Gèlè.  
-Bi Yorùbá bá wọ aṣọ ìbílẹ̀ fún òde ojoojúmọ́ tàbi fún ayẹyẹ, wọn ni lati wé gèlè ki imúra lè pé.  
-Fún ji jade ojoojúmọ́, a lè lo ipèlé aṣọ àdirẹ àti àwọn aṣọ igbàlódé  lati fi wé gèlè, ṣùgbọ́n fún òde gidi, gèlè igbàlódé tàbi Aṣọ Òfì ti wọn npe ni Aṣọ Òkè ni Yorùbá ma nwe.  
-Eleyi jẹ ki imúra Yorùbá gbayì ni gbogbo àgbáyé.  
-Ẹ ṣe àyẹ̀wò wi wé gèlè ni ojú iwé yi.
+Àwọn Oún ji jẹ
+Apẹ̀rẹ̀ ti a pin àwọn èso oriṣiriṣi wọnyi si
+Ohun Mimu Ọti Òyinbó
+Ẹrù Iyàwó
+Àpò Owó
+Ọti Òyinbó 
+Àkàrà òyinbó 
+Ọ̀pẹ̀ òyinbó
+Iwájú lèrò mbá èrò Kò si ohun téni kan ṣe, téni kò ṣe ri
+Ọ̀rọ̀ ijinlẹ àti Òwe Yorùbá wà lati fi kọ́ ọgbọ́n àti imò bi èniyàn ti lè gbé igbésí ayé rere.  
+Ọ̀gá àgbà ninú Olórin ilẹ̀ aláwọ̀-dúdú (Olóyè, Olùdarí Ebenezer Obey) kọ ninú orin ni èdè Yorùbá pé “ki lẹni kan ṣe, tẹni kan ò ṣe ri?”  Kò si owó, ọlá, ipò, agbára ti èniyàn ni, ti kò si ẹni tó ni ri tàbi ti ẹni ti ó mbọ̀ lẹhin kò lè ni.
+Ọ̀rọ̀ Yorùbá ti ó sọ pé “Iwájú lèrò mbá èrò” ṣe gba ẹni ti kò bá ni ìtẹ́lọ́rùn ni ìmọ̀ràn.  
+Ọjọ́ ori nlọ sókè ṣùgbọ́n ki wá lẹ̀.  
+Ai ni ìtẹ́lọ́rùn ló fa ki àgbàlagbà jowú ọmọdé nitori ọmọ àná ti ó rò pé kò lè da nkankan ti da nkan, tàbi ki ọ̀gá ilé-iṣẹ́ ma jowú ọmọ iṣẹ́.  
+Bi a bá ṣe akiyesi eré ije “Fi fa Okun” a o ri pé àwọn kan wà ni iwájú, bẹni àwọn kan wà lẹhin.  
+Èyi fihàn pé, “Ibi ti àgbà bá wà lọmọdé mba”, ṣùgbọ́n àgbà ti ṣe ọmọdé ri.
+Ai ni ìtẹ́lọ́rùn lè fà ikú ójiji nitori àìsàn ẹ̀jẹ̀-riru, irònú, ijiyà iṣẹ́ ibi, olè jijà, ija, gbigbé oògùn olóró, èrú ṣi ṣe,  àti bẹ́ẹ̀-bẹ́ẹ̀ lọ.  
+Bi èniyàn bá kọ́ ọgbọ́n ninú ọ̀rọ̀ Yorùbá ti ó sọ pé “Iwájú lèrò mbá èro” yi, à ri pé, kò si ipò ti òhún wà ti kò si ẹni ti ó wà nibẹ̀ ṣáájú tàbi lẹhin òhun.  
+Ìmọ̀ yi kò ni jẹ́ ki èniyàn ṣi iwà hù, tàbi binú ẹni keji.  
+Ó ṣe pàtàki gẹ́gẹ́ bi ikan ninú orin (Olóyè Olùdari Ebenezer Obey), pe “Ipò ki pò, ti a lè wà, ká má a dúpẹ́ ló tọ́”.
+“Bi ojú bá mọ́, Agbe á yalé Aláró, Àlùkò á yalé Olósùn, Lékeléke á yalé Ẹlẹ́fun”
+Bi a bá wo òwe yi, a o ri pe Agbe pọn bi aró, Àlùkò pupa bi osùn nigbati Lékeléke funfun bi ẹfun. 
+Nitori eyi, bi wọn kò ti ẹ̀ lọ si ilé Aláró, Olósùn àti Ẹlẹ́fun, àwọ̀ wọn á si wa bẹ̃, síbẹ-síbẹ, àwọn ẹiyẹ wọnyi gbiyànjú lati lọ si ibi ti wọn ti lè ri ohun ti yio tú ara wọn ṣe ki ó ma ba ṣa.
+A lè fi òwe Yoruba ti o ni “Bi ojú bá mọ́, Agbe á yalé Aláró, Àlùkò á yalé Olósùn, Lékeléke á yalé Ẹlẹ́fun” bá ilú, agbójúlógún àti ọ̀lẹ enia wi. 
+Kò si bi owo ilú, òbi, tàbi ẹbí ti lè pọ̀ tó, bi enia kò bá ṣiṣẹ́ kun á parun. 
+Irú ilú ti ó bá ńná iná-kuna, agbójúlógún àti ọ̀le wọnyi yio ráhùn ni ikẹhin. 
+Ẹ gbọ́ orin ti àwọn ọmọ ilé iwé ńkọ ni àsikò eré-ìbílẹ̀ ni ojú iwé yi.
+Agbe ló laró, ki ráhùn aró,
+Àlùkò ló losùn, ki ráhùn osùn
+Lékeléke ló lẹfun, ki ráhùn ẹfun,
+Ka má rahùn owó,
+Ka má rahùn ọmọ
+Ohun táó jẹ, táó mu kò mà ni wọn wa o) (lẹmeji)
+Ọọ̀ni Ilé Ifẹ̀, Ọba Okùnadé Alade Sijúwadé, Olúbùṣe Keji Wàjà 
+Ni ọjọ Kejidinlọ́gbọ̀n, oṣù Keje, ọdún Ẹgbãlemẹ͂dógún, iroyin jade ninú àwọn iwé-iroyin àti ori ayélujára pé Ọba Okunade Sijuwade, Olúbùṣe Keji, pa ipò da ni Ilú Ọba.  
+Àwọn Olóyè Ilé-Ifẹ̀ sẹ́ ọ̀rọ̀ ikú Ọba yi, nitori ni ayé àtijọ́, àwọn àgbà Oyè ló ni àṣẹ lati tú ọ̀fọ̀ pé Ọba wàjà fún ará ilú, nitori gẹ́gẹ́ bi àṣà Yorùbá Ọba ki kú.  
+Àwọn àgbà Oyè tú ọ̀fọ̀ ni iwá́jú Gómìnà Rauf Arégbẹ́ṣọlá ti ipinlẹ̀ Ọ̀ṣun, ni Ọjọ́rú, ọjọ́ kejila oṣù kẹjọ ọdún Ẹgbãlemẹ͂dógún. 
+Ni ayé òde òni kò si àṣiri mọ, àṣà yi ti yi padà nitori, ni àtijọ́, Ọba ki kú si àjò, bẹni kò si iwé-iroyin àti ẹ̀rọ ayélujára.
+Ilé Ifẹ̀ jẹ́ ilú pàtàki ni ilẹ̀ Yorùbá nitori itàn sọ wi pé ibẹ̀ ni orisun Yorùbá pẹ̀lú Bàbá nla Yorùbá “Oduduwa” ti ó tẹ ibẹ̀ dó.   
+Okùnadé Alade Sijúwadé, Olúbùṣe Keji, gun ori oyè Ọọni Ifẹ̀ nigbati ó pé aadọta ọdún, ó lo ọdún mẹ͂dógóji ni ipò Ọọni Ifẹ̀.  
+Ohun ni aadọta Ọba Ilé Ifẹ̀.
+Ìsìnkú Ọba Sijúwadé bẹ̀rẹ̀ ni ọjọ́ Ẹti, ọjọ́ kẹrinla, oṣù Kẹjọ, ọdún Ẹgbãlemẹ̃dógún.  Lẹhin ìsìnkú, ìséde ọlọ́jọ́ meje yio bẹ̀rẹ̀ ni Ilé-Ifẹ̀ àti agbègbè rẹ lati agogo mẹrin ìrọ̀lẹ́. 
+Ki Èdùmàrè gba olóògbé Ọba Sijúwadé si afẹ́fẹ́ rere.
+Wọn mbẹ Oníṣègùn, wọn ò bẹ Aláìsàn
+Yorùbá ma nlo òwe yi nigbati èniyàn bá ṣẹ̀ tàbi ṣe nkan burúkú si ẹni keji, ti wọn bẹ̀rẹ̀ si bẹ ẹni ti wọn ṣẹ̀ lai mọ bóyá ẹni ti ó ṣẹ̀ ni àyipadà ọkàn kúrò ni iwà ìbàjẹ́ tàbi iṣẹ́ ibi.  
+A tún lè ṣe àpẹrẹ pé wọn mbẹ Adájọ́ ki ó ṣe àánú fún ọ̀daràn lai jẹ ki ó ronú ohun burúkú ti ó ṣe, ki ó lé yi padà.
+Oníṣègùn ninú òwe yi lè jẹ́, Òbi, Ọ̀gá ilé-iṣẹ́, Adájọ́, Ọlọpa, Ọ̀rẹ́, Ẹ̀gbọ́n, Àbúrò àti bẹ́ ẹ̀ bẹ́ ẹ̀ lọ, nigbati Aláìsàn jẹ ẹni ti ó ṣẹ̀.  
+Lai si ìbáwí tàbi ijiyà fún ẹ̀ṣẹ̀, ẹlẹ́sẹ̀ tàbi ọ̀daràn kò ni yi padà.  
+Nitori eyi, ó yẹ ki á bẹ alaisan, ki ó lè lo oògùn ti Oníṣègùn ṣe, ki ó bà lè ri ìwòsàn, ki wọn tó bẹ Oníṣègùn.
+Bi Egúngún/Eégún bá ńlé ni ki a má rọ́jú, bi ó ṣe ńrẹ ará ayé, ló ńrẹ ará Ọrun
+Yorùbá ma ńṣe ọdún Egúngún/Eégún ni ọdọ-dún lati ṣe iranti Bàbánlá/Ìyánlá wọn ti ó ti di olóògbé nitori wọn ni iṣẹ́ lati ṣe laarin alàyè lati rán ará ilú leti pé ki wọn di àjogúnbá ẹ̀kọ́ iwà rere mú.  
+Yorùbá má ńpe Egúngún/Eégún ni “Ará Ọ̀run”.
+Egúngún/Eégún ma ńgbé ọ̀pá tàbi ẹgba lati na ẹni ti ó bá hu iwà burúkú ni àwùjọ. 
+Fún àpẹrẹ, obinrin ti kò múra dáradára tàbi ẹni ti ó bá wọ bàtà, Eégún á le lati naa.
+Òwe Yorùbá ti ó ni “Bi Egúngún/Eégún bá ńlé ni ki a má rọ́jú, bi ó ṣe ńrẹ ará ayé, ló ńrẹ ará Ọrun”, ṣe gba ẹni ti ó bá wà ninú ìṣòro ni ìyànjú pé, ìṣòro yi ki ṣe ohun ti kò ni tán tàbi ni òpin.  
+Èyi tùmọ́ si pé, ìṣòro yi á ré kọjá bi enia bá lè rọ́jú.
+Ni Ayé òde òni, njẹ́ ó yẹ ki a pọ́n Àṣà fi fẹ́ Iyàwó púpọ̀ lé ni Igbéyàwó Ìbílẹ̀ Yorùbá
+Ni igbà àtijọ́, oníyàwó kan kò wọ́pọ̀ nitori iṣẹ́ Àgbẹ̀.  
+Àṣà fi fẹ́ iyàwó púpọ̀ ṣe kókó nitori bibi ọmọ púpọ̀ pàtàki ọmọ ọkùnrin fún irànlọ́wọ́ iṣẹ́-oko.  
+Fi fẹ̀ iyàwó púpọ̀ kò pin si ilẹ̀ Yorùbá tàbi ilẹ̀ Aláwọ̀dúdú nikan, ó wọ́pọ̀ ni ilẹ̀ Aláwọ̀funfun ni ọ̀pọ̀lọpọ̀ ọdún sẹhin ṣùgbọ́n nitori òwò ẹrú àti ẹ̀sin igbàgbọ́ wọn bẹ̀rẹ̀ àṣà fi fẹ iyàwó kan.  
+Lẹhin òwò ẹrú, li lo ẹ̀rọ igbàlódé fún iṣẹ́ oko jẹ ki Aláwọ̀funfun lè dúró pẹ̀lú àṣà fi fẹ́ iyàwó kan.
+Ọ̀pọ̀lọpọ̀ ọ̀dọ́ ayé òde òni ti kọ àṣà fi fẹ́ iyàwó púpọ̀ silẹ̀ nitori ẹ̀sìn, ìmọ̀ àti si sá fún rògbòdiyàn ti ó lọ pẹ̀lú iyàwó púpọ̀.  
+Iṣẹ́ Alákọ̀wé kò ṣe fi jogún fún ọmọ nitori iwé-ẹ̀ri àti ipò ti èniyàn dé ni iṣẹ́ Akọ̀wé tàbi iṣẹ́ Ìjọba kò ṣe fi jogún fún ọmọ bi oko.  
+Owó ti ọ̀pọ̀lọpọ̀ Oniṣẹ́-oṣ̀u ngba kò tó lati bọ́ iyàwó kan ki owó oṣù míràn tó wọlé, bẹni kò tó gba ilé nla ti ó lè gba iyàwó púpọ̀ pàtàki ni ilú nla bi Èkó.  
+Àṣà iyàwó púpọ̀ ṣi pọ̀, ni àwọn ilú kékeré tàbi Abúlé laarin àwọn àgbẹ̀ àti àwọn ti kò kàwé.
+Yorùbá ni “Bàbá, bàbá gbogbo ayé”, bi iyàwó kò bá ni iṣẹ́ lati tọ́jú ọmọ wọn, ìṣẹ́ dé, nitori eyi, ọ̀pọ̀lọpọ̀ obinrin Yorùbá ma ntẹpá mọ́ṣẹ́ lati lè tọ́jú ọmọ wọn lai dúró de ọkọ.  
+Ìyà àti ìṣẹ́ ni fún ọmọ púpọ̀ àti àwon iyàwó ọkùnrin ti kò ni iṣẹ́ tàbi eyi ti ó ni iṣẹ́ ti kò wúlò.
+Ewu ti ó wà ni ilé oníyàwó  púpọ̀ ju ire ibẹ̀ lọ.  
+Yorùbá ni “Oníyàwó kan kò mọ ẹjọ́ oníyàwó  púpọ̀ da a”.  
+Lára ewu wọnyi ni, ki i si ifọ̀kànbalẹ̀ nitori ijà àti ariwo ti owú ji jẹ laarin àwọn iyàwó ma nfà pàtàki ni agbo ilé nlá tàbi ilé Ọlọ́rọ̀ àti Olóyè.  
+Ọ̀pọ̀lọpọ̀ ilé oníyàwó  púpọ̀ ma nda ahoro lẹhin ikú Olóri ilé nitori kò si ẹni ti ó ni ìfẹ́ tọ si Bàbá oníyàwó  púpọ̀.
+“Èèmọ̀ ni ki ọkùnrin fẹ́ ọkùnrin tàbi ki obinrin fẹ́ obinrin ni Àṣà Yorùbá ”
+Ilé Ẹjọ́ Àgbà yi Àṣà Ìgbéyàwó Àdáyébá padà ni ilú Àmẹ́ríka.  
+Ni ọjọ́ Ẹti, Oṣù kẹfà, ọjọ́ Kẹrindinlọ́gbọ́n, ọdún Ẹgbãlemẹdógún, Ilé Ẹjọ́ Àgbà ti ilú Àmẹ́ríkà ṣe òfin pé “Kò si Ìpínlẹ̀ Àmẹ́ríkà ti ó ni ẹ̀tọ́ lati kọ igbéyàwó laarin ọkùnrin pẹ̀lú ọkùnrin tàbi obinrin pẹ̀lú obinrin”.  
+Ijà fún ẹ̀tọ́ lati ṣe irú igbeyawo yi ti wà lati bi ọdún mẹrindinlãdọta sẹhin, ṣùgbọ́n ni oṣù kẹfà, ọdún Ẹgbãlemẹ́tàlá, Ilé Ẹjọ́ Àgbà fi àṣẹ si pé ki Ìjọba Àpapọ̀ gba àṣà ki ọkùnrin fẹ́ ọkùnrin tàbi ki obinrin fẹ́ obinrin, lati jẹ ki àwọn ti ó bá ṣe irú igbéyàwó yi lè gba ẹ̀tọ́ ti ó tọ́ si igbéyàwó àdáyébá – ohun ti ó tọ́ si ọkùnrin ti o fẹ́ obinrin, nipa ogún pinpin, owó ori tàbi bi igbéyàwó ba túká.
+Ìjọba-àpapọ̀ ti ilú Àmẹ́ríkà gba òfin yi wọlé nitori “Òfin-Òṣèlú ni wọn fi ndari ilú Àmẹ́ríkà”.  
+Lati igbà ti ìròyìn ìdájọ́ yi ti jade, ọ̀pọ̀lọpọ̀ ni àgbáyé, pàtàki àwọn Ẹlẹ́sin Igbàgbọ́ ti nda ẹ̀bi fún Ìjọba Àmẹ́ríkà pé wọn rú òfin Ọlọrun nipa Igbéyàwó.
+Ni àṣà igbéyàwó Yorùbá, èèmọ̀ ni ki ọkùnrin fẹ́ ọkùnrin tàbi ki obinrin fẹ́ obinrin.  Ki ẹbi ma ba parẹ́, ọmọ bibi jẹ ikan ninú ohun pàtàki ni igbéyàwó.  
+Bi ọkùnrin bá fẹ́ ọkùnrin, wọn ò lè bi ọmọ lai si pé wọn gba ọmọ tọ́ tàbi ki wọn wa obinrin ti yio bá wọn bi ọmọ tàbi bi ó bá jẹ laarin obinrin meji ti ó fẹ́ ara, ikan ninú obinrin yi ti lè bimọ tẹ́lẹ̀ tàbi ki ó wá ọkùnrin ti yio fún ohun lóyún ki wọn lè ni ọmọ ni irú igbéyàwó yi.
+Yorùbá ni “Bi a ti nṣe ni ilé wa, èèwọ̀ ibòmíràn” òfin Àmẹ́ríkà yi jẹ́ èèmọ̀ ni ilẹ̀ Yorùbá nitori a kò gbọ tàbi ka a ninú itàn àṣà Yoruba  .  
+Ki ṣe gbogbo èèmọ̀ ni ó dára, fún àpẹrẹ, ni igbà kan ri èèmọ̀ ni ki èniyàn bi àfin, tàbi bi ibeji nitori eyi, wọn ma npa ikan ninú àwọn meji yi ni tàbi ki wọn jù wọn si igbó lati kú, ṣùgbọ́n láyé òde òni àṣà ji ju ibeji tàbi ibẹta si igbó ti dúró.  
+Kò yẹ ki ẹnikẹni pa ẹnikeji nitori àwọ̀ ara tàbi nitori ẹni ti èniyàn bá ni ìfẹ́ si.  
+Ni ilú Àmẹ́ríkà ni àwọn ti ó fi ẹsin Ìgbàgbọ́ bojú ti kó si abẹ́ àwọn Aṣòfin ilú Àmẹ́ríkà ni ayé àtijọ́ pé Aláwọ̀dúdú ki ṣe èniyàn, nitori eyi, ó lòdi si òfin ki Aláwọ̀dúdú fẹ́ Aláwọ̀funfun, bi wọn bá fẹ́ra, wọn kò kà wọn kún tàbi ka irú ọmọ bẹ ẹ si èniyàn gidi.  
+Bẹni wọn lo òfin burúkú yi naa lati pa Aláwọ̀dúdú lẹhin isin ni aarin igboro lai ya Aláwọ̀dúdú ti wọn kó lẹ́rú lati ilẹ Yorùbá sọtọ.  
+Ogun abẹ́lé àti ṣi ṣe Òfin Àpapọ̀ tuntun lẹhin ogun, ni wọn fi gba àwọn Aláwọ̀dúdú silẹ̀ ni ilú Àmẹ́ríkà.
+Ki Àgbàdo tó di Ẹ̀kọ, a lọ̀ ọ́ pa pọ̀: Ògì Ṣí ṣe
+Àgbàdo ni wọn fi nṣe Ògì.  
+Ògì ni wọn fi nṣe Ẹ̀kọ́.  
+Ògì ṣí ṣe fẹ ìmọ́ tótó, nitori eyi, lai si omi, Ògì kò lè ṣe é ṣe.  
+Ọkà oriṣiriṣi ló wà ṣùgbọ́n, Ọkà Àgbàdo àti Bàbà ni wọn mọ̀ jù lati fi ṣe Ògì funfun tàbi pupa.  
+A lè lọ àgbàdo funfun àti pupa pọ̀, ẹlòmiràn lè lọ ẹ̀wà Sóyà pẹ̀lú gẹ́gẹ́ bi àpẹrẹ àwòrán ojú iwé yi
+Ṣí ṣe Ògì
+Ra Àgbàdo lọ́jà
+Rẹ Àgbàdo nikan
+Yọ ẹ̀gbin bi ò̀kúta kúrò
+Si sẹ́ Àgbàdo lẹhin li lọ 
+Ra Àgbàdo lọ́jà
+Da Àgbàdo rẹ fún ọjọ́ mẹta ninú omi tútù tàbi omi gbi gbóná
+Ṣọn Àgbàdo kúrò ninú omi lati yọ ẹ̀gbin bi ò̀kúta kúrò
+Gbe lọ si Ẹ̀rọ fún li lọ̀ tàbi gun pẹ̀lú odó lati lọ ọ.
+Sẹ́ Ògì pẹ̀lú asẹ́ aláṣọ tàbi asẹ́ igbàlódé
+Bẹ̀rẹ̀ si yọ omi ori Ògì si sẹ bi ó bá ti tòrò
+Pààrọ̀ omi ori rẹ fún ìtọ́jú rẹ fún ji jẹ tàbi
+Da Ògì sinú àpò ki ó lè gbẹ fún ìtọ́jú
+Ọba Aládélúsi Ògúnladé-Aládétóyìnbó gun Ori Oyè ilu Àkúrẹ́
+Déjì Àkúrẹ́ Ọba Aládélúsi Ògúnladé-Aládétóyìnbó pari gbogbo ètùtù ibilẹ ti Ọba Àkúrẹ́ ma nṣe lati gori oyè ni Ọjọ́rú, ọjọ́ kẹjọ, oṣù keje, ọdún Ẹgbãlemẹ̃dógún, lati di Ọba Kejidinlãdọta ilú Àkúrẹ́ ni ipinlẹ̀ Ondó ti ila-oorun orilẹ̀ èdè Nigeria.
+Kábiyèsi, Ọba Aláyélúà, wo kú ori ire o
+Ẹbọ á fín o Àbá
+Adé á pẹ́ lóri, bàtà á pẹ́ lọ́sẹ̀ o
+Ùgbà rẹ á tu ùlú Àkúrẹ́ lára (Àṣẹ)
+Wi wé Gèlè Aṣọ Òfì/Òkè
+Aṣọ-Òfì tàbi Aṣọ-Òkè jẹ́ aṣọ ilẹ̀ Yorùbá.  
+Aṣọ òde ni, nitori kò ṣe gbé wọ lójojúmọ́.  
+Ọ̀pọ̀lọpọ̀ Aṣọ-Òfì/Òkè wúwo, ṣùgbọ́n ti ìgbàlódé ti bẹ̀rẹ̀ si fúyẹ́ nitori òwú igbalode.  
+Yorùbá ma nlo Aso-Oke fún Igbéyàwó, Ìkómọ, Òkú ṣi ṣe, Oyè ji jẹ, àti ayẹyẹ ìbílẹ̀ yoku.  
+Ó dùn lati wé, ó si yẹ ni.  
+Ẹ ṣe àyẹ̀wò wi wé gèlè Aṣọ-Òkè ninú àwòrán àti àpèjúwe ojú iwé yi:
+Wi wé Gèlè Ìgbàlódé
+Oriṣiriṣi Gèlè
+Aṣọ Yorùbá kò pé, lai si Gèlè.  
+Bi Yorùbá bá wọ aṣọ ìbílẹ̀ fún òde ojoojúmọ́ tàbi fún ayẹyẹ, wọn ni lati wé gèlè ki imúra lè pé.  
+Fún ji jade ojoojúmọ́, a lè lo ipèlé aṣọ àdirẹ àti àwọn aṣọ igbàlódé  lati fi wé gèlè, ṣùgbọ́n fún òde gidi, gèlè igbàlódé tàbi Aṣọ Òfì ti wọn npe ni Aṣọ Òkè ni Yorùbá ma nwe.  
+Eleyi jẹ ki imúra Yorùbá gbayì ni gbogbo àgbáyé.  
+Ẹ ṣe àyẹ̀wò wi wé gèlè ni ojú iwé yi.
 “Gèlè ò dùn bi ká mọ̀ ọ́ wé, ká mọ̀ ọ́ wé, kò tó kó yẹni”: 
 Aṣọ Yorùbá, ìró àti bùbá kò pé lai si gèlè. 
 Gèlè oriṣiriṣi ló wà̀, a lè lo gèlè aṣọ ìbílẹ̀ bi: aṣọ òfi/òkè, àdìrẹ, tàbi ki á yọ gèlè lára aṣọ.  
 Ọpọlọpọ gèle ìgbàlódé wá lati òkè òkun.
-Gèlè aṣọ òfì òkè
-ti ìgbàlódé̀
-Gèlè aṣọ ànkàrá 
+Gèlè aṣọ òfì òkè
+ti ìgbàlódé̀
+Gèlè aṣọ ànkàrá 
 Ìmúra obinrin Yorùbá kò pé lai wé gèlè, ṣùgbọ́n òwe Yorùbá ti ó ni “Gele ko dun bi ka mo we, ka mo we, ko to ko yeni”, fihan pe ki ṣe owó ti enia ná lati ra gèlè ni ó ni kó yẹni.  
 A lè fi ò́we yi bá awọn obinrin ti o nṣe àṣejù tabi àṣehàn, nipa ki kó owó nlá lóri àti ra gèlè lati òkè òkun. 
 Ọ̀pọ̀ gèlè lati òkè òkun ṣòro lati wé nitorina bi enia ò bá we dáadáa, kò ni yẹni. 
 A le fi òwe yi tún gb́ àwọn obinrin ti ó kó gèlè aṣọ-ẹbí jọ ni ìyànjú pé ki ṣe bi gèlè ṣe pọ̀ tó ló mú kó yẹni.  
 Ẹ jẹ́ ki á ṣe ohun gbogbo ni ìwọ̀ntún-ìwọ̀nsì.
-“Bi a bà jẹ̀kọ à dári ji Ewé”: À-lò-tún-lò
-Ki ariwo à-lò-tún-lò tó gbòde ni aiyé òde òni nipa àti dáàbò bo àyíká ni Yorùbá ti ńlo à-lò-tún-lò pàtàki li lo ewé lati pọ́n oúnjẹ.
-Oriṣiriṣi ewé ló wà ni ilẹ̀ Yorùbá ti wọn fi má ńpọ́n oúnjẹ bi: ẹ̀kọ, ọ̀ọ̀lẹ̀/mọ́in-mọ́in, irẹsi sisè (ọ̀fadà), obì àti bẹ̃bẹ lọ.  
-Ewé iran/ẹ̀kọ ló wọ́pọ lati fi pọ́n ẹ̀kọ, ọ̀ọ̀lẹ̀/mọ́in-mọ́in, iyán, àmàlà, irẹsi sisè àti bẹ̃bẹ lọ.  
-Ewé obì, ewé ọ̀gẹ̀dẹ̀, ewé kókò, àti àwọn ewé yókù ni iwúlò wọn ni ilé tàbi lóko. 
-Gbogbo ewé wọnyi wúlò fún àyiká ju ọ̀rá ti wọn ńlò lati pọ́n oúnjẹ láyé òde òni. 
-Ewé li lo fún pi pọ́n àwọn oúnjẹ kò léwu rárá bi ọ̀rá igbàlódé.
-Yorùbá ni “Bi a bà jẹ̀kọ à dári ji Ewé”.  
-Òwe yi túmọ̀ si pé, bi a jẹ oúnjẹ inú ewé tán, à ju ewé nù.  
-Ewé ti a kó sọnù wúlò fún àyiká ju ọ̀rá igbàlódé lọ.  
-Bi wọn da ewé si ilẹ́, yio da ilẹ́ padà, bi wọn da sinú omi/odò, kò léwu fún ẹja àti ohun ẹlẹmi inú omi/odò, bi  ọ̀rá àti ike igbàlódé ti ó ḿba àyiká jẹ́.  
-Ẹ ṣe àyẹ̀wò àwòrán lilo ewé lójú iwé yi.
-Obì ninú ewé Obì 
+“Bi a bà jẹ̀kọ à dári ji Ewé”: À-lò-tún-lò
+Ki ariwo à-lò-tún-lò tó gbòde ni aiyé òde òni nipa àti dáàbò bo àyíká ni Yorùbá ti ńlo à-lò-tún-lò pàtàki li lo ewé lati pọ́n oúnjẹ.
+Oriṣiriṣi ewé ló wà ni ilẹ̀ Yorùbá ti wọn fi má ńpọ́n oúnjẹ bi: ẹ̀kọ, ọ̀ọ̀lẹ̀/mọ́in-mọ́in, irẹsi sisè (ọ̀fadà), obì àti bẹ̃bẹ lọ.  
+Ewé iran/ẹ̀kọ ló wọ́pọ lati fi pọ́n ẹ̀kọ, ọ̀ọ̀lẹ̀/mọ́in-mọ́in, iyán, àmàlà, irẹsi sisè àti bẹ̃bẹ lọ.  
+Ewé obì, ewé ọ̀gẹ̀dẹ̀, ewé kókò, àti àwọn ewé yókù ni iwúlò wọn ni ilé tàbi lóko. 
+Gbogbo ewé wọnyi wúlò fún àyiká ju ọ̀rá ti wọn ńlò lati pọ́n oúnjẹ láyé òde òni. 
+Ewé li lo fún pi pọ́n àwọn oúnjẹ kò léwu rárá bi ọ̀rá igbàlódé.
+Yorùbá ni “Bi a bà jẹ̀kọ à dári ji Ewé”.  
+Òwe yi túmọ̀ si pé, bi a jẹ oúnjẹ inú ewé tán, à ju ewé nù.  
+Ewé ti a kó sọnù wúlò fún àyiká ju ọ̀rá igbàlódé lọ.  
+Bi wọn da ewé si ilẹ́, yio da ilẹ́ padà, bi wọn da sinú omi/odò, kò léwu fún ẹja àti ohun ẹlẹmi inú omi/odò, bi  ọ̀rá àti ike igbàlódé ti ó ḿba àyiká jẹ́.  
+Ẹ ṣe àyẹ̀wò àwòrán lilo ewé lójú iwé yi.
+Obì ninú ewé Obì 
 Oúnjẹ pipọ́n
-Ọ̀ọ̀lẹ̀ Mọ́ínmọ́ín eléwé
+Ọ̀ọ̀lẹ̀ Mọ́ínmọ́ín eléwé
 ÌKÉDE KÁRÍAYÉ FÚN È̩TÓ̩ O̩MO̩NÌYÀN
 
 Ò̩RÒ̩ ÀKÓ̩SO̩

@@ -28,7 +28,7 @@ abanilérù
 abanilẹ́rù
 abaniwi
 abanlẹ́rù
-abanǹkanjẹ́
+abanǹkanjẹ́
 abaníjẹ́
 abanǹkanjẹ́
 abara
@@ -1894,11 +1894,11 @@ alámì
 alámòójútó
 alámójútó
 alámọ̀
-aláǹgbá
-aláǹtakùn
+aláǹgbá
+aláǹtakùn
 alápapọ̀
 alápatà
-alápàáǹdẹ̀dẹ̀
+alápàáǹdẹ̀dẹ̀
 alápàáǹdẹ̀dẹ̀
 alápá
 alápá-má-ṣiṣẹ́
@@ -1985,7 +1985,7 @@ aláàlá
 aláàmú
 aláànú
 aláànúú
-aláàpáǹdẹ̀dẹ̀
+aláàpáǹdẹ̀dẹ̀
 aláàpáǹdẹ̀dẹ̀
 aláàrékérekè
 aláàrùn
@@ -8551,7 +8551,7 @@ gbògo
 gbòn
 gbòngbo
 gbòngbò
-gbòǹgbò
+gbòǹgbò
 gbòná
 gbòro
 gbòrogbòro
@@ -13610,9 +13610,9 @@ jàmbá
 jàmínì
 jànbá
 jàndùkú
-jàǹdùkú
+jàǹdùkú
 jànfààní
-jàǹkànjàǹkàn
+jàǹkànjàǹkàn
 jàpàlà
 jàre
 jàré
@@ -14161,7 +14161,7 @@ jínjìn
 jínjìn-nà
 jínjìnnà
 jínjìnréré
-jíǹkí
+jíǹkí
 jínnà
 jíreòní
 jíròrò
@@ -15407,7 +15407,7 @@ kàngà
 kàngẹ́kàngẹ́
 kànkan
 kànkun
-kàǹkà-kàǹkà
+kàǹkà-kàǹkà
 kànkàn
 kànkùn
 kànna-kànna
@@ -16143,7 +16143,7 @@ kólòlò
 kólósè
 kólọ
 kómi
-kóǹgbẹ
+kóǹgbẹ
 kó-ni
 kóni
 kónà
@@ -17203,7 +17203,7 @@ lámẹ́kì
 lámọ̀ràn
 lánfàànì
 lánfààní
-láǹfààní
+láǹfààní
 lánà
 lánàá
 lápa
@@ -17802,7 +17802,7 @@ lófò
 lóge
 lógo
 lógun
-lógèdèǹgbé
+lógèdèǹgbé
 lógèdèǹgbé
 lógó
 lógójì
@@ -17878,7 +17878,7 @@ lóminú
 lómìnira
 lóni
 lónkà
-lóǹkà
+lóǹkà
 lónà
 lónì
 lónìn-ín
@@ -20542,7 +20542,7 @@ mẹ́ẹ̀ẹ́dọ́gọ́ọ̀ta
 mọ̀-ọ́-ṣe
 mẹ́ṣẹ́kì
 n
-ǹ
+ǹ
 na
 naa
 naama
@@ -20804,7 +20804,7 @@ niṣínniṣín
 nińú
 njẹ
 njẹ́
-ǹjẹ́
+ǹjẹ́
 nkankan
 nkànkan
 nkò
@@ -20813,9 +20813,9 @@ nlá
 nláńlà
 nláǹlà
 nlọ
-nǹkan
-nǹkankan
-nǹkan-oní-nǹkan
+nǹkan
+nǹkankan
+nǹkan-oní-nǹkan
 nnì
 nní
 nnítorí
@@ -21506,7 +21506,7 @@ nọ́rmádì
 nẹ̀taníẹ́lì
 nẹ̀tánéẹ́lì
 nẹ̀táníẹ́lì
-ǹṣó
+ǹṣó
 nọ́ḿba
 nọ́ḿbà
 o
@@ -22349,7 +22349,7 @@ olùdámràn
 olùdámọ̀ràn
 olùdámọ̀ràn-àgbàyanu
 olùdándè
-olùdáǹdè
+olùdáǹdè
 olùdániláre
 olùdánwò
 olùdápadà
@@ -22908,7 +22908,7 @@ onímọ̀ràn
 onímọ-tara-ẹni-nìkan
 onímọ̀-tara-ẹni-nìkan
 onímẹ̀ẹ́lẹ́
-oní-ǹkan
+oní-ǹkan
 onínàkúnà
 onínàákúnàá
 oníná
@@ -24049,7 +24049,7 @@ pàmọ́
 pàmọ̀pọ̀
 pàntiri
 pàntí
-pàǹtí
+pàǹtí
 pànyàn
 pànìyàn
 pànìyàn-jẹ
@@ -27656,8 +27656,8 @@ tifisa
 tifsa
 tifẹtifẹ
 ti-gbongbo-ti-gbongbo
-tigbòǹgbò
-tigbòǹgbò-tigbòǹgbò
+tigbòǹgbò
+tigbòǹgbò-tigbòǹgbò
 tigbòǹgbò
 ti-gbòǹgbò-ti-gbòǹgbò
 tigbòǹgbò-tigbòǹgbò
@@ -29040,7 +29040,7 @@ wàra
 wàrakasi
 wàrà
 wàràkàsì
-wàràǹkàṣì
+wàràǹkàṣì
 wàràǹkàsì
 wàràǹkàṣì
 wàrírí
@@ -29534,7 +29534,7 @@ yíkáyíká
 yílẹ̀
 yín
 yíni
-yíǹkì
+yíǹkì
 yínmú
 yínni
 yínyan
@@ -29636,7 +29636,7 @@ yẹ̀n
 yẹ́n
 yọnda
 yọ̀nda
-yọ̀ǹda
+yọ̀ǹda
 yọ-ni
 yọni
 yọnu
@@ -29942,7 +29942,7 @@ yẹṣẹ̀
 àgbálá
 àgbálébú
 àgbánréré
-àgbáǹréré
+àgbáǹréré
 àgbára
 àgbáyè
 àgbáyé
@@ -30456,8 +30456,8 @@ yẹṣẹ̀
 ànfààní
 àngẹ́lì
 àni
-àǹjọ̀nnú
-àǹjọ̀nú
+àǹjọ̀nnú
+àǹjọ̀nú
 ànàbẹ́jẹ̀
 ànàjù
 ànàtótì
@@ -30857,7 +30857,7 @@ yẹṣẹ̀
 àtàkì
 àtàlíà
 àtànpàkò
-àtàǹpàkò
+àtàǹpàkò
 àtàpa
 àtàpátadìde
 àtàrí
@@ -33152,7 +33152,7 @@ yẹṣẹ̀
 ìdámẹ́wá
 ìdána
 ìdándè
-ìdáǹdè
+ìdáǹdè
 ìdáni-lágara
 ìdániláre
 ìdánilóju
@@ -34399,7 +34399,7 @@ yẹṣẹ̀
 ìpani
 ìpanilára
 ìpanirun
-ìpa-nǹkan-mọ́-sí
+ìpa-nǹkan-mọ́-sí
 ìpanìyàn
 ìpanǹkan
 ìpa-nǹkan-mọ́-sí
@@ -34496,7 +34496,7 @@ yẹṣẹ̀
 ìpéjọpọ̀
 ìpénpéjù
 ìpénpéjú
-ìpéǹpéjú
+ìpéǹpéjú
 ìpéńpéjú
 ìpéǹpéjú
 ìpìlẹ̀
@@ -34878,7 +34878,7 @@ yẹṣẹ̀
 ìsálọ
 ìsá-nsá
 ìsánsá
-ìsáǹsá
+ìsáǹsá
 ìsánǹsá
 ìsápamọ́
 ìsápamọ́sí
@@ -35251,7 +35251,7 @@ yẹṣẹ̀
 ìwà-mimọ́
 ìwà-mímọ́
 ìwàmímọ́
-ìwàǹwára
+ìwàǹwára
 ìwà-ní-mímọ́
 ìwàpẹ̀lẹ́
 ìwàrírí
@@ -36090,7 +36090,7 @@ yẹṣẹ̀
 ògì
 ògò
 ògòngò
-ògòǹgò
+ògòǹgò
 ògòńgò
 ògòǹgò
 ògòẹ́gò
@@ -36291,11 +36291,11 @@ yẹṣẹ̀
 òmúgọ
 òmúgọ̀
 òmẹ́gà
-òǹdè
+òǹdè
 òni
-òǹkà
-òǹrorò
-òǹtẹ̀
+òǹkà
+òǹrorò
+òǹtẹ̀
 ònánì
 ònésífórù
 òní
@@ -40342,7 +40342,7 @@ yẹṣẹ̀
 ṣàn
 ṣànfani
 ṣànfààní
-ṣàǹfààní
+ṣàǹfààní
 ṣàniyan
 ṣàniyàn
 ṣànlọ
