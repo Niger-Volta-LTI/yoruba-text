@@ -31,7 +31,7 @@ def convert_to_NFC(filename, outfilename):
  * [Ìmọ̀_Ẹ̀rọ](https://yo.wikipedia.org/wiki/%C3%8Cm%E1%BB%8D%CC%80_%E1%BA%B8%CC%80r%E1%BB%8D)
  * [ọ̀rọ̀yorùbá](https://oroyoruba.blogspot.com)
  * [Wikipedia](https://yo.wikipedia.org/wiki/Koisaanu)
-
+ * [Poetry of Ọláńrewájú Adépọ̀jù](https://news.clas.ufl.edu/the-transition-from-yoruba-metaphysics-to-islamic-aesthetics-in-olanrewaju-adepojus-poetry/)
  
 #### Social Media sources:
  * https://twitter.com/yobamoodua
