@@ -44,3 +44,17 @@ Text has been gathered with permission from online sources, and lightly preproce
 ## Resources
  * https://clas.uiowa.edu/dwllc/allnet/yoruba-language-and-culture-resources
  * https://glosbe.com/yo/en
+
+
+## Bibtex
+If you want to cite this repo in your work, please use:
+
+```
+@misc{Orife_yoruba-text_2018,
+author = {Orife, Iroro and Fasubaa, Timilehin and Wahab, Olamilekan},
+month = {1},
+title = {{yoruba-text}},
+url = {https://github.com/Niger-Volta-LTI/yoruba-text},
+year = {2018}
+}
+```
