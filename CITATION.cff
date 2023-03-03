@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: yoruba-text
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Iroro
+    family-names: Orife
+    email: iroro@alumni.cmu.edu
+    affiliation: Niger-Volta Language Technologies Institute
+    orcid: 'https://orcid.org/0000-0002-3030-2312'
+repository-code: 'https://github.com/Niger-Volta-LTI/yoruba-text'
+keywords:
+  - african languages
+  - nlp dataset
+  - yoruba
+  - diacritics
+  - machine translation
+license: GPL-3.0
+date-released: '2018-01-16'
