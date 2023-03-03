@@ -13,6 +13,12 @@ authors:
     email: iroro@alumni.cmu.edu
     affiliation: Niger-Volta Language Technologies Institute
     orcid: 'https://orcid.org/0000-0002-3030-2312'
+  - given-names: Timilehin
+    family-names: Fasubaa
+    affiliation: Niger-Volta Language Technologies Institute
+  - given-names: Olamilekan
+    family-names: Wahab
+    affiliation: Niger-Volta Language Technologies Institute
 repository-code: 'https://github.com/Niger-Volta-LTI/yoruba-text'
 keywords:
   - african languages
